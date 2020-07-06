@@ -1,0 +1,118 @@
+<head>  
+    
+    <link href='https://fonts.googleapis.com/css?family=Lora' type="text/css" rel='stylesheet'> 
+    <link  type="text/css" href='bootstrap.css' rel='stylesheet'> 
+    <link rel="stylesheet" type="text/css" href="style.css">
+  
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <div id="title" class="page-header">
+                    <h2>Aflatoxin Risk Prediction   <small>  an ASAP data visualization</small></h2>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-xs-4 col-md-4">
+                <div class="form-group" id="fact">
+                    <label for="dimensions" class="col-form-label">Factor
+                             </label>
+                    <select class="form-control" id="dimensions"></select>
+                </div>
+            </div>
+          <div class="col-xs-4 col-md-4">
+                <div class="form-group">
+                    <label for="region" class="col-form-label">Region </label>
+                    <select class="form-control" id="region"></select>
+                </div>
+            </div>
+            <div class="col-xs-4 col-md-4">
+                <div class="form-group">
+                    <label for="level" class="col-form-label">Level </label>
+                    <select class="form-control" id="level"></select>
+                </div>
+            </div>
+          
+        </div>
+        <div class="row" id="canvas">
+            <div class="col-md-8 col-xs-8">
+                <div class="scaling-svg-container" id="map">
+                        
+                    <svg></svg>
+                    
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-md-8"><div id="title">
+                        <br><br>
+                        Data provided by ASAP - Anomaly Hotspots of Agricultural Production<bR>
+                            <a href="https://mars.jrc.ec.europa.eu/asap/about.php"><small>mars.jrc.ec.europa.eu/asap/</a><br><br>
+                      
+                          
+                        </small>
+                        <br><br><br>
+
+                    </div></div></div>
+            </div> 
+            <div class="col-md-4 col-xs-4">
+
+
+                <div class="row" id="textDescription" style="height:20px;">
+                    <h3></h3>
+                    <p></p>
+                </div>
+                <div>
+                        <svg id="my_dataviz4" class="row" height=120 width=500></svg>
+                                  </div>
+                <div class="row" id="chart3" >
+                    </div>
+                   
+                <div class="row" id="chart2"0>
+                        </div>
+                        <div>
+                <!––change the height here to move the loading height of the description?-->
+                    <svg id="my_dataviz3" class="row" height=100 width=550></svg>
+                              </div>
+                            
+                             
+            </div>
+
+           
+
+            <div class="col-md-3 col-xs-3">
+                    <div id="text2" style="height:6vw;">
+                        <h3>Farmer Decision-Making</h3>
+                        <p>what to plant <br>
+                                what other inputs to use <br>
+                                how to irrigate <br>
+                                when to plant<br>
+                                where to plant<br>
+                                how to plant<br>
+                                when to harvest<br>
+                                how to dry<br>
+                                how to store<br>
+                                where to sell<br>
+                                when to sell<br>
+                                what to sell<br>
+                                who to sell to<br>
+                                how to allocate crops<br>
+                                </p>
+                    </div>
+                </div>
+        </div>
+        
+      <div class="row" id="my_dataviz"></div>
+    </div>
+
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://unpkg.com/d3-marcon/build/d3-marcon.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.1/spin.min.js"></script>
+ 
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.11.0/d3-legend.js"></script>
+    <script src=" https://d3js.org/d3.v4.min.js"></script>  
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="script2.js"></script>

@@ -1,0 +1,2466 @@
+asap1_id,Region,Rain,Drought,Country,Continent,name1_shr,km2_tot,km2_crop,km2_range,aezmedian
+1,Madre de Dios,0.0,0.0,Peru,South America,Madre de Dios,84001.0,0.0,174.0,
+2,Moquegua,7.0,4.0,Peru,South America,Moquegua,15752.0,213.0,1020.0,
+3,Notio Aigaio,12.0,6.0,Greece,Europe,Notio Aigaio,2837.0,841.0,850.0,
+4,Quinara,0.0,0.0,Guinea-Bissau,Africa,Quinara,2573.0,89.0,0.0,313.0
+5,Nakuru,12.0,6.0,Kenya,Africa,Nakuru,7474.0,3634.0,2456.0,323.0
+6,Northern,0.0,0.0,Sudan,Africa,Northern,363339.0,1011.0,268.0,311.0
+7,Ostgronland,0.0,0.0,Greenland,North America,Ostgronland,1038062.0,0.0,0.0,
+8,Azuay,18.0,0.0,Ecuador,South America,Azuay,8324.0,1315.0,3787.0,
+9,Taninthayi,39.0,0.0,Myanmar,Asia,Taninthayi,39035.0,1756.0,78.0,
+10,Bolivar,16.0,0.0,Ecuador,South America,Bolivar,3944.0,578.0,1097.0,
+11,Canar,12.0,0.0,Ecuador,South America,Canar,3146.0,738.0,1143.0,
+12,Hukusima,23.0,0.0,Japan,Asia,Hukusima,13811.0,2569.0,63.0,
+13,Guelma,9.0,6.0,Algeria,Africa,Guelma,3686.0,2163.0,2356.0,213.0
+14,Rondonia,7.0,0.0,Brazil,South America,Rondonia,237831.0,24324.0,14246.0,
+16,Mila,5.0,8.0,Algeria,Africa,Mila,3505.0,1626.0,2328.0,223.0
+17,Magallanes,0.0,0.0,Chile,South America,Magallanes,120819.0,0.0,31338.0,
+18,Skikda,5.0,9.0,Algeria,Africa,Skikda,4120.0,1639.0,2663.0,213.0
+19,Zanjan,20.0,6.0,Iran,Asia,Zanjan,21833.0,3545.0,6452.0,
+20,Nimba,14.0,2.0,Liberia,Africa,Nimba,11518.0,744.0,4066.0,314.0
+21,Zambezi,10.0,19.0,Namibia,Africa,Caprivi,14493.0,324.0,7434.0,312.0
+22,Tamaulipas,13.0,9.0,Mexico,North America,Tamaulipas,78807.0,45845.0,8392.0,
+23,Bong,11.0,1.0,Liberia,Africa,Bong,8652.0,659.0,4794.0,314.0
+24,Tubruq (tobruk),2.0,4.0,Libya,Africa,Tubruq (tobruk),79770.0,947.0,3.0,211.0
+25,Sindh,2.0,0.0,Pakistan,Asia,Sindh,134657.0,51612.0,1187.0,
+26,Djibouti,0.0,0.0,Djibouti,Africa,Djibouti,21663.0,0.0,11889.0,311.0
+27,Paktika,12.0,10.0,Afghanistan,Asia,Paktika,19078.0,1529.0,16626.0,
+28,Setif,5.0,10.0,Algeria,Africa,Setif,6665.0,2354.0,5058.0,223.0
+29,Hukuoka,12.0,0.0,Japan,Asia,Hukuoka,4893.0,2066.0,220.0,
+30,Distrito Capital,0.0,0.0,Venezuela,South America,Distrito Capital,327.0,0.0,160.0,
+31,Banadir,0.0,0.0,Somalia,Africa,Banadir,213.0,24.0,125.0,311.0
+32,Southern,11.0,0.0,Sri Lanka,Asia,Southern,5550.0,2338.0,11.0,
+33,Georgia,6.0,0.0,USA,North America,Georgia,151459.0,15549.0,1493.0,
+34,Orxon,0.0,0.0,Mongolia,Asia,Orxon,841.0,5.0,577.0,
+35,Rivercess,0.0,0.0,Liberia,Africa,Rivercess,5556.0,4.0,302.0,314.0
+36,Portugal,15.0,25.0,Portugal,Europe,Portugal,91283.0,41260.0,7544.0,
+37,California,6.0,0.0,USA,North America,California,408989.0,31645.0,97960.0,
+38,Siaya,13.0,3.0,Kenya,Africa,Siaya,2440.0,2194.0,106.0,324.0
+40,Loja,2.0,0.0,Ecuador,South America,Loja,10998.0,2221.0,986.0,
+41,Keiyo-Marakwet,12.0,0.0,Kenya,Africa,Keiyo-Marakwet,3015.0,935.0,978.0,324.0
+42,Umm AL Quwain,0.0,0.0,U.A.E.,Asia,Umm AL Quwain,689.0,5.0,0.0,
+43,Faroe Islands,0.0,0.0,Faroe Islands,Europe,Faroe Islands,662.0,0.0,0.0,
+45,Paktya,32.0,6.0,Afghanistan,Asia,Paktya,5281.0,745.0,4645.0,
+46,Eastern,9.0,0.0,Ghana,Africa,Eastern,18980.0,12211.0,284.0,314.0
+47,Amazonas,15.0,0.0,Brazil,South America,Amazonas,1569843.0,1524.0,4318.0,
+48,Binh Phuoc,16.0,0.0,Viet Nam,Asia,Binh Phuoc,6877.0,5479.0,95.0,
+49,Zamora Chinchipe,0.0,0.0,Ecuador,South America,Zamora Chinchipe,10868.0,85.0,501.0,
+50,Bahia,13.0,13.0,Brazil,South America,Bahia,564002.0,87361.0,176813.0,
+51,Chagang-do,12.0,0.0,North Korea,Asia,Chagang-do,16725.0,503.0,140.0,
+52,Bihar,20.0,2.0,India,Asia,Bihar,94281.0,89980.0,2743.0,
+53,Cortes,15.0,0.0,Honduras,North America,Cortes,3934.0,427.0,487.0,
+54,Relizane,13.0,8.0,Algeria,Africa,Relizane,4873.0,2512.0,3034.0,212.0
+55,Ionioi Nisoi,22.0,0.0,Greece,Europe,Ionioi Nisoi,2095.0,1043.0,430.0,
+56,Far West,21.0,2.0,Nepal,Asia,Far West,19712.0,3684.0,2028.0,
+57,South Australia,5.0,13.0,Australia,Oceania,South Australia,983955.0,51169.0,78589.0,
+58,Tlemcen,11.0,8.0,Algeria,Africa,Tlemcen,9001.0,3536.0,3566.0,222.0
+59,Apurímac,6.0,0.0,Peru,South America,ApurÃ­mac,21102.0,1290.0,8892.0,
+60,Androy,20.0,21.0,Madagascar,Africa,Androy,18970.0,3358.0,13198.0,314.0
+61,Terengganu,6.0,0.0,Malaysia,Asia,Terengganu,12972.0,3329.0,0.0,
+62,La Rioja,14.0,4.0,Spain,Europe,La Rioja,5048.0,1848.0,985.0,
+63,Lebanon,6.0,0.0,Lebanon,Asia,Lebanon,10136.0,3103.0,2241.0,
+65,Cuvette Ovest,0.0,0.0,Congo,Africa,Cuvette Ovest,24608.0,159.0,3132.0,314.0
+66,Tocantins,6.0,0.0,Brazil,South America,Tocantins,277296.0,11545.0,45005.0,
+67,Sicilia,7.0,0.0,Italy,Europe,Sicilia,25666.0,17288.0,5395.0,
+69,Trentino,7.0,0.0,Italy,Europe,Trentino,13670.0,1130.0,6076.0,
+71,Khenchela,5.0,3.0,Algeria,Africa,Khenchela,9574.0,2900.0,3300.0,222.0
+72,Nana-Gribizi,0.0,0.0,Central Africa,Africa,Nana-Gribizi,19668.0,142.0,14534.0,313.0
+73,N. De Santander,17.0,0.0,Colombia,South America,N. De Santander,22807.0,749.0,3847.0,
+74,Putumayo,0.0,0.0,Colombia,South America,Putumayo,23809.0,435.0,320.0,
+75,Zanzan,12.0,0.0,Côte d'Ivoire,Africa,Zanzan,38138.0,7275.0,13890.0,313.0
+76,Bas Sassandra,14.0,0.0,Côte d'Ivoire,Africa,Bas Sassandra,28041.0,4403.0,155.0,314.0
+77,Ouham Pendé,6.0,0.0,Central Africa,Africa,Ouham PendÃ©,31725.0,1302.0,17793.0,313.0
+78,Meta,11.0,0.0,Colombia,South America,Meta,85326.0,1244.0,37240.0,
+79,Narino,15.0,0.0,Colombia,South America,Narino,31676.0,4281.0,3551.0,
+81,,,,,,Hungary,93119.0,54770.0,29079.0,
+82,,,,,,Unit unavailable,11234.0,0.0,1617.0,
+83,Kuril islands,0.0,0.0,Kuril islands,Asia,Kuril islands,4899.0,0.0,0.0,
+84,Kuwait,0.0,0.0,Kuwait,Asia,Kuwait,17235.0,65.0,0.0,
+85,Umbria,19.0,0.0,Italy,Europe,Umbria,8450.0,4215.0,1135.0,
+86,Vaupes,7.0,0.0,Colombia,South America,Vaupes,53454.0,5.0,29.0,
+87,Sucumbios,2.0,0.0,Ecuador,South America,Sucumbios,17992.0,1863.0,133.0,
+88,Cuvette,0.0,0.0,Congo,Africa,Cuvette,44652.0,186.0,5367.0,314.0
+89,Latvia,3.0,3.0,Latvia,Europe,Latvia,64563.0,19529.0,24529.0,
+90,Republika Srpska,3.0,0.0,Bosnia Herzeg.,Europe,Republika Srpska,24777.0,8366.0,6287.0,
+91,Central,12.0,22.0,Botswana,Africa,Central,146717.0,4481.0,79843.0,311.0
+92,Plateaux,0.0,0.0,Congo,Africa,Plateaux,39728.0,793.0,22273.0,314.0
+93,Oum El Bouaghi,4.0,6.0,Algeria,Africa,Oum El Bouaghi,6261.0,4358.0,2156.0,223.0
+94,Sangha,0.0,0.0,Congo,Africa,Sangha,57694.0,110.0,4.0,314.0
+95,Himachal Pradesh,29.0,0.0,India,Asia,Himachal Pradesh,54599.0,14886.0,21697.0,
+96,Lombardia,12.0,1.0,Italy,Europe,Lombardia,23932.0,11001.0,3945.0,
+97,Hukui,16.0,0.0,Japan,Asia,Hukui,4157.0,644.0,37.0,
+98,Kalimantan S.,21.0,0.0,Indonesia,Asia,Kalimantan S.,37283.0,11292.0,4.0,
+99,Puglia,16.0,0.0,Italy,Europe,Puglia,19284.0,15583.0,2099.0,
+100,,,,,,Bandundu,297976.0,4155.0,2808.0,314.0
+101,Logar,18.0,8.0,Afghanistan,Asia,Logar,4398.0,730.0,3505.0,
+102,,,,,,Bas-Congo,53391.0,1099.0,169.0,313.0
+103,Mid West,37.0,0.0,Nepal,Asia,Mid West,42581.0,4930.0,6174.0,
+106,Upper West,7.0,1.0,Ghana,Africa,Upper West,18745.0,3584.0,1381.0,313.0
+107,Eastern Finland,12.0,1.0,Finland,Europe,Eastern Finland,60687.0,3664.0,6.0,
+108,Sardegna,19.0,1.0,Italy,Europe,Sardegna,23981.0,10675.0,2954.0,
+109,Gifu,16.0,0.0,Japan,Asia,Gifu,10600.0,1158.0,26.0,
+110,Gunma,17.0,0.0,Japan,Asia,Gunma,6364.0,1572.0,76.0,
+111,Hirosima,16.0,0.0,Japan,Asia,Hirosima,8082.0,855.0,101.0,
+113,West,21.0,4.0,Nepal,Asia,West,29418.0,4328.0,4020.0,
+114,Auckland,4.0,0.0,New Zealand,Oceania,Auckland,5153.0,723.0,1052.0,
+115,Kalimantan T.,10.0,0.0,Indonesia,Asia,Kalimantan T.,153669.0,16566.0,69.0,
+116,Nangarhar,18.0,2.0,Afghanistan,Asia,Nangarhar,7369.0,1236.0,3957.0,
+117,Sabah,6.0,0.0,Malaysia,Asia,Sabah,73047.0,10822.0,10.0,
+118,,,,,,Unit unavailable,17983.0,0.0,507.0,
+119,Meknès,14.0,4.0,Morocco,Africa,MeknÃ¨s,60112.0,5447.0,27799.0,221.0
+120,Oriental,14.0,10.0,Morocco,Africa,Oriental,59821.0,4648.0,32149.0,221.0
+121,Cabo Delgado,2.0,0.0,Mozambique,Africa,Cabo Delgado,77868.0,1970.0,6996.0,313.0
+122,Gaza,11.0,8.0,Mozambique,Africa,Gaza,75487.0,6271.0,7637.0,312.0
+123,Inhambane,8.0,0.0,Mozambique,Africa,Inhambane,68651.0,3174.0,6760.0,313.0
+124,Cajamarca,15.0,0.0,Peru,South America,Cajamarca,32891.0,1987.0,8604.0,
+125,Manica,8.0,3.0,Mozambique,Africa,Manica,62481.0,3548.0,6479.0,313.0
+126,Huancavelica,9.0,0.0,Peru,South America,Huancavelica,22083.0,1616.0,5887.0,
+127,Nampula,12.0,0.0,Mozambique,Africa,Nampula,78218.0,5054.0,8795.0,313.0
+128,Hyoogo,12.0,0.0,Japan,Asia,Hyoogo,8341.0,2083.0,224.0,
+129,Niassa,8.0,1.0,Mozambique,Africa,Niassa,122124.0,6472.0,14317.0,312.0
+130,Zambezia,10.0,0.0,Mozambique,Africa,Zambezia,103276.0,16483.0,15440.0,313.0
+131,Sofala,6.0,4.0,Mozambique,Africa,Sofala,67997.0,4914.0,15813.0,313.0
+132,Khatlon,9.0,2.0,Tajikistan,Asia,Khatlon,22880.0,11109.0,12899.0,
+133,Tete,9.0,3.0,Mozambique,Africa,Tete,100775.0,7448.0,6926.0,312.0
+134,Mombasa,0.0,0.0,Kenya,Africa,Mombasa,299.0,49.0,0.0,313.0
+135,Badakhshoni Kuni,0.0,0.0,Tajikistan,Asia,Badakhshoni Kuni,62562.0,168.0,43490.0,
+136,Kyooto,18.0,0.0,Japan,Asia,Kyooto,4720.0,630.0,61.0,
+137,Arequipa,8.0,0.0,Peru,South America,Arequipa,63317.0,1368.0,6241.0,
+138,Ica,0.0,0.0,Peru,South America,Ica,21317.0,1372.0,941.0,
+139,Ayacucho,7.0,0.0,Peru,South America,Ayacucho,43556.0,2186.0,11167.0,
+140,Okinawa,8.0,0.0,Japan,Asia,Okinawa,1717.0,503.0,67.0,
+141,Cusco,15.0,0.0,Peru,South America,Cusco,72243.0,1582.0,22613.0,
+142,Huánuco,21.0,0.0,Peru,South America,HuÃ¡nuco,37082.0,2344.0,10675.0,
+143,Kumamoto,12.0,0.0,Japan,Asia,Kumamoto,7274.0,1457.0,54.0,
+144,Hokkaidoo,9.0,0.0,Japan,Asia,Hokkaidoo,78231.0,13469.0,1151.0,
+146,Miyagi,26.0,0.0,Japan,Asia,Miyagi,7302.0,2334.0,113.0,
+147,Miyazaki,14.0,0.0,Japan,Asia,Miyazaki,7850.0,872.0,29.0,
+148,Bremen,0.0,0.0,Germany,Europe,Bremen,313.0,17.0,169.0,
+149,Nagasaki,16.0,0.0,Japan,Asia,Nagasaki,3355.0,614.0,14.0,
+150,Okayama,18.0,0.0,Japan,Asia,Okayama,7058.0,1231.0,84.0,
+151,Junín,9.0,0.0,Peru,South America,JunÃ­n,44630.0,1247.0,9189.0,
+152,Lima,0.0,0.0,Peru,South America,Lima,35514.0,1931.0,5565.0,
+153,La Libertad,2.0,3.0,Peru,South America,La Libertad,25296.0,3994.0,7170.0,
+154,Lambayeque,0.0,0.0,Peru,South America,Lambayeque,14162.0,1958.0,2513.0,
+155,Moskva,0.0,0.0,Russian Fed.,Asia,Moskva,990.0,7.0,72.0,
+156,Khakasiya Rep.,9.0,8.0,Russian Fed.,Asia,Khakasiya Rep.,62545.0,3618.0,20280.0,
+158,Sogd,11.0,6.0,Tajikistan,Asia,Sogd,26203.0,3198.0,5532.0,
+160,Tadzhikistan T.,6.0,3.0,Tajikistan,Asia,Tadzhikistan T.,30180.0,4997.0,20708.0,
+161,Samut Prakarn,22.0,0.0,Thailand,Asia,Samut Prakarn,953.0,389.0,0.0,
+163,Aaland,11.0,8.0,Finland,Europe,Aaland,751.0,146.0,6.0,
+164,Binh Duong,7.0,0.0,Viet Nam,Asia,Binh Duong,2694.0,2524.0,28.0,
+165,Bioko Norte,0.0,0.0,Equat. Guinea,Africa,Bioko Norte,613.0,0.0,0.0,314.0
+166,Kilimanjaro,19.0,8.0,Tanzania,Africa,Kilimanjaro,13185.0,2183.0,1576.0,312.0
+168,Yukon,0.0,0.0,Canada,North America,Yukon,483400.0,0.0,176086.0,
+169,Haute-Kotto,0.0,0.0,Central Africa,Africa,Haute-Kotto,85903.0,418.0,14709.0,313.0
+170,Mbomou,0.0,0.0,Central Africa,Africa,Mbomou,59975.0,23.0,7606.0,313.0
+171,Ouaka,9.0,0.0,Central Africa,Africa,Ouaka,49096.0,841.0,27036.0,313.0
+172,Ouham,7.0,0.0,Central Africa,Africa,Ouham,52775.0,1841.0,35811.0,313.0
+173,A Dakhliya,0.0,0.0,Oman,Asia,A Dakhliya,31514.0,3.0,0.0,
+174,Maule,3.0,0.0,Chile,South America,Maule,30293.0,5866.0,6388.0,
+175,Tbilisi,0.0,0.0,Georgia,Europe,Tbilisi,215.0,4.0,29.0,
+176,Gorontalo,11.0,0.0,Indonesia,Asia,Gorontalo,12020.0,2251.0,4.0,
+177,Metropolitana,10.0,0.0,Chile,South America,Metropolitana,15474.0,1828.0,2342.0,
+178,Binh Thuan,14.0,1.0,Viet Nam,Asia,Binh Thuan,7943.0,3740.0,191.0,
+180,Takhar,9.0,1.0,Afghanistan,Asia,Takhar,12326.0,5534.0,7364.0,
+181,Dki Jakarta,0.0,0.0,Indonesia,Asia,Dki Jakarta,643.0,40.0,0.0,
+182,Chaouia,3.0,8.0,Morocco,Africa,Chaouia,16545.0,12247.0,2003.0,212.0
+183,Bernardo Higgins,4.0,3.0,Chile,South America,Bernardo Higgins,16279.0,3623.0,2767.0,
+184,Kiribati,0.0,0.0,Kiribati,Oceania,Kiribati,540.0,0.0,0.0,
+186,La Habana,6.0,0.0,Cuba,North America,La Habana,822.0,465.0,91.0,
+188,Callao,0.0,0.0,Peru,South America,Callao,480.0,15.0,8.0,
+191,Ariana,4.0,9.0,Tunisia,Africa,Ariana,450.0,251.0,69.0,213.0
+192,Limousin,14.0,0.0,France,Europe,Limousin,17035.0,4136.0,14329.0,
+193,Kharkivs'ka,20.0,17.0,Ukraine,Europe,Kharkivs'ka,31819.0,28052.0,58.0,
+194,Barbados,0.0,0.0,Barbados,North America,Barbados,433.0,0.0,86.0,
+195,Kolda,4.0,0.0,Senegal,Africa,Kolda,13929.0,3396.0,305.0,312.0
+196,Mie,15.0,0.0,Japan,Asia,Mie,5900.0,1321.0,76.0,
+197,Kakamega,27.0,0.0,Kenya,Africa,Kakamega,3004.0,2716.0,53.0,324.0
+198,Akita,13.0,0.0,Japan,Asia,Akita,11568.0,1722.0,56.0,
+199,Ha Nam,19.0,1.0,Viet Nam,Asia,Ha Nam,863.0,700.0,0.0,
+200,Pusan,0.0,0.0,South Korea,Asia,Pusan,285.0,5.0,6.0,
+202,Mjini Magharibi,0.0,0.0,Tanzania,Africa,Mjini Magharibi,233.0,2.0,44.0,313.0
+203,Kusini Pemba,0.0,0.0,Tanzania,Africa,Kusini Pemba,454.0,1.0,0.0,313.0
+204,Prachuap K.,14.0,1.0,Thailand,Asia,Prachuap K.,6333.0,3179.0,2.0,
+206,Alagoas,4.0,3.0,Brazil,South America,Alagoas,27883.0,12686.0,13072.0,
+207,Van,24.0,8.0,Turkey,Asia,Van,20898.0,5070.0,7740.0,
+208,Fatick,1.0,8.0,Senegal,Africa,Fatick,6072.0,4301.0,722.0,312.0
+209,Hunan Sheng,14.0,0.0,China,Asia,Hunan Sheng,210925.0,44001.0,9534.0,
+210,Erzurum,37.0,6.0,Turkey,Asia,Erzurum,24845.0,6816.0,15832.0,
+211,Archipelagos,0.0,0.0,Eritrea,Africa,Archipelagos,634.0,0.0,7.0,
+213,Wien,0.0,0.0,Austria,Europe,Wien,419.0,61.0,7.0,
+214,Tunis,0.0,0.0,Tunisia,Africa,Tunis,290.0,77.0,135.0,213.0
+216,Mayotte,0.0,0.0,Mayotte,Africa,Mayotte,362.0,0.0,0.0,313.0
+217,Niue,0.0,0.0,Niue,Oceania,Niue,263.0,0.0,0.0,
+218,Netherlands A.,0.0,0.0,Nether. Antilles,South America,Netherlands A.,704.0,0.0,584.0,
+219,Kaskazini Pemba,0.0,0.0,Tanzania,Africa,Kaskazini Pemba,495.0,0.0,1.0,313.0
+220,Dominica,0.0,0.0,Dominica,North America,Dominica,751.0,0.0,6.0,
+221,Taejon,9.0,0.0,South Korea,Asia,Taejon,418.0,65.0,8.0,
+222,Alger,12.0,17.0,Algeria,Africa,Alger,755.0,402.0,262.0,213.0
+224,Ben Arous,7.0,6.0,Tunisia,Africa,Ben Arous,662.0,394.0,242.0,213.0
+225,Biombo,0.0,0.0,Guinea-Bissau,Africa,Biombo,781.0,106.0,0.0,312.0
+227,Kaskazini Unguja,0.0,0.0,Tanzania,Africa,Kaskazini Unguja,446.0,25.0,0.0,313.0
+228,Dien Bien,24.0,0.0,Viet Nam,Asia,Dien Bien,9166.0,799.0,177.0,
+229,Kusini Unguja,0.0,0.0,Tanzania,Africa,Kusini Unguja,884.0,8.0,169.0,313.0
+230,Lam Dong,18.0,0.0,Viet Nam,Asia,Lam Dong,9766.0,2756.0,18.0,
+232,Taegu,12.0,0.0,South Korea,Asia,Taegu,471.0,7.0,1.0,
+234,Lamu,10.0,7.0,Kenya,Africa,Lamu,6007.0,224.0,831.0,312.0
+235,Vihiga,14.0,0.0,Kenya,Africa,Vihiga,561.0,498.0,29.0,324.0
+236,Canindeyu,27.0,3.0,Paraguay,South America,Canindeyu,14917.0,8363.0,367.0,
+238,Inchon,0.0,0.0,South Korea,Asia,Inchon,201.0,21.0,28.0,
+239,Nouakchott,0.0,0.0,Mauritania,Africa,Nouakchott,266.0,0.0,81.0,311.0
+240,Zachodnio,9.0,3.0,Poland,Europe,Zachodnio,22409.0,9561.0,7015.0,
+241,Almaty City area,0.0,0.0,Kazakhstan,Asia,Almaty City area,282.0,25.0,89.0,
+242,,,,,,Unit unavailable,980.0,597.0,169.0,
+243,Vargas,0.0,0.0,Venezuela,South America,Vargas,970.0,2.0,86.0,
+247,Nyamira,21.0,2.0,Kenya,Africa,Nyamira,645.0,603.0,11.0,324.0
+248,Zona No Del.,9.0,7.0,Ecuador,South America,Zona No Del.,483.0,148.0,84.0,
+249,Pool,15.0,0.0,Congo,Africa,Pool,34894.0,2906.0,20647.0,314.0
+251,Florida,22.0,0.0,Uruguay,South America,Florida,10387.0,1917.0,9856.0,
+252,Artigas,10.0,0.0,Uruguay,South America,Artigas,11665.0,1344.0,10725.0,
+253,Da Nang City,20.0,2.0,Viet Nam,Asia,Da Nang City,968.0,211.0,6.0,
+254,Cundinamarca,16.0,0.0,Colombia,South America,Cundinamarca,24449.0,5714.0,6195.0,
+255,Amanat Al Asimah,0.0,4.0,Yemen,Asia,Amanat Al Asimah,390.0,56.0,0.0,
+256,Phnom Penh,8.0,4.0,Cambodia,Asia,Phnom Penh,376.0,187.0,0.0,
+257,West Area,0.0,0.0,Sierra Leone,Africa,West Area,677.0,81.0,56.0,313.0
+258,Daman and Diu,7.0,5.0,India,Asia,Daman and Diu,516.0,475.0,40.0,
+259,Montagnes,11.0,0.0,Côte d'Ivoire,Africa,Montagnes,30450.0,4877.0,614.0,314.0
+261,Singburi,17.0,3.0,Thailand,Asia,Singburi,828.0,818.0,0.0,
+262,Netherlands,4.0,0.0,Netherlands,Europe,Netherlands,34794.0,13893.0,16102.0,
+263,Damietta,0.0,0.0,Egypt,Africa,Damietta,928.0,550.0,0.0,211.0
+264,Cataluña,5.0,0.0,Spain,Europe,CataluÃ±a,32045.0,10546.0,3543.0,
+265,Qatar,0.0,0.0,Qatar,Asia,Qatar,11538.0,63.0,0.0,
+266,Balkh,9.0,7.0,Afghanistan,Asia,Balkh,16765.0,5936.0,6019.0,
+267,Wardak,17.0,14.0,Afghanistan,Asia,Wardak,10587.0,700.0,10135.0,
+268,Capital Region,0.0,0.0,Philippines,Asia,Capital Region,713.0,31.0,0.0,
+269,Bamyan,11.0,1.0,Afghanistan,Asia,Bamyan,17894.0,386.0,17214.0,
+270,Blida,15.0,2.0,Algeria,Africa,Blida,1482.0,556.0,802.0,213.0
+271,Dakar,4.0,11.0,Senegal,Africa,Dakar,547.0,147.0,191.0,312.0
+272,Berlin,0.0,0.0,Germany,Europe,Berlin,891.0,28.0,81.0,
+273,Farah,2.0,3.0,Afghanistan,Asia,Farah,49112.0,2256.0,10313.0,
+274,Faryab,18.0,0.0,Afghanistan,Asia,Faryab,20666.0,5681.0,13558.0,
+275,Bordj Bou Arrer,7.0,3.0,Algeria,Africa,Bordj Bou Arrer,3936.0,656.0,3670.0,223.0
+276,Malta,0.0,0.0,Malta,Europe,Malta,247.0,122.0,0.0,
+277,Tucuman,9.0,0.0,Argentina,South America,Tucuman,22921.0,9064.0,1726.0,
+278,Ghazni,9.0,11.0,Afghanistan,Asia,Ghazni,21678.0,3128.0,18707.0,
+280,Ghor,17.0,1.0,Afghanistan,Asia,Ghor,37027.0,822.0,36443.0,
+281,Kandahar,1.0,0.0,Afghanistan,Asia,Kandahar,54128.0,4610.0,13819.0,
+282,Hirat,1.0,8.0,Afghanistan,Asia,Hirat,54400.0,8667.0,25227.0,
+283,Jawzjan,9.0,12.0,Afghanistan,Asia,Jawzjan,11107.0,3506.0,2016.0,
+284,Kabul,19.0,7.0,Afghanistan,Asia,Kabul,4659.0,990.0,3765.0,
+285,Oslo,0.0,0.0,Norway,Europe,Oslo,442.0,13.0,0.0,
+286,Samangan,7.0,2.0,Afghanistan,Asia,Samangan,12918.0,2989.0,11516.0,
+287,Sar-e-Pul,8.0,4.0,Afghanistan,Asia,Sar-e-Pul,15254.0,3698.0,13388.0,
+288,Zabul,6.0,0.0,Afghanistan,Asia,Zabul,17349.0,1211.0,15244.0,
+289,Adrar,0.0,0.0,Algeria,Africa,Adrar,429931.0,146.0,455.0,211.0
+290,Ain-Temouchent,11.0,4.0,Algeria,Africa,Ain-Temouchent,2365.0,2018.0,403.0,212.0
+291,Conakry,0.0,0.0,Guinea,Africa,Conakry,294.0,28.0,0.0,313.0
+292,Bishkek,0.0,0.0,Kyrgyzstan,Asia,Bishkek,216.0,56.0,19.0,
+293,Saint Vincent,0.0,0.0,Saint Vincent,North America,Saint Vincent,345.0,0.0,16.0,
+294,Bechar,0.0,0.0,Algeria,Africa,Bechar,160427.0,97.0,1605.0,211.0
+295,Siliana,7.0,9.0,Tunisia,Africa,Siliana,4546.0,2890.0,2745.0,213.0
+296,Tonga,0.0,0.0,Tonga,Oceania,Tonga,264.0,0.0,0.0,
+297,Bejaia,11.0,6.0,Algeria,Africa,Bejaia,3204.0,269.0,2992.0,213.0
+298,Kang-won-do,8.0,0.0,South Korea,Asia,Kang-won-do,18884.0,726.0,77.0,
+299,Biskra,16.0,0.0,Algeria,Africa,Biskra,21504.0,1700.0,13641.0,211.0
+300,Seoul,0.0,0.0,South Korea,Asia,Seoul,580.0,10.0,19.0,
+301,Kuala Lumpur,0.0,0.0,Malaysia,Asia,Kuala Lumpur,242.0,44.0,0.0,
+302,Andorra,0.0,0.0,Andorra,Europe,Andorra,475.0,0.0,49.0,
+303,El Bayadh,0.0,0.0,Algeria,Africa,El Bayadh,71697.0,116.0,6717.0,211.0
+304,Nunavut,0.0,0.0,Canada,North America,Nunavut,2083364.0,0.0,733362.0,
+305,Hamburg,0.0,0.0,Germany,Europe,Hamburg,728.0,91.0,273.0,
+306,Medea,13.0,9.0,Algeria,Africa,Medea,8720.0,2908.0,7185.0,213.0
+307,Cayman Islands,0.0,0.0,Cayman Islands,North America,Cayman Islands,200.0,0.0,46.0,
+308,Niamey,0.0,0.0,Niger,Africa,Niamey,248.0,49.0,109.0,312.0
+309,Saint Pierre,0.0,0.0,Saint Pierre,North America,Saint Pierre,206.0,0.0,0.0,
+310,Grenada,0.0,0.0,Grenada,North America,Grenada,313.0,0.0,19.0,
+311,Gaza Strip,0.0,0.0,Gaza Strip,Asia,Gaza Strip,362.0,3.0,6.0,212.0
+312,Tamanrasset,0.0,0.0,Algeria,Africa,Tamanrasset,603148.0,35.0,284.0,311.0
+313,Bengo,7.0,7.0,Angola,Africa,Bengo,38547.0,593.0,4150.0,312.0
+314,Benguela,5.0,3.0,Angola,Africa,Benguela,39333.0,2107.0,18256.0,312.0
+315,Bie,8.0,0.0,Angola,Africa,Bie,72134.0,6678.0,7520.0,322.0
+316,Cuanza Sul,5.0,4.0,Angola,Africa,Cuanza Sul,55185.0,3416.0,5087.0,322.0
+317,Sousse,14.0,5.0,Tunisia,Africa,Sousse,2636.0,1735.0,948.0,212.0
+318,Micronesia,0.0,0.0,Micronesia,Oceania,Micronesia,348.0,0.0,0.0,
+319,Bulawayo,0.0,0.0,Zimbabwe,Africa,Bulawayo,461.0,72.0,211.0,322.0
+320,Aden,0.0,0.0,Yemen,Asia,Aden,748.0,116.0,0.0,
+321,Bahrain,0.0,0.0,Bahrain,Asia,Bahrain,574.0,0.0,0.0,
+322,Uige,0.0,0.0,Angola,Africa,Uige,62122.0,104.0,2274.0,313.0
+323,Cuando Cubango,7.0,0.0,Angola,Africa,Cuando Cubango,199283.0,2087.0,115913.0,312.0
+324,Wanica,0.0,0.0,Suriname,South America,Wanica,424.0,132.0,0.0,
+325,Tokusima,19.0,0.0,Japan,Asia,Tokusima,4158.0,543.0,36.0,
+326,Sums'ka,8.0,7.0,Ukraine,Europe,Sums'ka,24195.0,19400.0,115.0,
+327,Tuyen Quang,11.0,0.0,Viet Nam,Asia,Tuyen Quang,5870.0,877.0,33.0,
+328,Phongsali,31.0,0.0,Laos,Asia,Phongsali,15796.0,473.0,3127.0,
+329,Nueva Esparta,0.0,0.0,Venezuela,South America,Nueva Esparta,953.0,2.0,782.0,
+330,Nairobi,15.0,9.0,Kenya,Africa,Nairobi,696.0,107.0,290.0,323.0
+331,Malanje,5.0,0.0,Angola,Africa,Malanje,82245.0,1275.0,6286.0,313.0
+332,Heard Island,0.0,0.0,Heard Island,Oceania,Heard Island,410.0,0.0,0.0,
+333,Moxico,0.0,0.0,Angola,Africa,Moxico,199893.0,1204.0,26178.0,313.0
+334,Namibe,11.0,6.0,Angola,Africa,Namibe,57669.0,753.0,40889.0,312.0
+335,Zaire,0.0,0.0,Angola,Africa,Zaire,36063.0,85.0,3450.0,313.0
+337,Buenos Aires,7.0,0.0,Argentina,South America,Buenos Aires,305867.0,213859.0,10768.0,
+338,Cape Verde,0.0,0.0,Cape Verde,Africa,Cape Verde,3939.0,0.0,0.0,
+339,Catamarca,4.0,6.0,Argentina,South America,Catamarca,102348.0,2016.0,20388.0,
+340,Puerto Rico,15.0,0.0,Puerto Rico,North America,Puerto Rico,8702.0,1128.0,2428.0,
+341,Hong Kong,0.0,0.0,Hong Kong,Asia,Hong Kong,778.0,0.0,0.0,
+342,Chaco,18.0,4.0,Argentina,South America,Chaco,99861.0,13942.0,6749.0,
+343,Badghis,6.0,3.0,Afghanistan,Asia,Badghis,20607.0,3859.0,18096.0,
+344,Sao Tome and P.,0.0,0.0,Sao Tome and P.,Africa,Sao Tome and P.,849.0,0.0,0.0,314.0
+345,Jujuy,1.0,0.0,Argentina,South America,Jujuy,53377.0,2331.0,5781.0,
+346,Saint Lucia,0.0,0.0,Saint Lucia,North America,Saint Lucia,603.0,0.0,29.0,
+347,Antigua,0.0,0.0,Antigua,North America,Antigua,272.0,0.0,77.0,
+348,Palau,0.0,0.0,Palau,Oceania,Palau,359.0,0.0,0.0,
+349,Kingman Reef,0.0,0.0,Kingman Reef,Oceania,Kingman Reef,232.0,0.0,0.0,
+350,Virgin Islands,0.0,0.0,Virgin Islands,North America,Virgin Islands,217.0,0.0,138.0,
+351,Isle of Man,0.0,0.0,Isle of Man,Europe,Isle of Man,564.0,66.0,516.0,
+352,Guadeloupe,0.0,0.0,Guadeloupe,North America,Guadeloupe,1439.0,0.0,215.0,
+353,Talas,16.0,4.0,Kyrgyzstan,Asia,Talas,11427.0,1968.0,4369.0,
+354,Singapore,0.0,0.0,Singapore,Asia,Singapore,553.0,0.0,0.0,
+355,Cordoba,9.0,4.0,Argentina,South America,Cordoba,164840.0,110978.0,7277.0,
+356,Guam,0.0,0.0,Guam,North America,Guam,543.0,0.0,0.0,
+357,Parwan,21.0,4.0,Afghanistan,Asia,Parwan,5594.0,545.0,4810.0,
+358,Chubut,0.0,0.0,Argentina,South America,Chubut,223531.0,776.0,53246.0,
+359,Marche,9.0,2.0,Italy,Europe,Marche,9759.0,6147.0,1325.0,
+360,Yalova,33.0,2.0,Turkey,Asia,Yalova,840.0,251.0,34.0,
+361,Chiang Rai,17.0,0.0,Thailand,Asia,Chiang Rai,11544.0,5381.0,0.0,
+362,Grand Casablanca,4.0,8.0,Morocco,Africa,Grand Casablanca,879.0,591.0,65.0,212.0
+364,Corrientes,14.0,9.0,Argentina,South America,Corrientes,89384.0,5642.0,18163.0,
+365,Entre Rios,15.0,2.0,Argentina,South America,Entre Rios,77814.0,33643.0,15009.0,
+366,Formosa,24.0,6.0,Argentina,South America,Formosa,75472.0,2538.0,1741.0,
+367,La Rioja,0.0,0.0,Argentina,South America,La Rioja,90958.0,239.0,18760.0,
+368,Mendoza,7.0,1.0,Argentina,South America,Mendoza,149216.0,2794.0,50593.0,
+369,,,,,,Unit unavailable,680.0,17.0,6.0,
+370,Kohgiluyeh,12.0,0.0,Iran,Asia,Kohgiluyeh,15535.0,91.0,2673.0,
+371,Misiones,12.0,0.0,Argentina,South America,Misiones,30010.0,1068.0,270.0,
+372,San Luis,11.0,4.0,Argentina,South America,San Luis,75026.0,9547.0,10131.0,
+373,Neuquen,0.0,0.0,Argentina,South America,Neuquen,94074.0,674.0,22745.0,
+374,Santander,12.0,0.0,Colombia,South America,Santander,30284.0,3263.0,6725.0,
+375,Rio Negro,10.0,4.0,Argentina,South America,Rio Negro,203249.0,1686.0,67327.0,
+376,Jijel,5.0,0.0,Algeria,Africa,Jijel,2383.0,108.0,2138.0,213.0
+377,Salta,6.0,5.0,Argentina,South America,Salta,155034.0,14111.0,17265.0,
+379,San Juan,0.0,0.0,Argentina,South America,San Juan,88161.0,980.0,18529.0,
+380,Hung Yen,17.0,3.0,Viet Nam,Asia,Hung Yen,928.0,704.0,0.0,
+381,Tashkent city,0.0,0.0,Uzbekistan,Asia,Tashkent city,363.0,211.0,0.0,
+382,Zulia,23.0,3.0,Venezuela,South America,Zulia,43835.0,11653.0,12575.0,
+383,Basilicata,18.0,0.0,Italy,Europe,Basilicata,9975.0,5613.0,1935.0,
+384,Santa Cruz,0.0,0.0,Argentina,South America,Santa Cruz,245304.0,45.0,50757.0,
+385,Samut Sakhon,19.0,0.0,Thailand,Asia,Samut Sakhon,849.0,586.0,0.0,
+386,Perlis,20.0,3.0,Malaysia,Asia,Perlis,1182.0,812.0,0.0,
+387,Ile-de-France,11.0,4.0,France,Europe,Ile-de-France,12074.0,6312.0,1037.0,
+389,Tacuarembo,6.0,3.0,Uruguay,South America,Tacuarembo,15995.0,1719.0,14938.0,
+390,Luxor,0.0,0.0,Egypt,Africa,Luxor,616.0,231.0,0.0,211.0
+391,Bac Ninh,16.0,3.0,Viet Nam,Asia,Bac Ninh,817.0,640.0,2.0,
+392,Dadra,10.0,2.0,India,Asia,Dadra,492.0,466.0,19.0,
+393,Ajloon,3.0,7.0,Jordan,Asia,Ajloon,421.0,366.0,35.0,
+394,Nakhon Sawan,12.0,0.0,Thailand,Asia,Nakhon Sawan,9490.0,8135.0,0.0,
+395,Ha Noi City,18.0,0.0,Viet Nam,Asia,Ha Noi City,930.0,608.0,15.0,
+396,Samut Songkham,19.0,0.0,Thailand,Asia,Samut Songkham,400.0,264.0,0.0,
+397,Pulau Pinang,21.0,0.0,Malaysia,Asia,Pulau Pinang,1002.0,704.0,5.0,
+398,Bamako,0.0,0.0,Mali,Africa,Bamako,246.0,6.0,0.0,312.0
+399,Islamabad,0.0,0.0,Pakistan,Asia,Islamabad,896.0,54.0,22.0,
+400,Anhui Sheng,20.0,0.0,China,Asia,Anhui Sheng,140090.0,91155.0,11705.0,
+401,Nagano,19.0,0.0,Japan,Asia,Nagano,13375.0,2165.0,54.0,
+402,Hilmand,4.0,6.0,Afghanistan,Asia,Hilmand,59725.0,3697.0,8320.0,
+403,Nonthaburi,7.0,0.0,Thailand,Asia,Nonthaburi,640.0,609.0,0.0,
+404,Ang Thong,19.0,1.0,Thailand,Asia,Ang Thong,960.0,954.0,0.0,
+405,Malopolske,15.0,3.0,Poland,Europe,Malopolske,15553.0,8134.0,3362.0,
+406,Hauts-bassins,10.0,2.0,Burkina Faso,Africa,Hauts-bassins,25597.0,5894.0,573.0,312.0
+407,Area under NA 1,0.0,0.0,Cambodia,Asia,Area under NA 1,2567.0,0.0,0.0,
+408,La Pampa,7.0,4.0,Argentina,South America,La Pampa,143158.0,26150.0,23800.0,
+409,Phuket,16.0,0.0,Thailand,Asia,Phuket,521.0,352.0,0.0,
+410,Jalal-Abad,5.0,0.0,Kyrgyzstan,Asia,Jalal-Abad,33464.0,4078.0,22453.0,
+411,,,,,,Unit unavailable,944.0,425.0,317.0,
+412,Jarash,5.0,4.0,Jordan,Asia,Jarash,404.0,299.0,76.0,
+413,Bouira,11.0,8.0,Algeria,Africa,Bouira,4469.0,788.0,4079.0,213.0
+414,Lapland,0.0,0.0,Finland,Europe,Lapland,98857.0,569.0,414.0,
+416,Oulu,7.0,2.0,Finland,Europe,Oulu,61339.0,3154.0,50.0,
+417,Kaliningradskaya,9.0,4.0,Russian Fed.,Asia,Kaliningradskaya,13661.0,1597.0,6228.0,
+418,Panamá,6.0,0.0,Panama,North America,PanamÃ¡,11725.0,2368.0,2295.0,
+419,Phu Yen,20.0,1.0,Viet Nam,Asia,Phu Yen,5038.0,1905.0,58.0,
+420,Sarawak,20.0,0.0,Malaysia,Asia,Sarawak,123943.0,10914.0,121.0,
+421,Tombali,0.0,0.0,Guinea-Bissau,Africa,Tombali,2491.0,59.0,100.0,313.0
+422,Vichada,0.0,0.0,Colombia,South America,Vichada,100755.0,1353.0,58180.0,
+423,Bouenza,2.0,3.0,Congo,Africa,Bouenza,12487.0,1450.0,4671.0,313.0
+424,Mascara,9.0,7.0,Algeria,Africa,Mascara,5675.0,3160.0,3241.0,212.0
+425,Jiangsu Sheng,15.0,0.0,China,Asia,Jiangsu Sheng,98152.0,81386.0,1093.0,
+426,Tanger - Tétouan,8.0,8.0,Morocco,Africa,Tanger - TÃ©touan,11835.0,4766.0,7383.0,213.0
+429,Corse,14.0,2.0,France,Europe,Corse,8753.0,814.0,3003.0,
+430,Estuaire,8.0,1.0,Gabon,Africa,Estuaire,19130.0,206.0,6.0,314.0
+431,Tissemsilt,11.0,8.0,Algeria,Africa,Tissemsilt,3210.0,983.0,2707.0,223.0
+432,Jiangxi Sheng,21.0,0.0,China,Asia,Jiangxi Sheng,167973.0,36215.0,9397.0,
+433,Southern Finland,12.0,3.0,Finland,Europe,Southern Finland,33920.0,6554.0,19.0,
+434,Selangor,4.0,0.0,Malaysia,Asia,Selangor,7828.0,3588.0,4.0,
+435,Masaya,3.0,4.0,Nicaragua,North America,Masaya,604.0,297.0,295.0,
+436,Ouest,12.0,0.0,Cameroon,Africa,Ouest,13892.0,1532.0,7988.0,314.0
+437,Preah Vihear,3.0,3.0,Cambodia,Asia,Preah Vihear,14020.0,549.0,1130.0,
+438,Mopti,5.0,1.0,Mali,Africa,Mopti,79579.0,17.0,52227.0,312.0
+439,Segou,8.0,2.0,Mali,Africa,Segou,61890.0,16492.0,36920.0,312.0
+440,Oran,9.0,7.0,Algeria,Africa,Oran,2100.0,1239.0,899.0,212.0
+441,Sikasso,11.0,0.0,Mali,Africa,Sikasso,71039.0,12036.0,349.0,312.0
+442,Sulawesi Tengah,17.0,0.0,Indonesia,Asia,Sulawesi Tengah,59983.0,3743.0,20.0,
+443,Sulawesi T.,19.0,0.0,Indonesia,Asia,Sulawesi T.,35203.0,5956.0,20.0,
+444,Sumatera Barat,7.0,0.0,Indonesia,Asia,Sumatera Barat,42481.0,4969.0,0.0,
+445,Central,11.0,2.0,Sri Lanka,Asia,Central,5725.0,1836.0,0.0,
+446,Sumatera Utara,12.0,0.0,Indonesia,Asia,Sumatera Utara,72022.0,15499.0,4.0,
+447,Kermanshah,7.0,9.0,Iran,Asia,Kermanshah,24950.0,6104.0,157.0,
+448,Bushehr,13.0,8.0,Iran,Asia,Bushehr,22607.0,1067.0,1904.0,
+449,Grand Gedeh,0.0,0.0,Liberia,Africa,Grand Gedeh,10713.0,21.0,804.0,314.0
+450,Montevideo,14.0,0.0,Uruguay,South America,Montevideo,628.0,113.0,415.0,
+451,North Macedonia,21.0,0.0,North Macedonia,Europe,FYR Macedonia,25424.0,7250.0,10826.0,
+452,,,,,,Unit unavailable,30666.0,0.0,13300.0,
+453,Ain-Defla,11.0,8.0,Algeria,Africa,Ain-Defla,4548.0,1961.0,3120.0,213.0
+454,Esfahan,13.0,0.0,Iran,Asia,Esfahan,107194.0,10212.0,10438.0,
+455,Tebessa,4.0,3.0,Algeria,Africa,Tebessa,13273.0,4159.0,5630.0,221.0
+456,Tombouctou,0.0,0.0,Mali,Africa,Tombouctou,498443.0,88.0,56087.0,311.0
+457,Santa Fe,16.0,0.0,Argentina,South America,Santa Fe,133248.0,76832.0,9066.0,
+458,Souk-Ahras,5.0,10.0,Algeria,Africa,Souk-Ahras,4223.0,2673.0,2048.0,223.0
+459,Fars,1.0,0.0,Iran,Asia,Fars,122550.0,10597.0,20855.0,
+460,Hormozgan,13.0,6.0,Iran,Asia,Hormozgan,69620.0,6004.0,843.0,
+461,Kalbajar-Lachin,25.0,2.0,Azerbaijan,Europe,Kalbajar-Lachin,5837.0,2025.0,1315.0,
+462,Ilam,15.0,0.0,Iran,Asia,Ilam,19578.0,1183.0,0.0,
+463,Kerman,1.0,0.0,Iran,Asia,Kerman,179315.0,13716.0,12341.0,
+464,North West,22.0,0.0,Sri Lanka,Asia,North West,8055.0,5486.0,44.0,
+465,Espirito Santo,13.0,4.0,Brazil,South America,Espirito Santo,46180.0,17452.0,8264.0,
+466,Khuzestan,13.0,6.0,Iran,Asia,Khuzestan,63044.0,10412.0,743.0,
+467,Kordestan,11.0,8.0,Iran,Asia,Kordestan,29046.0,4528.0,6517.0,
+468,Pursat,14.0,2.0,Cambodia,Asia,Pursat,11550.0,1931.0,634.0,
+469,,,,,,Salamat,67964.0,2778.0,0.0,312.0
+470,Taiwan Sheng,22.0,0.0,Taiwan,Asia,Taiwan Sheng,35903.0,1188.0,1473.0,
+471,Vakaga,0.0,0.0,Central Africa,Africa,Vakaga,46738.0,517.0,93.0,312.0
+472,Campeche,15.0,0.0,Mexico,North America,Campeche,57599.0,11986.0,697.0,
+473,Boyaca,19.0,0.0,Colombia,South America,Boyaca,23376.0,7095.0,7660.0,
+474,Casanare,11.0,0.0,Colombia,South America,Casanare,44622.0,374.0,37378.0,
+475,Thessalia,17.0,2.0,Greece,Europe,Thessalia,13927.0,5883.0,4038.0,
+476,Hamgyong-bukto,8.0,0.0,North Korea,Asia,Hamgyong-bukto,16822.0,1291.0,241.0,
+477,Chiapas,21.0,0.0,Mexico,North America,Chiapas,74026.0,37490.0,136.0,
+478,Albania,17.0,7.0,Albania,Europe,Albania,28675.0,7474.0,12010.0,
+479,Rheinland-Pfalz,12.0,0.0,Germany,Europe,Rheinland-Pfalz,19759.0,5482.0,10612.0,
+480,B. California S.,0.0,0.0,Mexico,North America,B. California S.,70579.0,662.0,137.0,
+481,Chihuahua,16.0,5.0,Mexico,North America,Chihuahua,239844.0,3789.0,75429.0,
+482,Attiki,12.0,4.0,Greece,Europe,Attiki,3514.0,956.0,436.0,
+483,Dytiki Ellada,7.0,0.0,Greece,Europe,Dytiki Ellada,10976.0,4757.0,1547.0,
+484,Kriti,9.0,0.0,Greece,Europe,Kriti,8341.0,3456.0,3671.0,
+485,Northern,28.0,1.0,Sri Lanka,Asia,Northern,8685.0,3424.0,115.0,
+486,Atyrauskaya,32.0,15.0,Kazakhstan,Asia,Atyrauskaya,117463.0,477.0,5348.0,
+487,Gracias A Dios,16.0,0.0,Honduras,North America,Gracias A Dios,17047.0,146.0,3197.0,
+488,Jambylslkaya,31.0,0.0,Kazakhstan,Asia,Jambylslkaya,143998.0,11677.0,17255.0,
+489,Sabaragamuwa,7.0,0.0,Sri Lanka,Asia,Sabaragamuwa,4953.0,1480.0,0.0,
+490,Cuyuni,0.0,0.0,Guyana,South America,Cuyuni,48342.0,108.0,144.0,
+491,Kedougou,3.0,0.0,Senegal,Africa,Kedougou,16936.0,215.0,2106.0,312.0
+492,Tambacounda,6.0,7.0,Senegal,Africa,Tambacounda,42533.0,4635.0,2714.0,312.0
+493,Cacheu,0.0,0.0,Guinea-Bissau,Africa,Cacheu,3106.0,306.0,0.0,312.0
+494,Potaro,0.0,0.0,Guyana,South America,Potaro,21096.0,136.0,290.0,
+495,Mexico,16.0,7.0,Mexico,North America,Mexico,23197.0,8892.0,2409.0,
+496,Lorestan,4.0,3.0,Iran,Asia,Lorestan,28262.0,4337.0,2.0,
+497,Coahuila,14.0,0.0,Mexico,North America,Coahuila,154479.0,2333.0,13619.0,
+498,Hidalgo,27.0,0.0,Mexico,North America,Hidalgo,22433.0,7067.0,6115.0,
+499,Assam,7.0,0.0,India,Asia,Assam,77950.0,51873.0,5688.0,
+500,Jalisco,33.0,0.0,Mexico,North America,Jalisco,76211.0,21051.0,13557.0,
+501,Bengkulu,4.0,0.0,Indonesia,Asia,Bengkulu,20259.0,4118.0,0.0,
+502,Semnan,10.0,0.0,Iran,Asia,Semnan,97222.0,3621.0,3610.0,
+503,Uva,28.0,0.0,Sri Lanka,Asia,Uva,8623.0,2601.0,11.0,
+504,Simane,17.0,0.0,Japan,Asia,Simane,6557.0,394.0,17.0,
+505,Toscana,8.0,0.0,Italy,Europe,Toscana,22904.0,9802.0,2976.0,
+506,Isikawa,16.0,0.0,Japan,Asia,Isikawa,4110.0,650.0,82.0,
+507,Saga,14.0,0.0,Japan,Asia,Saga,2434.0,909.0,8.0,
+508,Sizuoka,11.0,0.0,Japan,Asia,Sizuoka,8065.0,1516.0,208.0,
+509,Bolikhamxai,11.0,0.0,Laos,Asia,Bolikhamxai,15785.0,1002.0,1047.0,
+510,Michoacan,15.0,0.0,Mexico,North America,Michoacan,59356.0,15229.0,1052.0,
+511,Nayarit,30.0,0.0,Mexico,North America,Nayarit,27644.0,7008.0,829.0,
+513,Puebla,26.0,0.0,Mexico,North America,Puebla,33658.0,13068.0,7434.0,
+514,Nuevo Leon,18.0,10.0,Mexico,North America,Nuevo Leon,65013.0,17338.0,6247.0,
+515,Oaxaca,22.0,0.0,Mexico,North America,Oaxaca,91636.0,23960.0,7267.0,
+516,Sinaloa,12.0,11.0,Mexico,North America,Sinaloa,53809.0,16214.0,639.0,
+517,Kunene,0.0,0.0,Namibia,Africa,Kunene,115273.0,7.0,82238.0,311.0
+518,Sonora,20.0,4.0,Mexico,North America,Sonora,185203.0,7811.0,18523.0,
+519,Tabasco,11.0,0.0,Mexico,North America,Tabasco,24165.0,17194.0,30.0,
+520,Central Region,9.0,3.0,Malawi,Africa,Central Region,35641.0,21525.0,8469.0,312.0
+521,Arxangai,10.0,12.0,Mongolia,Asia,Arxangai,55288.0,828.0,24088.0,
+522,Veracruz,27.0,0.0,Mexico,North America,Veracruz,70091.0,60188.0,304.0,
+523,Trarza,0.0,0.0,Mauritania,Africa,Trarza,69321.0,638.0,28020.0,311.0
+524,Bayan-O'lgii,0.0,0.0,Mongolia,Asia,Bayan-O'lgii,46121.0,48.0,7518.0,
+525,Bayanxongor,0.0,0.0,Mongolia,Asia,Bayanxongor,115603.0,38.0,3589.0,
+526,Northland,5.0,0.0,New Zealand,Oceania,Northland,12866.0,1560.0,1538.0,
+527,Colón,0.0,0.0,Panama,North America,ColÃ³n,4802.0,450.0,164.0,
+528,Westland,28.0,0.0,New Zealand,Oceania,Westland,25428.0,328.0,6005.0,
+529,Maranhao,6.0,0.0,Brazil,South America,Maranhao,326825.0,27958.0,36082.0,
+530,Pasco,4.0,0.0,Peru,South America,Pasco,23971.0,385.0,3616.0,
+531,Bulgan,17.0,7.0,Mongolia,Asia,Bulgan,48811.0,929.0,28564.0,
+532,Darxan-Uul,7.0,8.0,Mongolia,Asia,Darxan-Uul,3264.0,117.0,1954.0,
+533,Kuna Yala,0.0,0.0,Panama,North America,Kuna Yala,2403.0,208.0,183.0,
+534,Dornod,0.0,0.0,Mongolia,Asia,Dornod,123634.0,3907.0,60370.0,
+535,Lagos,0.0,0.0,Nigeria,Africa,Lagos,4093.0,7.0,97.0,313.0
+536,Concepcion,19.0,0.0,Paraguay,South America,Concepcion,18773.0,4358.0,968.0,
+537,Novosibirskaya ,7.0,5.0,Russian Fed.,Asia,Novosibirskaya,177616.0,19882.0,57787.0,
+538,Loreto,0.0,0.0,Peru,South America,Loreto,375551.0,122.0,182.0,
+539,Volgogradskaya ,10.0,0.0,Russian Fed.,Asia,Volgogradskaya,113201.0,50053.0,68944.0,
+540,Morobe,13.0,0.0,Papua New Guinea,Oceania,Morobe,35462.0,2883.0,311.0,
+541,Gulf,0.0,0.0,Papua New Guinea,Oceania,Gulf,30474.0,239.0,19.0,
+542,Musandam,0.0,0.0,Oman,Asia,Musandam,1557.0,6.0,0.0,
+543,Mato Grosso,11.0,0.0,Brazil,South America,Mato Grosso,903406.0,164309.0,81543.0,
+544,Piura,4.0,0.0,Peru,South America,Piura,35787.0,2335.0,4590.0,
+545,Attapu,12.0,4.0,Laos,Asia,Attapu,9442.0,817.0,237.0,
+546,Chuvashiya Rep.,1.0,10.0,Russian Fed.,Asia,Chuvashiya Rep.,18348.0,4392.0,4066.0,
+547,Puno,13.0,5.0,Peru,South America,Puno,71464.0,5586.0,19929.0,
+548,Cagayan Valley,10.0,0.0,Philippines,Asia,Cagayan Valley,25685.0,10443.0,0.0,
+549,Mato Grosso S,15.0,5.0,Brazil,South America,Mato Grosso S,357103.0,162161.0,44409.0,
+550,San Martín,20.0,0.0,Peru,South America,San MartÃ­n,50368.0,824.0,2885.0,
+551,Tacna,0.0,0.0,Peru,South America,Tacna,15985.0,379.0,1175.0,
+552,Juba Dhexe,22.0,13.0,Somalia,Africa,Juba Dhexe,18775.0,798.0,2725.0,311.0
+553,Bicol Region,16.0,0.0,Philippines,Asia,Bicol Region,16979.0,5003.0,3.0,
+554,West Visayas,17.0,0.0,Philippines,Asia,West Visayas,19822.0,13557.0,27.0,
+555,Central Visayas,20.0,0.0,Philippines,Asia,Central Visayas,13647.0,9104.0,4.0,
+556,Missouri,15.0,0.0,USA,North America,Missouri,180610.0,45856.0,3705.0,
+557,Kujawsko P.,17.0,1.0,Poland,Europe,Kujawsko P.,18020.0,11355.0,3434.0,
+558,Jonglei,4.0,8.0,South Sudan,Africa,Jonglei,120955.0,3174.0,22985.0,313.0
+559,Lubeiskie,19.0,3.0,Poland,Europe,Lubeiskie,25192.0,14459.0,8870.0,
+560,Eastern Visayas,3.0,0.0,Philippines,Asia,Eastern Visayas,20279.0,2534.0,12.0,
+561,Quang Nam,21.0,1.0,Viet Nam,Asia,Quang Nam,10589.0,2058.0,119.0,
+562,Caraga,7.0,0.0,Philippines,Asia,Caraga,18413.0,1455.0,0.0,
+563,Dolnoslaskie,22.0,4.0,Poland,Europe,Dolnoslaskie,19916.0,10554.0,4326.0,
+564,Lodzkie,23.0,1.0,Poland,Europe,Lodzkie,18285.0,10917.0,6072.0,
+565,Lubuskie,9.0,1.0,Poland,Europe,Lubuskie,14041.0,4559.0,3546.0,
+566,Nan,10.0,0.0,Thailand,Asia,Nan,12239.0,2502.0,0.0,
+567,Si Saket,9.0,2.0,Thailand,Asia,Si Saket,8885.0,7491.0,5.0,
+568,Nong Khai,9.0,6.0,Thailand,Asia,Nong Khai,7329.0,6417.0,0.0,
+569,Ranong,20.0,5.0,Thailand,Asia,Ranong,3277.0,426.0,122.0,
+570,Opolskie,19.0,4.0,Poland,Europe,Opolskie,9439.0,5527.0,2166.0,
+571,Podkarpackie,20.0,1.0,Poland,Europe,Podkarpackie,17916.0,7573.0,5319.0,
+572,Mazowieckie,15.0,7.0,Poland,Europe,Mazowieckie,35418.0,19272.0,13332.0,
+573,Trad,23.0,0.0,Thailand,Asia,Trad,2793.0,1314.0,8.0,
+574,Podlaskie,11.0,9.0,Poland,Europe,Podlaskie,20064.0,9100.0,9008.0,
+575,Chungchongbuk-do,9.0,0.0,South Korea,Asia,Chungchongbuk-do,7650.0,635.0,28.0,
+576,Swietokrzyskie,14.0,6.0,Poland,Europe,Swietokrzyskie,11249.0,5674.0,3693.0,
+577,Pomorskie,10.0,0.0,Poland,Europe,Pomorskie,18282.0,8415.0,4262.0,
+578,Slaskie,21.0,6.0,Poland,Europe,Slaskie,12416.0,4839.0,3629.0,
+579,Warminsko M.,7.0,6.0,Poland,Europe,Warminsko M.,23962.0,12347.0,5980.0,
+580,Kyongsangbuk-do,14.0,0.0,South Korea,Asia,Kyongsangbuk-do,18521.0,1361.0,137.0,
+581,Illes Balears,8.0,17.0,Spain,Europe,Illes Balears,4903.0,2513.0,316.0,
+582,Wielkopolskie,19.0,2.0,Poland,Europe,Wielkopolskie,29818.0,17260.0,7970.0,
+583,Louangphabang,23.0,0.0,Laos,Asia,Louangphabang,19924.0,371.0,1258.0,
+584,Chollanam-do,19.0,0.0,South Korea,Asia,Chollanam-do,10763.0,2319.0,303.0,
+585,Castilla y León,12.0,6.0,Spain,Europe,Castilla y LeÃ³n,94169.0,44501.0,32977.0,
+586,Chungchongnam-do,11.0,0.0,South Korea,Asia,Chungchongnam-do,7883.0,2509.0,227.0,
+587,Kyonggi-do,12.0,0.0,South Korea,Asia,Kyonggi-do,9974.0,2628.0,292.0,
+588,Kyongsangnam-do,17.0,0.0,South Korea,Asia,Kyongsangnam-do,11034.0,950.0,158.0,
+589,Sfax,22.0,0.0,Tunisia,Africa,Sfax,6888.0,5356.0,1047.0,211.0
+590,West Cape,9.0,9.0,South Africa,Africa,West Cape,129745.0,19464.0,42873.0,212.0
+591,Andalucía,9.0,0.0,Spain,Europe,AndalucÃ­a,87245.0,48781.0,16432.0,
+592,Hiraan,7.0,8.0,Somalia,Africa,Hiraan,34044.0,687.0,25050.0,311.0
+593,Aragón,11.0,0.0,Spain,Europe,AragÃ³n,47811.0,21383.0,6273.0,
+594,Asturias,11.0,0.0,Spain,Europe,Asturias,10662.0,1387.0,4872.0,
+595,Sulawesi Utara,16.0,0.0,Indonesia,Asia,Sulawesi Utara,14037.0,837.0,4.0,
+596,Quang Ngai,16.0,0.0,Viet Nam,Asia,Quang Ngai,5144.0,1753.0,18.0,
+597,Canarias,17.0,13.0,Spain,Europe,Canarias,7416.0,1015.0,763.0,
+598,Cantabria,11.0,0.0,Spain,Europe,Cantabria,5307.0,459.0,3419.0,
+599,El Buheyrat,9.0,0.0,South Sudan,Africa,El Buheyrat,42843.0,2154.0,10417.0,313.0
+600,Batken,0.0,0.0,Kyrgyzstan,Asia,Batken,17047.0,772.0,3464.0,
+601,Izmir,5.0,0.0,Turkey,Asia,Izmir,12134.0,4732.0,2201.0,
+602,Yujno K.,14.0,4.0,Kazakhstan,Asia,Yujno K.,116586.0,11799.0,11366.0,
+603,Vostochno,21.0,10.0,Kazakhstan,Asia,Vostochno,282159.0,41608.0,107028.0,
+604,Zapadno K.,17.0,0.0,Kazakhstan,Asia,Zapadno K.,154731.0,17644.0,39909.0,
+605,Madrid,6.0,6.0,Spain,Europe,Madrid,8019.0,2639.0,2854.0,
+606,Sivas,26.0,8.0,Turkey,Asia,Sivas,27829.0,10470.0,13126.0,
+607,Región de Murcia,24.0,9.0,Spain,Europe,RegiÃ³n de Murcia,11350.0,6008.0,5740.0,
+608,Navarra,12.0,7.0,Spain,Europe,Navarra,10380.0,4068.0,2453.0,
+609,Naryn,25.0,11.0,Kyrgyzstan,Asia,Naryn,45362.0,2496.0,18626.0,
+610,Tashkent,7.0,4.0,Uzbekistan,Asia,Tashkent,15359.0,7301.0,5049.0,
+611,Osh,9.0,4.0,Kyrgyzstan,Asia,Osh,29359.0,3805.0,14082.0,
+612,Ysyk-Kol,8.0,18.0,Kyrgyzstan,Asia,Ysyk-Kol,42987.0,2632.0,13931.0,
+613,Castilla L.M.,10.0,2.0,Spain,Europe,Castilla L.M.,79457.0,42489.0,27244.0,
+614,C. Valenciana,39.0,0.0,Spain,Europe,C. Valenciana,23334.0,8240.0,11011.0,
+615,Extremadura,6.0,33.0,Spain,Europe,Extremadura,41575.0,23601.0,16190.0,
+616,Galicia,11.0,0.0,Spain,Europe,Galicia,29548.0,8776.0,1318.0,
+618,País Vasco,11.0,1.0,Spain,Europe,PaÃ­s Vasco,7541.0,1180.0,3446.0,
+619,North Central,27.0,0.0,Sri Lanka,Asia,North Central,10659.0,5041.0,0.0,
+620,Imo,12.0,6.0,Nigeria,Africa,Imo,5526.0,308.0,0.0,313.0
+621,Eastern,30.0,0.0,Sri Lanka,Asia,Eastern,9826.0,5845.0,39.0,
+622,Unity,6.0,15.0,South Sudan,Africa,Unity,36630.0,951.0,12250.0,312.0
+623,C. Equatoria,10.0,0.0,South Sudan,Africa,C. Equatoria,44102.0,2472.0,10110.0,313.0
+624,Sud-ouest,8.0,0.0,Burkina Faso,Africa,Sud-ouest,16487.0,2284.0,358.0,313.0
+625,Lindi,4.0,2.0,Tanzania,Africa,Lindi,64660.0,1358.0,7315.0,313.0
+626,Rajshahi,13.0,3.0,Bangladesh,Asia,Rajshahi,18197.0,16948.0,697.0,
+627,Area under NA,0.0,0.0,Malawi,Africa,Area under NA,22353.0,63.0,87.0,313.0
+628,Bangka Belitung,2.0,0.0,Indonesia,Asia,Bangka Belitung,16211.0,5175.0,2.0,
+629,Turkana,0.0,0.0,Kenya,Africa,Turkana,58335.0,85.0,43679.0,312.0
+630,Doukkala - Abda,7.0,9.0,Morocco,Africa,Doukkala - Abda,14399.0,11469.0,625.0,212.0
+631,Taza,11.0,6.0,Morocco,Africa,Taza,21609.0,3794.0,18540.0,213.0
+632,Northern Darfur,3.0,8.0,Sudan,Africa,Northern Darfur,316529.0,14425.0,100800.0,311.0
+633,Dayr_Az_Zor,10.0,12.0,Syria,Asia,Dayr_Az_Zor,27307.0,2147.0,0.0,
+634,West Finland,10.0,4.0,Finland,Europe,West Finland,78385.0,14071.0,27.0,
+635,Maluku Utara,21.0,0.0,Indonesia,Asia,Maluku Utara,38707.0,853.0,16.0,
+636,Alsace,9.0,0.0,France,Europe,Alsace,8320.0,3454.0,1790.0,
+637,Aquitaine,6.0,0.0,France,Europe,Aquitaine,41686.0,16389.0,12452.0,
+638,Israel,7.0,3.0,Israel,Asia,Israel,20720.0,6260.0,1776.0,211.0
+639,Auvergne,12.0,3.0,France,Europe,Auvergne,26147.0,6476.0,21391.0,
+640,Bhutan,9.0,1.0,Bhutan,Asia,Bhutan,37674.0,28.0,4389.0,
+641,Basse-Normandie,21.0,0.0,France,Europe,Basse-Normandie,17777.0,7190.0,15242.0,
+642,Franche-Comte,11.0,0.0,France,Europe,Franche-Comte,16273.0,4629.0,9673.0,
+643,Bourgogne,12.0,2.0,France,Europe,Bourgogne,31732.0,12199.0,17457.0,
+644,Haute-Normandie,25.0,2.0,France,Europe,Haute-Normandie,12360.0,6953.0,6443.0,
+645,Bretagne,5.0,0.0,France,Europe,Bretagne,27486.0,19055.0,10643.0,
+646,Centre,18.0,4.0,France,Europe,Centre,39524.0,24102.0,13439.0,
+647,Nord Pas Cala,21.0,2.0,France,Europe,Nord Pas Cala,12426.0,7905.0,5035.0,
+648,Champagne,21.0,0.0,France,Europe,Champagne,25720.0,14121.0,8490.0,
+649,Brunei,0.0,0.0,Brunei,Asia,Brunei,5899.0,2.0,0.0,
+650,Languedoc R.,12.0,0.0,France,Europe,Languedoc R.,27710.0,9047.0,7977.0,
+652,Lorraine,24.0,0.0,France,Europe,Lorraine,23653.0,8389.0,13359.0,
+653,Cayenne,0.0,0.0,French Guiana,Africa,Cayenne,42448.0,25.0,79.0,
+654,Midi-Pyrenees,24.0,1.0,France,Europe,Midi-Pyrenees,45441.0,22092.0,19739.0,
+655,Cyprus,18.0,6.0,Cyprus,Europe,Cyprus,9249.0,4398.0,778.0,
+656,Pays-de-la-Loire,19.0,0.0,France,Europe,Pays-de-la-Loire,32253.0,18787.0,21817.0,
+657,Estonia,8.0,0.0,Estonia,Europe,Estonia,45181.0,11312.0,10938.0,
+658,Para,8.0,0.0,Brazil,South America,Para,1234541.0,52208.0,24313.0,
+659,Picardie,21.0,2.0,France,Europe,Picardie,19533.0,13171.0,5086.0,
+660,Saint Laurent M.,0.0,0.0,French Guiana,Africa,Saint Laurent M.,40944.0,51.0,17.0,
+661,Poitou-Charentes,20.0,0.0,France,Europe,Poitou-Charentes,25647.0,17326.0,9002.0,
+662,New South Wales,6.0,10.0,Australia,Oceania,New South Wales,800921.0,82801.0,57193.0,
+663,,,,,,Unit unavailable,6929.0,0.0,0.0,
+664,Provence,11.0,0.0,France,Europe,Provence,31627.0,6717.0,9211.0,
+665,French Polynesia,0.0,0.0,French Polynesia,Oceania,French Polynesia,1691.0,0.0,0.0,
+666,Rhone-Alpes,7.0,4.0,France,Europe,Rhone-Alpes,45095.0,11569.0,23796.0,
+667,Comoros,0.0,0.0,Comoros,Africa,Comoros,1647.0,0.0,0.0,314.0
+668,Armenia,33.0,6.0,Armenia,Europe,Armenia,29634.0,9666.0,13431.0,
+669,Belize,14.0,0.0,Belize,North America,Belize,21851.0,1481.0,2647.0,
+670,Denmark,16.0,0.0,Denmark,Europe,Denmark,43538.0,31654.0,2406.0,
+671,Bulgaria,32.0,2.0,Bulgaria,Europe,Bulgaria,111300.0,53768.0,30963.0,
+672,Croatia,11.0,7.0,Croatia,Europe,Croatia,55457.0,19755.0,14504.0,
+673,Fiji,0.0,0.0,Fiji,Oceania,Fiji,16401.0,0.0,43.0,
+674,China/India,0.0,0.0,China/India,Asia,China/India,3526.0,0.0,2604.0,
+675,Dominican R.,15.0,1.0,Dominican R.,North America,Dominican R.,47937.0,19708.0,10839.0,
+676,,,,,,El Salvador,20838.0,11130.0,5330.0,
+678,Ireland,5.0,0.0,Ireland,Europe,Ireland,69361.0,8686.0,54169.0,
+679,Gambia,6.0,2.0,Gambia,Africa,Gambia,11203.0,2620.0,1758.0,312.0
+681,Iceland,0.0,0.0,Iceland,Europe,Iceland,102390.0,70.0,13385.0,
+682,Mauritius,0.0,0.0,Mauritius,Africa,Mauritius,1862.0,0.0,0.0,
+683,Jamaica,13.0,1.0,Jamaica,North America,Jamaica,10958.0,1863.0,1258.0,
+684,,,,,,Unit unavailable,9938.0,0.0,19.0,312.0
+685,Batna,9.0,5.0,Algeria,Africa,Batna,12141.0,3098.0,9513.0,222.0
+686,Luxembourg,4.0,0.0,Luxembourg,Europe,Luxembourg,2621.0,1028.0,1115.0,
+687,Martinique,0.0,0.0,Martinique,Africa,Martinique,1101.0,0.0,153.0,
+688,Moldova,21.0,14.0,Moldova,Europe,Moldova,33798.0,30585.0,1109.0,
+689,Trinidad Tobago,0.0,0.0,Trinidad Tobago,North America,Trinidad Tobago,5131.0,0.0,795.0,
+690,Réunion,0.0,0.0,Réunion,Africa,RÃ©union,2504.0,0.0,0.0,
+691,Samoa,0.0,0.0,Samoa,Oceania,Samoa,2830.0,0.0,0.0,
+692,Tay Ninh,10.0,0.0,Viet Nam,Asia,Tay Ninh,4019.0,3353.0,22.0,
+693,Slovenia,9.0,0.0,Slovenia,Europe,Slovenia,20320.0,5881.0,5668.0,
+694,South Georgia,0.0,0.0,South Georgia,South America,South Georgia,3544.0,0.0,56.0,
+695,eSwatini,13.0,5.0,eSwatini,Africa,Swaziland,17290.0,5155.0,4817.0,312.0
+696,Baghlan,9.0,0.0,Afghanistan,Asia,Baghlan,17817.0,2754.0,15313.0,
+697,Kampong Thom,5.0,2.0,Cambodia,Asia,Kampong Thom,12455.0,3453.0,773.0,
+698,Switzerland,10.0,0.0,Switzerland,Europe,Switzerland,41416.0,8145.0,18659.0,
+699,Timor-Leste,19.0,0.0,Timor-Leste,Asia,Timor-Leste,14741.0,3888.0,0.0,
+700,Vanuatu,0.0,0.0,Vanuatu,Oceania,Vanuatu,11305.0,0.0,77.0,
+701,Nuristan,0.0,0.0,Afghanistan,Asia,Nuristan,8989.0,79.0,7487.0,
+702,West Bank,4.0,7.0,West Bank,Europe,West Bank,5862.0,81.0,3417.0,
+703,Badakhshan,11.0,0.0,Afghanistan,Asia,Badakhshan,43425.0,3528.0,34044.0,
+704,Chlef,15.0,6.0,Algeria,Africa,Chlef,4047.0,2150.0,2567.0,213.0
+705,Kapisa,25.0,2.0,Afghanistan,Asia,Kapisa,1883.0,319.0,1709.0,
+706,Jilin Sheng,15.0,0.0,China,Asia,Jilin Sheng,191690.0,75496.0,20082.0,
+707,Khost,19.0,7.0,Afghanistan,Asia,Khost,4286.0,587.0,3606.0,
+708,Kunar,12.0,4.0,Afghanistan,Asia,Kunar,4848.0,328.0,2994.0,
+709,Kunduz,13.0,7.0,Afghanistan,Asia,Kunduz,7908.0,2754.0,2374.0,
+710,Laghman,30.0,1.0,Afghanistan,Asia,Laghman,3837.0,236.0,2811.0,
+711,Minas Gerais,15.0,0.0,Brazil,South America,Minas Gerais,586548.0,194642.0,130162.0,
+712,Nimroz,0.0,0.0,Afghanistan,Asia,Nimroz,40577.0,887.0,116.0,
+713,Annaba,3.0,9.0,Algeria,Africa,Annaba,1392.0,576.0,449.0,213.0
+714,Djelfa,13.0,3.0,Algeria,Africa,Djelfa,32364.0,3345.0,22100.0,213.0
+715,Kratie,3.0,0.0,Cambodia,Asia,Kratie,11965.0,896.0,157.0,
+716,Sidi Bel Abbes,12.0,5.0,Algeria,Africa,Sidi Bel Abbes,9381.0,3576.0,2960.0,221.0
+717,Boumerdes,16.0,3.0,Algeria,Africa,Boumerdes,1436.0,699.0,889.0,213.0
+718,Tipaza,11.0,4.0,Algeria,Africa,Tipaza,1704.0,613.0,1255.0,213.0
+719,Piaui,8.0,6.0,Brazil,South America,Piaui,252586.0,7550.0,59447.0,
+720,Constantine,4.0,10.0,Algeria,Africa,Constantine,2245.0,1557.0,1073.0,213.0
+721,El Oued,4.0,1.0,Algeria,Africa,El Oued,43825.0,767.0,3073.0,211.0
+722,Komi Rep.,0.0,0.0,Russian Fed.,Asia,Komi Rep.,417631.0,0.0,50747.0,
+723,Rio De Janeiro,19.0,1.0,Brazil,South America,Rio De Janeiro,43743.0,17385.0,2352.0,
+724,Rio Grande N,16.0,2.0,Brazil,South America,Rio Grande N,53138.0,11348.0,28045.0,
+725,Laghouat,10.0,4.0,Algeria,Africa,Laghouat,27557.0,553.0,9312.0,221.0
+726,El-Tarf,7.0,4.0,Algeria,Africa,El-Tarf,2867.0,1058.0,775.0,213.0
+727,Ghardaia,0.0,0.0,Algeria,Africa,Ghardaia,84493.0,141.0,103.0,211.0
+728,Illizi,0.0,0.0,Algeria,Africa,Illizi,295837.0,9.0,187.0,211.0
+729,Mostaganem,9.0,9.0,Algeria,Africa,Mostaganem,2180.0,1444.0,1007.0,212.0
+730,M'Sila,9.0,6.0,Algeria,Africa,M'Sila,17939.0,1653.0,17038.0,212.0
+731,Ouargla,0.0,0.0,Algeria,Africa,Ouargla,154380.0,161.0,0.0,211.0
+732,Naama,0.0,0.0,Algeria,Africa,Naama,29619.0,93.0,4917.0,221.0
+733,Saida,8.0,8.0,Algeria,Africa,Saida,6762.0,2535.0,3754.0,222.0
+734,Tindouf,0.0,0.0,Algeria,Africa,Tindouf,160785.0,1.0,69.0,211.0
+735,Tiaret,11.0,7.0,Algeria,Africa,Tiaret,20116.0,7891.0,11330.0,222.0
+736,Karnten,7.0,0.0,Austria,Europe,Karnten,9479.0,1135.0,4630.0,
+737,Pailin,10.0,1.0,Cambodia,Asia,Pailin,1067.0,464.0,129.0,
+738,Niederosterreich,7.0,3.0,Austria,Europe,Niederosterreich,18697.0,8743.0,3535.0,
+739,Oberosterreich,4.0,1.0,Austria,Europe,Oberosterreich,12037.0,4495.0,4530.0,
+740,Salzburg,7.0,0.0,Austria,Europe,Salzburg,7162.0,147.0,5096.0,
+741,P'yongan-bukto,9.0,0.0,North Korea,Asia,P'yongan-bukto,12257.0,3461.0,190.0,
+742,Tizi Ouzou,12.0,9.0,Algeria,Africa,Tizi Ouzou,2957.0,486.0,2610.0,213.0
+743,Cabinda,0.0,0.0,Angola,Africa,Cabinda,7096.0,4.0,616.0,313.0
+744,Steiermark,5.0,0.0,Austria,Europe,Steiermark,16406.0,2579.0,7300.0,
+745,North Territory,0.0,0.0,Australia,Oceania,North Territory,1346754.0,160.0,168776.0,
+746,Burgenland,12.0,2.0,Austria,Europe,Burgenland,4472.0,2490.0,295.0,
+747,Cunene,10.0,9.0,Angola,Africa,Cunene,77198.0,3325.0,55815.0,312.0
+748,Tirol,6.0,0.0,Austria,Europe,Tirol,12675.0,173.0,8518.0,
+749,Huila,8.0,5.0,Angola,Africa,Huila,78723.0,13975.0,32990.0,322.0
+750,Chittagong,15.0,2.0,Bangladesh,Asia,Chittagong,30494.0,15336.0,1888.0,
+751,,,,,,Unit unavailable,9903.0,10.0,5741.0,
+752,Huambo,10.0,0.0,Angola,Africa,Huambo,33181.0,5708.0,10452.0,322.0
+753,Kuanza Norte,0.0,0.0,Angola,Africa,Kuanza Norte,19242.0,22.0,156.0,312.0
+754,Dhaka,17.0,4.0,Bangladesh,Asia,Dhaka,30935.0,28333.0,2834.0,
+755,Khulna,12.0,0.0,Bangladesh,Asia,Khulna,17563.0,13320.0,1342.0,
+756,Lunda Norte,0.0,0.0,Angola,Africa,Lunda Norte,108044.0,730.0,8675.0,313.0
+757,Luanda,6.0,9.0,Angola,Africa,Luanda,2683.0,547.0,1703.0,312.0
+758,Hwanghae-bukto,9.0,0.0,North Korea,Asia,Hwanghae-bukto,8108.0,2983.0,42.0,
+759,Lunda Sul,0.0,0.0,Angola,Africa,Lunda Sul,77839.0,209.0,9186.0,313.0
+760,Sylhet,17.0,4.0,Bangladesh,Asia,Sylhet,12271.0,10596.0,802.0,
+761,Santiago Estero,13.0,8.0,Argentina,South America,Santiago Estero,136692.0,22995.0,10303.0,
+762,Tierra Del Fuego,0.0,0.0,Argentina,South America,Tierra Del Fuego,20806.0,0.0,1904.0,
+763,Brest,9.0,7.0,Belarus,Europe,Brest,32572.0,15277.0,437.0,
+764,Australian C.T.,0.0,0.0,Australia,Oceania,Australian C.T.,2358.0,0.0,9.0,
+765,Gomel,9.0,0.0,Belarus,Europe,Gomel,40477.0,16389.0,176.0,
+766,Queensland,10.0,0.0,Australia,Oceania,Queensland,1727568.0,18455.0,211706.0,
+767,Vitebsk,6.0,5.0,Belarus,Europe,Vitebsk,40369.0,11902.0,972.0,
+768,Vlaams Gewest,7.0,0.0,Belgium,Europe,Vlaams Gewest,13773.0,7333.0,4731.0,
+769,Tasmania,11.0,0.0,Australia,Oceania,Tasmania,67400.0,713.0,114.0,
+770,Victoria,6.0,12.0,Australia,Oceania,Victoria,227112.0,43973.0,3500.0,
+771,West Australia,7.0,7.0,Australia,Oceania,West Australia,2524427.0,115177.0,110002.0,
+772,Vorarlberg,0.0,0.0,Austria,Europe,Vorarlberg,2615.0,85.0,2077.0,
+773,Barisal,12.0,3.0,Bangladesh,Asia,Barisal,10163.0,8365.0,919.0,
+774,Region wallonne,7.0,0.0,Belgium,Europe,Region wallonne,16894.0,6737.0,7457.0,
+775,Minsk,9.0,9.0,Belarus,Europe,Minsk,40276.0,17528.0,497.0,
+776,Grodno,10.0,12.0,Belarus,Europe,Grodno,24956.0,13122.0,485.0,
+777,Mogilev,5.0,2.0,Belarus,Europe,Mogilev,28931.0,14335.0,250.0,
+779,Niari,0.0,0.0,Congo,Africa,Niari,25541.0,636.0,1946.0,313.0
+780,Alibori,6.0,2.0,Benin,Africa,Alibori,26904.0,6401.0,73.0,312.0
+781,Atakora,9.0,3.0,Benin,Africa,Atakora,20727.0,3378.0,192.0,313.0
+782,Rio Grande S,14.0,5.0,Brazil,South America,Rio Grande S,271810.0,102699.0,81805.0,
+783,Atlantique,0.0,0.0,Benin,Africa,Atlantique,3049.0,3.0,629.0,313.0
+784,Nord - Ouest,9.0,0.0,Cameroon,Africa,Nord - Ouest,17325.0,1475.0,9227.0,314.0
+785,Borgou,7.0,2.0,Benin,Africa,Borgou,25602.0,7575.0,974.0,313.0
+786,Isla Juventud,10.0,0.0,Cuba,North America,Isla Juventud,2199.0,181.0,582.0,
+787,Roraima,23.0,0.0,Brazil,South America,Roraima,223721.0,2278.0,8417.0,
+788,Collines,10.0,0.0,Benin,Africa,Collines,14014.0,6352.0,1652.0,313.0
+789,Kgalagadi,0.0,0.0,Botswana,Africa,Kgalagadi,105176.0,53.0,97797.0,311.0
+790,Donga,9.0,0.0,Benin,Africa,Donga,11086.0,2075.0,2774.0,313.0
+792,Couffo,9.0,1.0,Benin,Africa,Couffo,2401.0,754.0,121.0,313.0
+793,Santa Catarina,22.0,0.0,Brazil,South America,Santa Catarina,95043.0,16421.0,2710.0,
+794,Mono,0.0,0.0,Benin,Africa,Mono,1571.0,0.0,292.0,313.0
+795,Oueme,0.0,0.0,Benin,Africa,Oueme,1287.0,56.0,216.0,313.0
+796,Plateau,11.0,1.0,Benin,Africa,Plateau,3318.0,474.0,110.0,313.0
+797,Zou,9.0,2.0,Benin,Africa,Zou,5285.0,2410.0,84.0,313.0
+798,Battambang,10.0,0.0,Cambodia,Asia,Battambang,11862.0,5516.0,947.0,
+799,Pando,23.0,0.0,Bolivia,South America,Pando,63916.0,6.0,195.0,
+800,Kgatleng,5.0,39.0,Botswana,Africa,Kgatleng,7821.0,482.0,4717.0,311.0
+801,BosneHercegovine,7.0,0.0,Bosnia Herzeg.,Europe,BosneHercegovine,26368.0,5990.0,9963.0,
+802,Sergipe,7.0,11.0,Brazil,South America,Sergipe,21933.0,7344.0,10742.0,
+803,Chobe,3.0,6.0,Botswana,Africa,Chobe,20962.0,246.0,10096.0,312.0
+804,Ghanzi,0.0,0.0,Botswana,Africa,Ghanzi,114454.0,22.0,112311.0,311.0
+805,Ngamiland,0.0,0.0,Botswana,Africa,Ngamiland,111464.0,230.0,90106.0,312.0
+806,Kweneng,9.0,17.0,Botswana,Africa,Kweneng,36938.0,827.0,31040.0,311.0
+807,La Habana,8.0,0.0,Cuba,North America,La Habana,5525.0,3776.0,1358.0,
+808,North East,11.0,11.0,Botswana,Africa,North East,5341.0,467.0,2905.0,311.0
+809,Acre,20.0,0.0,Brazil,South America,Acre,152581.0,2547.0,279.0,
+810,Amapa,0.0,0.0,Brazil,South America,Amapa,140205.0,1715.0,3817.0,
+811,Sao Paulo,17.0,0.0,Brazil,South America,Sao Paulo,248363.0,170745.0,7074.0,
+812,South-East,9.0,26.0,Botswana,Africa,South-East,2015.0,128.0,1016.0,312.0
+813,Southern,9.0,12.0,Botswana,Africa,Southern,27369.0,1512.0,18425.0,311.0
+814,Ceara,12.0,7.0,Brazil,South America,Ceara,147263.0,11256.0,46912.0,
+816,Distrito Federal,2.0,3.0,Brazil,South America,Distrito Federal,5803.0,1762.0,1232.0,
+817,Goias,7.0,0.0,Brazil,South America,Goias,340112.0,132818.0,85611.0,
+818,Paraiba,13.0,8.0,Brazil,South America,Paraiba,56375.0,10204.0,18470.0,
+819,Parana,21.0,0.0,Brazil,South America,Parana,198542.0,111427.0,2419.0,
+820,Pernambuco,8.0,3.0,Brazil,South America,Pernambuco,98583.0,17615.0,29604.0,
+825,Liaoning Sheng,11.0,3.0,China,Asia,Liaoning Sheng,146592.0,73800.0,12255.0,
+828,,,,,,Equateur,398171.0,15874.0,7687.0,314.0
+831,,,,,,Kasai Occidental,153552.0,1906.0,340.0,314.0
+834,Kampong Speu,4.0,5.0,Cambodia,Asia,Kampong Speu,6969.0,2472.0,1031.0,
+841,Kampong Cham,5.0,0.0,Cambodia,Asia,Kampong Cham,9444.0,6103.0,132.0,
+845,Stung Treng,1.0,0.0,Cambodia,Asia,Stung Treng,12079.0,264.0,187.0,
+847,Extrême - Nord,9.0,1.0,Cameroon,Africa,ExtrÃªme - Nord,33908.0,18472.0,2978.0,312.0
+852,Kampong Chhnang,8.0,0.0,Cambodia,Asia,Kampong Chhnang,5289.0,2203.0,193.0,
+853,Littoral,6.0,5.0,Cameroon,Africa,Littoral,20007.0,227.0,621.0,314.0
+854,Nord,5.0,1.0,Cameroon,Africa,Nord,66358.0,15296.0,3710.0,313.0
+857,Sud,0.0,0.0,Cameroon,Africa,Sud,47166.0,5.0,10.0,314.0
+858,Sud - Ouest,11.0,7.0,Cameroon,Africa,Sud - Ouest,24526.0,480.0,1171.0,314.0
+860,Banteay Meanchey,9.0,0.0,Cambodia,Asia,Banteay Meanchey,6114.0,4205.0,730.0,
+861,Kampot,7.0,0.0,Cambodia,Asia,Kampot,4848.0,2028.0,427.0,
+862,Alberta,19.0,3.0,Canada,North America,Alberta,663265.0,90854.0,129541.0,
+863,Koh Kong,12.0,0.0,Cambodia,Asia,Koh Kong,11916.0,223.0,1513.0,
+864,Kandal,9.0,0.0,Cambodia,Asia,Kandal,3560.0,2123.0,5.0,
+865,Preah Sihanouk,9.0,0.0,Cambodia,Asia,Preah Sihanouk,1444.0,277.0,192.0,
+866,Mondul Kiri,9.0,0.0,Cambodia,Asia,Mondul Kiri,13594.0,139.0,575.0,
+867,Manitoba,19.0,4.0,Canada,North America,Manitoba,649861.0,42480.0,85579.0,
+868,Ratanak Kiri,3.0,4.0,Cambodia,Asia,Ratanak Kiri,11785.0,595.0,54.0,
+869,Siem Reap,8.0,0.0,Cambodia,Asia,Siem Reap,10550.0,4325.0,421.0,
+870,New Brunswick,0.0,0.0,Canada,North America,New Brunswick,72710.0,634.0,4748.0,
+871,Newfoundland,0.0,0.0,Canada,North America,Newfoundland,401265.0,21.0,125362.0,
+872,Otdar Meanchey,6.0,0.0,Cambodia,Asia,Otdar Meanchey,6608.0,1867.0,853.0,
+873,Prey Veng,12.0,0.0,Cambodia,Asia,Prey Veng,4748.0,4374.0,0.0,
+874,Svay Rieng,17.0,4.0,Cambodia,Asia,Svay Rieng,2859.0,2529.0,22.0,
+875,Nova Scotia,0.0,0.0,Canada,North America,Nova Scotia,54906.0,267.0,6132.0,
+876,Takeo,9.0,2.0,Cambodia,Asia,Takeo,3464.0,3062.0,58.0,
+877,Ontario,10.0,1.0,Canada,North America,Ontario,987837.0,29668.0,26902.0,
+878,Adamaoua,11.0,0.0,Cameroon,Africa,Adamaoua,64090.0,2442.0,21659.0,313.0
+879,Prince Edward,15.0,1.0,Canada,North America,Prince Edward,5916.0,1127.0,359.0,
+880,Centre,0.0,0.0,Cameroon,Africa,Centre,68769.0,676.0,19962.0,314.0
+881,Saskatchewan,17.0,2.0,Canada,North America,Saskatchewan,652693.0,162547.0,133968.0,
+882,Est,0.0,0.0,Cameroon,Africa,Est,109055.0,114.0,20432.0,314.0
+883,Mambéré-Kadéï,10.0,0.0,Central Africa,Africa,MambÃ©rÃ©-KadÃ©Ã¯,29467.0,373.0,11235.0,314.0
+884,British Columbia,12.0,0.0,Canada,North America,British Columbia,939564.0,3988.0,167770.0,
+885,NW Territories,0.0,0.0,Canada,North America,NW Territories,1343806.0,0.0,494691.0,
+886,Québec,19.0,0.0,Canada,North America,QuÃ©bec,1507304.0,12587.0,396425.0,
+888,Bamingui,0.0,0.0,Central Africa,Africa,Bamingui,58462.0,85.0,11901.0,313.0
+889,Ombella M'Poko,0.0,0.0,Central Africa,Africa,Ombella M'Poko,31912.0,195.0,24168.0,313.0
+890,Kien Giang,12.0,0.0,Viet Nam,Asia,Kien Giang,6221.0,5545.0,328.0,
+891,Basse-Kotto,4.0,0.0,Central Africa,Africa,Basse-Kotto,16777.0,363.0,2215.0,314.0
+892,Haut-Mbomou,0.0,0.0,Central Africa,Africa,Haut-Mbomou,56380.0,4.0,5260.0,313.0
+893,Hebei Sheng,10.0,0.0,China,Asia,Hebei Sheng,187875.0,102900.0,40793.0,
+894,Kémo,4.0,0.0,Central Africa,Africa,KÃ©mo,16461.0,308.0,10614.0,313.0
+895,Fujian Sheng,29.0,0.0,China,Asia,Fujian Sheng,121306.0,9205.0,24533.0,
+896,Lobaye,0.0,0.0,Central Africa,Africa,Lobaye,18507.0,79.0,4968.0,314.0
+897,Nana-Mambéré,0.0,0.0,Central Africa,Africa,Nana-MambÃ©rÃ©,27188.0,432.0,16291.0,313.0
+898,Sangha-Mbaéré,0.0,0.0,Central Africa,Africa,Sangha-MbaÃ©rÃ©,18556.0,28.0,65.0,314.0
+899,,,,,,Biltine,54019.0,2798.0,24889.0,311.0
+900,Guangdong Sheng,24.0,0.0,China,Asia,Guangdong Sheng,175809.0,31835.0,13516.0,
+901,Guizhou Sheng,12.0,3.0,China,Asia,Guizhou Sheng,174892.0,22825.0,53405.0,
+902,Guangxi Z.Z.,18.0,0.0,China,Asia,Guangxi Z.Z.,236688.0,33101.0,34981.0,
+903,Hainan Sheng,15.0,4.0,China,Asia,Hainan Sheng,33787.0,9048.0,1547.0,
+904,Heilongjiang S.,12.0,0.0,China,Asia,Heilongjiang S.,448269.0,174126.0,46018.0,
+905,,,,,,Guera,61038.0,3252.0,8090.0,312.0
+906,,,,,,Kasai Oriental,172408.0,4635.0,399.0,314.0
+907,,,,,,Lac,16465.0,366.0,12305.0,311.0
+908,,,,,,Katanga,486728.0,18137.0,29769.0,313.0
+909,,,,,,Logone Occ.,8807.0,6500.0,0.0,312.0
+910,Nei Mongol Z.,13.0,4.0,China,Asia,Nei Mongol Z.,1150760.0,93522.0,756498.0,
+911,Antofagasta,0.0,0.0,Chile,South America,Antofagasta,126095.0,3.0,15051.0,
+912,Araucania,8.0,0.0,Chile,South America,Araucania,31664.0,5467.0,974.0,
+913,Atacama,0.0,0.0,Chile,South America,Atacama,75635.0,68.0,20672.0,
+914,,,,,,Kinshasa,10853.0,948.0,14.0,313.0
+915,Carlos Ibañez,0.0,0.0,Chile,South America,Carlos IbaÃ±ez,99498.0,345.0,10556.0,
+916,Magdalena,11.0,0.0,Colombia,South America,Magdalena,22021.0,1897.0,10666.0,
+917,Biobio,15.0,0.0,Chile,South America,Biobio,36976.0,4972.0,2876.0,
+918,Tolima,16.0,0.0,Colombia,South America,Tolima,23409.0,2125.0,8020.0,
+919,Coquimbo,0.0,0.0,Chile,South America,Coquimbo,40962.0,612.0,11123.0,
+920,,,,,,Nord-Kivu,58789.0,10454.0,1679.0,314.0
+921,Beijing Shi,9.0,0.0,China,Asia,Beijing Shi,16434.0,5585.0,1921.0,
+922,Qinghai Sheng,14.0,3.0,China,Asia,Qinghai Sheng,714211.0,5270.0,603351.0,
+923,Chongqing Shi,16.0,0.0,China,Asia,Chongqing Shi,82034.0,28922.0,21531.0,
+924,Gansu Sheng,18.0,8.0,China,Asia,Gansu Sheng,405461.0,54129.0,257116.0,
+925,Henan Sheng,22.0,0.0,China,Asia,Henan Sheng,166254.0,128156.0,6870.0,
+926,Xinjiang U.Z.,1.0,8.0,China,Asia,Xinjiang U.Z.,1605659.0,59695.0,743812.0,
+927,Hubei Sheng,16.0,0.0,China,Asia,Hubei Sheng,186008.0,66964.0,9830.0,
+928,Cesar,13.0,1.0,Colombia,South America,Cesar,22936.0,4589.0,9592.0,
+929,,,,,,Maniema,127599.0,2659.0,2399.0,314.0
+930,Zhejiang Sheng,18.0,0.0,China,Asia,Zhejiang Sheng,101033.0,24412.0,1830.0,
+931,Ningxia Huizu Z.,15.0,7.0,China,Asia,Ningxia Huizu Z.,52257.0,11488.0,40062.0,
+932,Shaanxi Sheng,21.0,8.0,China,Asia,Shaanxi Sheng,205443.0,52145.0,136121.0,
+933,Shandong Sheng,12.0,0.0,China,Asia,Shandong Sheng,154851.0,132263.0,13798.0,
+934,Shanghai Shi,16.0,0.0,China,Asia,Shanghai Shi,6095.0,4593.0,32.0,
+935,Bolivar,8.0,0.0,Colombia,South America,Bolivar,26010.0,1451.0,8356.0,
+936,Shanxi Sheng,17.0,8.0,China,Asia,Shanxi Sheng,155066.0,58296.0,83834.0,
+937,Karnataka,9.0,3.0,India,Asia,Karnataka,191358.0,156625.0,7832.0,
+938,Sichuan Sheng,14.0,2.0,China,Asia,Sichuan Sheng,483792.0,92973.0,244022.0,
+939,Tianjin Shi,15.0,0.0,China,Asia,Tianjin Shi,12066.0,8420.0,493.0,
+940,Antioquia,6.0,0.0,Colombia,South America,Antioquia,63192.0,4739.0,7265.0,
+941,Xizang Zizhiqu,8.0,4.0,China,Asia,Xizang Zizhiqu,1125855.0,585.0,961390.0,
+942,Choco,16.0,2.0,Colombia,South America,Choco,45192.0,64.0,4098.0,
+943,Likouala,0.0,0.0,Congo,Africa,Likouala,66401.0,175.0,0.0,314.0
+944,Kerala,22.0,0.0,India,Asia,Kerala,37912.0,4259.0,277.0,
+945,Yunnan Sheng,23.0,0.0,China,Asia,Yunnan Sheng,383388.0,33110.0,139357.0,
+946,Amazonas,0.0,0.0,Colombia,South America,Amazonas,107540.0,2.0,15.0,
+947,Guajira,23.0,2.0,Colombia,South America,Guajira,21317.0,872.0,13230.0,
+948,Arauca,17.0,0.0,Colombia,South America,Arauca,25338.0,2413.0,18242.0,
+949,Guaviare,0.0,0.0,Colombia,South America,Guaviare,55592.0,0.0,731.0,
+950,Cauca,13.0,0.0,Colombia,South America,Cauca,29098.0,2057.0,4114.0,
+951,Atlantico,8.0,3.0,Colombia,South America,Atlantico,4463.0,701.0,3426.0,
+952,Caldas,13.0,0.0,Colombia,South America,Caldas,7554.0,983.0,992.0,
+953,Caqueta,0.0,0.0,Colombia,South America,Caqueta,90142.0,181.0,1843.0,
+954,Cordoba,6.0,0.0,Colombia,South America,Cordoba,24927.0,4138.0,9149.0,
+955,Guainia,0.0,0.0,Colombia,South America,Guainia,69684.0,1.0,189.0,
+956,Huila,12.0,0.0,Colombia,South America,Huila,20301.0,2746.0,6217.0,
+957,Quindio,17.0,0.0,Colombia,South America,Quindio,1731.0,41.0,431.0,
+958,,,,,,Orientale,505259.0,15434.0,767.0,314.0
+959,Risaralda,15.0,0.0,Colombia,South America,Risaralda,4038.0,139.0,712.0,
+960,Valle Del Cauca,11.0,0.0,Colombia,South America,Valle Del Cauca,21710.0,3259.0,5650.0,
+961,Alajuela,22.0,0.0,Costa Rica,North America,Alajuela,9681.0,1116.0,1369.0,
+962,Lekoumou,0.0,0.0,Congo,Africa,Lekoumou,21137.0,686.0,1368.0,314.0
+963,Sucre,10.0,0.0,Colombia,South America,Sucre,10774.0,2506.0,5855.0,
+964,Kouilou,2.0,6.0,Congo,Africa,Kouilou,13458.0,941.0,344.0,313.0
+965,Cartago,19.0,0.0,Costa Rica,North America,Cartago,3038.0,92.0,367.0,
+966,Guanacaste,3.0,0.0,Costa Rica,North America,Guanacaste,10228.0,1948.0,4372.0,
+967,,,,,,Sud-Kivu,64258.0,5444.0,318.0,314.0
+968,Jihomoravsky,22.0,2.0,Czech Republic,Europe,Jihomoravsky,15004.0,8737.0,2535.0,
+969,Heredia,17.0,0.0,Costa Rica,North America,Heredia,2645.0,75.0,253.0,
+970,Praha,24.0,4.0,Czech Republic,Europe,Praha,1124.0,466.0,162.0,
+971,Severocesky,10.0,2.0,Czech Republic,Europe,Severocesky,7840.0,2983.0,3221.0,
+972,Puntarenas,14.0,0.0,Costa Rica,North America,Puntarenas,11459.0,518.0,3036.0,
+973,Limon,26.0,0.0,Costa Rica,North America,Limon,9069.0,117.0,541.0,
+974,San Jose,11.0,1.0,Costa Rica,North America,San Jose,5006.0,302.0,1926.0,
+975,Galapagos,0.0,0.0,Ecuador,South America,Galapagos,7459.0,139.0,2518.0,
+976,Camaguey,11.0,1.0,Cuba,North America,Camaguey,15752.0,7643.0,2910.0,
+977,Ciego De Avila,13.0,4.0,Cuba,North America,Ciego De Avila,6793.0,3184.0,623.0,
+978,Imbabura,19.0,0.0,Ecuador,South America,Imbabura,4577.0,807.0,1421.0,
+979,Severomoravsky,17.0,12.0,Czech Republic,Europe,Severomoravsky,11086.0,4350.0,3991.0,
+980,Stredocesky,22.0,4.0,Czech Republic,Europe,Stredocesky,10375.0,6244.0,1769.0,
+981,Vychodocesky,18.0,6.0,Czech Republic,Europe,Vychodocesky,11249.0,5895.0,3967.0,
+982,Zapadocesky,4.0,9.0,Czech Republic,Europe,Zapadocesky,10838.0,3753.0,5515.0,
+983,Cienfuegos,12.0,0.0,Cuba,North America,Cienfuegos,4022.0,2308.0,805.0,
+984,Denguele,3.0,0.0,Côte d'Ivoire,Africa,Denguele,21190.0,5046.0,948.0,313.0
+985,Guantanamo,11.0,3.0,Cuba,North America,Guantanamo,6391.0,1144.0,288.0,
+986,Holguin,13.0,4.0,Cuba,North America,Holguin,9137.0,4569.0,395.0,
+987,Granma,10.0,1.0,Cuba,North America,Granma,8422.0,4363.0,1052.0,
+988,Las Tunas,9.0,4.0,Cuba,North America,Las Tunas,6572.0,4315.0,709.0,
+989,Matanzas,8.0,0.0,Cuba,North America,Matanzas,11306.0,4099.0,1649.0,
+990,Pinar Del Rio,16.0,0.0,Cuba,North America,Pinar Del Rio,11066.0,4548.0,1846.0,
+991,El Oro,2.0,0.0,Ecuador,South America,El Oro,5516.0,1303.0,591.0,
+992,Sancti Spiritus,13.0,0.0,Cuba,North America,Sancti Spiritus,6781.0,4047.0,1442.0,
+993,Savanes,7.0,0.0,Côte d'Ivoire,Africa,Savanes,40112.0,17143.0,2901.0,313.0
+994,Santiago De Cuba,8.0,0.0,Cuba,North America,Santiago De Cuba,6244.0,2155.0,200.0,
+995,Bandama,8.0,2.0,Côte d'Ivoire,Africa,Bandama,28274.0,5926.0,4550.0,313.0
+996,Villa Clara,12.0,0.0,Cuba,North America,Villa Clara,8229.0,5610.0,1789.0,
+997,Kangwon-do,5.0,0.0,North Korea,Asia,Kangwon-do,11147.0,1389.0,109.0,
+998,Jihocesky,16.0,8.0,Czech Republic,Europe,Jihocesky,11329.0,4750.0,5320.0,
+999,Esmeraldas,16.0,5.0,Ecuador,South America,Esmeraldas,16022.0,2569.0,1058.0,
+1000,Los Rios,10.0,0.0,Ecuador,South America,Los Rios,7204.0,3144.0,958.0,
+1001,Kaesong-si,5.0,0.0,North Korea,Asia,Kaesong-si,1279.0,568.0,5.0,
+1003,P'yongyang-si,7.0,0.0,North Korea,Asia,P'yongyang-si,2730.0,1455.0,8.0,
+1004,Hamgyong-namdo,7.0,1.0,North Korea,Asia,Hamgyong-namdo,18677.0,2338.0,193.0,
+1005,Hwanghae-namdo,11.0,0.0,North Korea,Asia,Hwanghae-namdo,8953.0,5541.0,74.0,
+1006,P'yongan-namdo,7.0,0.0,North Korea,Asia,P'yongan-namdo,11619.0,3213.0,129.0,
+1007,Yanggang-do,9.0,0.0,North Korea,Asia,Yanggang-do,13892.0,469.0,189.0,
+1010,Manabi,10.0,4.0,Ecuador,South America,Manabi,18973.0,7194.0,1818.0,
+1011,Morona Santiago,0.0,0.0,Ecuador,South America,Morona Santiago,24167.0,63.0,1316.0,
+1012,Napo,10.0,0.0,Ecuador,South America,Napo,12513.0,193.0,1638.0,
+1013,Orellana,8.0,0.0,Ecuador,South America,Orellana,21722.0,925.0,27.0,
+1014,Pastaza,0.0,0.0,Ecuador,South America,Pastaza,29518.0,2.0,21.0,
+1015,Chimborazo,23.0,0.0,Ecuador,South America,Chimborazo,6495.0,759.0,4157.0,
+1017,Cotopaxi,5.0,0.0,Ecuador,South America,Cotopaxi,6105.0,1190.0,2503.0,
+1018,Carchi,8.0,0.0,Ecuador,South America,Carchi,3491.0,772.0,705.0,
+1019,Tungurahua,9.0,0.0,Ecuador,South America,Tungurahua,3382.0,548.0,1658.0,
+1020,Bioko Sur,0.0,0.0,Equat. Guinea,Africa,Bioko Sur,1333.0,1.0,0.0,314.0
+1021,Kientem,0.0,0.0,Equat. Guinea,Africa,Kientem,3252.0,0.0,113.0,314.0
+1022,Centro Sur,0.0,0.0,Equat. Guinea,Africa,Centro Sur,8399.0,0.0,656.0,314.0
+1023,Gash Barka,12.0,4.0,Eritrea,Africa,Gash Barka,33294.0,2268.0,19011.0,311.0
+1024,Anseba,11.0,2.0,Eritrea,Africa,Anseba,20992.0,1281.0,5891.0,311.0
+1025,Debub,8.0,4.0,Eritrea,Africa,Debub,9481.0,2191.0,1413.0,322.0
+1026,Litoral,0.0,0.0,Equat. Guinea,Africa,Litoral,7266.0,0.0,1003.0,314.0
+1027,Welenzas,0.0,0.0,Equat. Guinea,Africa,Welenzas,6098.0,0.0,134.0,314.0
+1028,Debubawi K.B.,0.0,0.0,Eritrea,Africa,Debubawi K.B.,21217.0,0.0,1513.0,311.0
+1029,Maekel,11.0,4.0,Eritrea,Africa,Maekel,1041.0,640.0,24.0,322.0
+1030,Semenawi K.B.,3.0,0.0,Eritrea,Africa,Semenawi K.B.,33448.0,604.0,5615.0,311.0
+1036,Orissa,10.0,3.0,India,Asia,Orissa,155391.0,98704.0,15293.0,
+1038,Tripura,8.0,0.0,India,Asia,Tripura,10551.0,2446.0,321.0,
+1039,Punjab,25.0,0.0,India,Asia,Punjab,50120.0,49173.0,59.0,
+1040,Ogooue-Ivindo,0.0,0.0,Gabon,Africa,Ogooue-Ivindo,43636.0,40.0,18.0,314.0
+1041,Haut-Ogooue,0.0,0.0,Gabon,Africa,Haut-Ogooue,33647.0,310.0,8300.0,314.0
+1042,Moyen-Ogooue,0.0,0.0,Gabon,Africa,Moyen-Ogooue,16670.0,105.0,4.0,314.0
+1043,Kakheti,18.0,2.0,Georgia,Europe,Kakheti,11424.0,1638.0,2996.0,
+1044,Nyanga,7.0,6.0,Gabon,Africa,Nyanga,22397.0,366.0,663.0,313.0
+1045,A.M. Kai Thraki,26.0,0.0,Greece,Europe,A.M. Kai Thraki,14051.0,5335.0,2521.0,
+1046,Ngounie,0.0,0.0,Gabon,Africa,Ngounie,38523.0,304.0,0.0,314.0
+1047,Ogooue-lolo,0.0,0.0,Gabon,Africa,Ogooue-lolo,29118.0,13.0,0.0,314.0
+1048,Sachsen-Anhalt,21.0,6.0,Germany,Europe,Sachsen-Anhalt,20099.0,11365.0,6945.0,
+1049,Ogooue-Maritime,0.0,0.0,Gabon,Africa,Ogooue-Maritime,23424.0,54.0,587.0,313.0
+1050,Woleu-Ntem,0.0,0.0,Gabon,Africa,Woleu-Ntem,37400.0,196.0,0.0,314.0
+1051,Bayern,6.0,5.0,Germany,Europe,Bayern,70765.0,24344.0,40123.0,
+1052,Abkhazia ,8.0,1.0,Georgia,Europe,Abkhazia,8699.0,195.0,2252.0,
+1053,Brandenburg,16.0,7.0,Germany,Europe,Brandenburg,29725.0,10962.0,12264.0,
+1054,Adjara Aut. Rep.,12.0,8.0,Georgia,Europe,Adjara Aut. Rep.,2884.0,193.0,257.0,
+1055,Hessen,20.0,1.0,Germany,Europe,Hessen,21108.0,5741.0,12006.0,
+1056,Ashanti,9.0,0.0,Ghana,Africa,Ashanti,24400.0,16452.0,115.0,314.0
+1057,Mecklenburg V.,18.0,9.0,Germany,Europe,Mecklenburg V.,23601.0,12310.0,11735.0,
+1058,Niedersachsen,7.0,0.0,Germany,Europe,Niedersachsen,47502.0,22229.0,23339.0,
+1059,Central,12.0,5.0,Ghana,Africa,Central,9655.0,8916.0,406.0,313.0
+1060,Guria,10.0,0.0,Georgia,Europe,Guria,2054.0,266.0,247.0,
+1061,Ipeiros,19.0,0.0,Greece,Europe,Ipeiros,8717.0,2102.0,2535.0,
+1062,Nordrhein W.,9.0,2.0,Germany,Europe,Nordrhein W.,33908.0,13369.0,16193.0,
+1063,Volta,14.0,1.0,Ghana,Africa,Volta,20463.0,7823.0,827.0,313.0
+1064,Imereti,14.0,1.0,Georgia,Europe,Imereti,6489.0,1429.0,1303.0,
+1065,Kvemo Kartli,29.0,2.0,Georgia,Europe,Kvemo Kartli,6470.0,1264.0,1971.0,
+1066,Brong Ahafo,11.0,0.0,Ghana,Africa,Brong Ahafo,40180.0,10665.0,1988.0,313.0
+1067,West,10.0,3.0,Ghana,Africa,West,24321.0,18377.0,383.0,314.0
+1068,Mtskheta,20.0,7.0,Georgia,Europe,Mtskheta,6829.0,394.0,2695.0,
+1069,Racha-Lechkhumi,0.0,0.0,Georgia,Europe,Racha-Lechkhumi,5053.0,32.0,1699.0,
+1070,Samergelo,13.0,0.0,Georgia,Europe,Samergelo,7518.0,1162.0,2830.0,
+1071,Samtskhe J.,18.0,12.0,Georgia,Europe,Samtskhe J.,6438.0,1720.0,1921.0,
+1072,Shida Kartli,22.0,6.0,Georgia,Europe,Shida Kartli,5711.0,1258.0,1588.0,
+1073,Baden W.,7.0,0.0,Germany,Europe,Baden W.,35808.0,11625.0,18262.0,
+1074,Voreio Aigaio,17.0,3.0,Greece,Europe,Voreio Aigaio,3745.0,1405.0,1517.0,
+1075,Saarland,5.0,0.0,Germany,Europe,Saarland,2549.0,433.0,1633.0,
+1076,Sachsen,19.0,6.0,Germany,Europe,Sachsen,18543.0,8152.0,9017.0,
+1077,Schleswig,14.0,2.0,Germany,Europe,Schleswig,15311.0,7395.0,10217.0,
+1078,Thueringen,18.0,6.0,Germany,Europe,Thueringen,15990.0,7219.0,7076.0,
+1079,Greater Accra,11.0,9.0,Ghana,Africa,Greater Accra,3617.0,1874.0,254.0,313.0
+1081,Northern,7.0,2.0,Ghana,Africa,Northern,69912.0,12095.0,8102.0,313.0
+1082,Upper East,6.0,1.0,Ghana,Africa,Upper East,8568.0,4771.0,19.0,313.0
+1083,Dytiki Makedonia,25.0,0.0,Greece,Europe,Dytiki Makedonia,9667.0,3424.0,2721.0,
+1084,Machakos,9.0,7.0,Kenya,Africa,Machakos,6231.0,3719.0,1613.0,323.0
+1085,Kentriki M.,16.0,0.0,Greece,Europe,Kentriki M.,19675.0,9600.0,2736.0,
+1086,Peloponnisos,14.0,2.0,Greece,Europe,Peloponnisos,15521.0,5809.0,3995.0,
+1088,Lofa,13.0,0.0,Liberia,Africa,Lofa,9845.0,204.0,4089.0,314.0
+1089,Sterea Ellada,10.0,4.0,Greece,Europe,Sterea Ellada,15550.0,4919.0,2592.0,
+1090,Upper Takutu,29.0,5.0,Guyana,South America,Upper Takutu,54901.0,734.0,746.0,
+1091,Nordgronland,0.0,0.0,Greenland,North America,Nordgronland,486534.0,0.0,0.0,
+1093,Vestgronland,0.0,0.0,Greenland,North America,Vestgronland,626204.0,0.0,0.0,
+1096,Al Aziziyah,12.0,8.0,Libya,Africa,Al Aziziyah,1333.0,716.0,7.0,212.0
+1098,Kayar,6.0,0.0,Myanmar,Asia,Kayar,11672.0,977.0,605.0,
+1101,Makueni,9.0,6.0,Kenya,Africa,Makueni,7999.0,4223.0,642.0,312.0
+1102,Karagandinskaya,16.0,6.0,Kazakhstan,Asia,Karagandinskaya,430575.0,19285.0,73365.0,
+1104,Sedhiou,0.0,1.0,Senegal,Africa,Sedhiou,7394.0,1991.0,46.0,312.0
+1106,Kon Tum,12.0,4.0,Viet Nam,Asia,Kon Tum,9645.0,2455.0,56.0,
+1108,Kaffrine,5.0,11.0,Senegal,Africa,Kaffrine,11296.0,7768.0,2788.0,312.0
+1109,Kaolack,5.0,6.0,Senegal,Africa,Kaolack,4809.0,4148.0,158.0,312.0
+1110,Essequibo,15.0,0.0,Guyana,South America,Essequibo,3065.0,403.0,4.0,
+1111,Oio,0.0,0.0,Guinea-Bissau,Africa,Oio,5244.0,596.0,0.0,312.0
+1112,Bafata,3.0,0.0,Guinea-Bissau,Africa,Bafata,5806.0,227.0,465.0,312.0
+1113,Rakhine,5.0,0.0,Myanmar,Asia,Rakhine,32688.0,5739.0,1154.0,
+1114,Gabu,1.0,0.0,Guinea-Bissau,Africa,Gabu,9066.0,325.0,3789.0,313.0
+1115,Barima Waini,0.0,0.0,Guyana,South America,Barima Waini,18995.0,70.0,22.0,
+1116,Chin,0.0,0.0,Myanmar,Asia,Chin,36050.0,285.0,72.0,
+1117,East Berbice,10.0,0.0,Guyana,South America,East Berbice,36753.0,512.0,56.0,
+1118,Demerara Mahaica,15.0,0.0,Guyana,South America,Demerara Mahaica,2001.0,376.0,218.0,
+1119,Vientiane,12.0,0.0,Laos,Asia,Vientiane,19052.0,1902.0,2157.0,
+1120,Mahaica Berbice,11.0,5.0,Guyana,South America,Mahaica Berbice,3701.0,432.0,414.0,
+1121,Pomeroon,8.0,0.0,Guyana,South America,Pomeroon,5551.0,243.0,12.0,
+1122,Upper Demerara,17.0,0.0,Guyana,South America,Upper Demerara,16830.0,324.0,220.0,
+1123,Olancho,10.0,0.0,Honduras,North America,Olancho,25609.0,3091.0,1690.0,
+1124,Ayeyawaddy,12.0,0.0,Myanmar,Asia,Ayeyawaddy,32641.0,19817.0,714.0,
+1125,Atlantida,14.0,0.0,Honduras,North America,Atlantida,3860.0,450.0,144.0,
+1126,Kachin,15.0,0.0,Myanmar,Asia,Kachin,88671.0,5347.0,2681.0,
+1127,Choluteca,10.0,0.0,Honduras,North America,Choluteca,4393.0,2430.0,800.0,
+1128,Kayin,11.0,2.0,Myanmar,Asia,Kayin,30408.0,4566.0,81.0,
+1129,Tiba,17.0,0.0,Japan,Asia,Tiba,5151.0,2333.0,115.0,
+1130,Colon,12.0,0.0,Honduras,North America,Colon,8968.0,1139.0,422.0,
+1131,Comayagua,9.0,0.0,Honduras,North America,Comayagua,4926.0,781.0,1668.0,
+1132,Magway,1.0,2.0,Myanmar,Asia,Magway,44694.0,21140.0,561.0,
+1133,Yangon,17.0,3.0,Myanmar,Asia,Yangon,9643.0,6603.0,437.0,
+1134,Copan,21.0,0.0,Honduras,North America,Copan,3343.0,954.0,390.0,
+1135,F. Morazan,12.0,0.0,Honduras,North America,F. Morazan,8556.0,1631.0,2310.0,
+1136,Xiangkhouang,14.0,2.0,Laos,Asia,Xiangkhouang,13794.0,1110.0,2711.0,
+1137,Ocotepeque,9.0,0.0,Honduras,North America,Ocotepeque,1625.0,418.0,394.0,
+1138,Erongo,0.0,0.0,Namibia,Africa,Erongo,63533.0,0.0,29066.0,311.0
+1139,Intibuca,5.0,0.0,Honduras,North America,Intibuca,3093.0,425.0,937.0,
+1140,Mandalay,4.0,3.0,Myanmar,Asia,Mandalay,38179.0,21844.0,455.0,
+1141,Yoro,15.0,0.0,Honduras,North America,Yoro,7788.0,1035.0,1159.0,
+1142,La Paz,5.0,0.0,Honduras,North America,La Paz,2406.0,289.0,1197.0,
+1143,Mon,9.0,2.0,Myanmar,Asia,Mon,10723.0,4239.0,508.0,
+1144,Goa,12.0,6.0,India,Asia,Goa,3655.0,1306.0,185.0,
+1145,Lempira,10.0,0.0,Honduras,North America,Lempira,4201.0,758.0,1049.0,
+1146,Sagaing,2.0,1.0,Myanmar,Asia,Sagaing,93962.0,27347.0,1019.0,
+1147,Maharashtra,11.0,3.0,India,Asia,Maharashtra,307062.0,271819.0,18741.0,
+1148,Paraiso,7.0,0.0,Honduras,North America,Paraiso,6026.0,1417.0,1422.0,
+1149,Santa Barbara,13.0,0.0,Honduras,North America,Santa Barbara,5089.0,246.0,205.0,
+1150,Andhra Pradesh,15.0,2.0,India,Asia,Andhra Pradesh,274332.0,230000.0,20148.0,
+1151,Wakayama,14.0,0.0,Japan,Asia,Wakayama,4647.0,477.0,29.0,
+1152,Valle,5.0,0.0,Honduras,North America,Valle,1575.0,729.0,534.0,
+1153,Andaman,36.0,4.0,India,Asia,Andaman,5989.0,119.0,29.0,
+1154,Manipur,11.0,2.0,India,Asia,Manipur,22328.0,2739.0,147.0,
+1155,Delhi,25.0,8.0,India,Asia,Delhi,1502.0,738.0,0.0,
+1156,Gujarat,6.0,6.0,India,Asia,Gujarat,168655.0,147538.0,17415.0,
+1157,Meghalaya,13.0,0.0,India,Asia,Meghalaya,22576.0,2098.0,950.0,
+1158,Haryana,18.0,13.0,India,Asia,Haryana,44025.0,42973.0,341.0,
+1159,Mizoram,8.0,0.0,India,Asia,Mizoram,21184.0,237.0,0.0,
+1160,Nagaland,8.0,0.0,India,Asia,Nagaland,16479.0,738.0,26.0,
+1161,Kalimantan Timur,9.0,0.0,Indonesia,Asia,Kalimantan Timur,196930.0,13546.0,92.0,
+1162,Hardap,0.0,0.0,Namibia,Africa,Hardap,109671.0,27.0,89427.0,311.0
+1163,Rajasthan,13.0,9.0,India,Asia,Rajasthan,342032.0,241655.0,89990.0,
+1164,West Bengal,12.0,0.0,India,Asia,West Bengal,82932.0,76337.0,1791.0,
+1165,Nangroe A.D.,11.0,0.0,Indonesia,Asia,Nangroe A.D.,56457.0,7548.0,2.0,
+1166,Hamedan,8.0,5.0,Iran,Asia,Hamedan,19354.0,5682.0,2413.0,
+1167,Sikkim,23.0,2.0,India,Asia,Sikkim,7157.0,286.0,2231.0,
+1168,Tamil Nadu,7.0,2.0,India,Asia,Tamil Nadu,130563.0,109696.0,1605.0,
+1169,Bali,23.0,0.0,Indonesia,Asia,Bali,5641.0,1403.0,7.0,
+1170,Kalimantan Barat,16.0,0.0,Indonesia,Asia,Kalimantan Barat,146916.0,22113.0,16.0,
+1171,Daerah I.Y.,18.0,0.0,Indonesia,Asia,Daerah I.Y.,3159.0,1335.0,0.0,
+1172,Friuli,7.0,0.0,Italy,Europe,Friuli,7722.0,2995.0,1111.0,
+1173,Jambi,13.0,0.0,Indonesia,Asia,Jambi,49002.0,11372.0,2.0,
+1174,Jawa Tengah,24.0,0.0,Indonesia,Asia,Jawa Tengah,33985.0,18048.0,4.0,
+1175,Jawa Timur,21.0,0.0,Indonesia,Asia,Jawa Timur,46979.0,25926.0,68.0,
+1176,Lampung,15.0,0.0,Indonesia,Asia,Lampung,33507.0,22157.0,4.0,
+1177,East Azarbayejan,21.0,3.0,Iran,Asia,East Azarbayejan,47985.0,5324.0,11592.0,
+1178,Nusatenggara B.,16.0,0.0,Indonesia,Asia,Nusatenggara B.,19272.0,5935.0,31.0,
+1179,Nusatenggara T.,21.0,0.0,Indonesia,Asia,Nusatenggara T.,45502.0,8698.0,0.0,
+1180,Chaharmahal-o B.,10.0,4.0,Iran,Asia,Chaharmahal-o B.,16340.0,788.0,3394.0,
+1181,Gilan,22.0,0.0,Iran,Asia,Gilan,13961.0,2996.0,820.0,
+1182,Khorasan,12.0,0.0,Iran,Asia,Khorasan,295275.0,26270.0,34171.0,
+1183,Ninewa,9.0,6.0,Iraq,Asia,Ninewa,37331.0,9540.0,725.0,
+1185,Markazi,4.0,6.0,Iran,Asia,Markazi,29212.0,4487.0,4811.0,
+1186,Sistan B.,0.0,0.0,Iran,Asia,Sistan B.,177491.0,16791.0,917.0,
+1187,Mazandaran,16.0,0.0,Iran,Asia,Mazandaran,24001.0,3535.0,2266.0,
+1188,Tehran,23.0,0.0,Iran,Asia,Tehran,18830.0,1703.0,3853.0,
+1189,West Azarbayejan,21.0,0.0,Iran,Asia,West Azarbayejan,39013.0,5784.0,6038.0,
+1190,Diyala,13.0,7.0,Iraq,Asia,Diyala,18593.0,6590.0,15.0,
+1191,Karas,0.0,0.0,Namibia,Africa,Karas,161176.0,42.0,113234.0,221.0
+1192,Erbil,9.0,3.0,Iraq,Asia,Erbil,15502.0,6347.0,2643.0,
+1193,Yazd,9.0,0.0,Iran,Asia,Yazd,73782.0,4935.0,2823.0,
+1194,Anbar,7.0,0.0,Iraq,Asia,Anbar,135522.0,2639.0,24.0,
+1195,Basrah,5.0,2.0,Iraq,Asia,Basrah,17377.0,1949.0,46.0,
+1196,Kirkuk,11.0,5.0,Iraq,Asia,Kirkuk,9737.0,5827.0,0.0,
+1197,Qadissiya,9.0,2.0,Iraq,Asia,Qadissiya,8565.0,4719.0,0.0,
+1198,Salah al-Din,16.0,4.0,Iraq,Asia,Salah al-Din,24850.0,7601.0,0.0,
+1199,Muthanna,5.0,4.0,Iraq,Asia,Muthanna,52188.0,1644.0,0.0,
+1200,Dahuk,8.0,7.0,Iraq,Asia,Dahuk,6529.0,459.0,5592.0,
+1201,Najaf,5.0,4.0,Iraq,Asia,Najaf,28568.0,1020.0,0.0,
+1202,Calabria,15.0,0.0,Italy,Europe,Calabria,15203.0,7152.0,2127.0,
+1203,Babil,11.0,4.0,Iraq,Asia,Babil,5341.0,4193.0,0.0,
+1204,Campania,12.0,0.0,Italy,Europe,Campania,13618.0,7376.0,2378.0,
+1205,Sulaymaniyah,6.0,4.0,Iraq,Asia,Sulaymaniyah,17470.0,3468.0,4622.0,
+1206,Wassit,13.0,6.0,Iraq,Asia,Wassit,17775.0,8140.0,0.0,
+1207,Abruzzi,7.0,1.0,Italy,Europe,Abruzzi,10797.0,4699.0,3300.0,
+1208,Baghdad,10.0,2.0,Iraq,Asia,Baghdad,5178.0,3568.0,0.0,
+1209,Atlantico Sur,9.0,0.0,Nicaragua,North America,Atlantico Sur,28127.0,11173.0,689.0,
+1210,Thi-Qar,8.0,4.0,Iraq,Asia,Thi-Qar,13638.0,4319.0,0.0,
+1211,Emilia-romagna,21.0,0.0,Italy,Europe,Emilia-romagna,22204.0,14958.0,771.0,
+1212,Kerbala,5.0,0.0,Iraq,Asia,Kerbala,4988.0,860.0,0.0,
+1213,Blekinge Laen,7.0,5.0,Sweden,Europe,Blekinge Laen,2916.0,393.0,234.0,
+1214,Lazio,9.0,0.0,Italy,Europe,Lazio,17227.0,9641.0,2931.0,
+1215,Liguria,9.0,0.0,Italy,Europe,Liguria,5410.0,852.0,735.0,
+1216,Missan,9.0,6.0,Iraq,Asia,Missan,16728.0,5768.0,0.0,
+1217,Molise,17.0,0.0,Italy,Europe,Molise,4439.0,2704.0,525.0,
+1218,Piemonte,11.0,0.0,Italy,Europe,Piemonte,25503.0,10756.0,6388.0,
+1219,Aomori,11.0,0.0,Japan,Asia,Aomori,9661.0,1521.0,127.0,
+1220,Valle D'aosta,5.0,2.0,Italy,Europe,Valle D'aosta,3358.0,143.0,1846.0,
+1221,Kelantan,5.0,0.0,Malaysia,Asia,Kelantan,14984.0,4918.0,0.0,
+1222,Veneto,12.0,1.0,Italy,Europe,Veneto,17941.0,10138.0,2406.0,
+1223,Aiti,17.0,0.0,Japan,Asia,Aiti,5103.0,2107.0,374.0,
+1224,Ehime,15.0,0.0,Japan,Asia,Ehime,5400.0,561.0,78.0,
+1225,Iwate,17.0,0.0,Japan,Asia,Iwate,15359.0,1745.0,44.0,
+1226,Ibaraki,20.0,0.0,Japan,Asia,Ibaraki,6175.0,3563.0,66.0,
+1227,Kagawa,15.0,0.0,Japan,Asia,Kagawa,1622.0,688.0,37.0,
+1228,Orenburgskaya ,8.0,10.0,Russian Fed.,Asia,Orenburgskaya,124615.0,46908.0,47955.0,
+1229,Kagosima,18.0,0.0,Japan,Asia,Kagosima,8547.0,1132.0,93.0,
+1230,Kooti,11.0,0.0,Japan,Asia,Kooti,7249.0,378.0,21.0,
+1231,Kanagawa,11.0,0.0,Japan,Asia,Kanagawa,2429.0,655.0,179.0,
+1232,Nara,12.0,0.0,Japan,Asia,Nara,3692.0,562.0,3.0,
+1233,Niigata,16.0,0.0,Japan,Asia,Niigata,12540.0,2637.0,150.0,
+1234,Ooita,13.0,0.0,Japan,Asia,Ooita,6346.0,805.0,22.0,
+1235,Finnmark,0.0,0.0,Norway,Europe,Finnmark,48175.0,0.0,19.0,
+1236,Oosaka,11.0,0.0,Japan,Asia,Oosaka,1719.0,642.0,452.0,
+1237,Saitama,18.0,0.0,Japan,Asia,Saitama,3798.0,1883.0,133.0,
+1238,Hordaland,6.0,0.0,Norway,Europe,Hordaland,14021.0,631.0,81.0,
+1239,Ma'an,0.0,0.0,Jordan,Asia,Ma'an,32575.0,14.0,0.0,
+1240,Pavlodarskaya,10.0,19.0,Kazakhstan,Asia,Pavlodarskaya,124885.0,45029.0,58270.0,
+1241,Siga,15.0,0.0,Japan,Asia,Siga,4016.0,1053.0,28.0,
+1242,Kustanayskaya,11.0,15.0,Kazakhstan,Asia,Kustanayskaya,195338.0,83850.0,40361.0,
+1243,Totigi,18.0,0.0,Japan,Asia,Totigi,6409.0,2428.0,59.0,
+1244,Tookyoo,12.0,0.0,Japan,Asia,Tookyoo,1766.0,159.0,111.0,
+1245,Severo,15.0,12.0,Kazakhstan,Asia,Severo,123653.0,103630.0,16721.0,
+1246,Tottori,12.0,0.0,Japan,Asia,Tottori,3500.0,455.0,34.0,
+1247,Toyama,17.0,0.0,Japan,Asia,Toyama,4258.0,1268.0,90.0,
+1248,Yamagata,22.0,0.0,Japan,Asia,Yamagata,9299.0,1761.0,49.0,
+1249,Yamaguti,19.0,0.0,Japan,Asia,Yamaguti,5919.0,811.0,72.0,
+1250,Yamanasi,15.0,0.0,Japan,Asia,Yamanasi,4469.0,587.0,32.0,
+1251,Balqa,7.0,8.0,Jordan,Asia,Balqa,1118.0,518.0,120.0,
+1252,Karak,1.0,8.0,Jordan,Asia,Karak,3735.0,165.0,33.0,
+1253,Aqaba,0.0,0.0,Jordan,Asia,Aqaba,6905.0,17.0,0.0,211.0
+1254,Xaignabouli,5.0,1.0,Laos,Asia,Xaignabouli,15422.0,1457.0,96.0,
+1255,Amman,3.0,6.0,Jordan,Asia,Amman,7728.0,278.0,84.0,
+1257,Mafraq,5.0,3.0,Jordan,Asia,Mafraq,26418.0,99.0,34.0,
+1258,Zarqa,3.0,4.0,Jordan,Asia,Zarqa,4723.0,66.0,21.0,
+1259,Tafiela,5.0,8.0,Jordan,Asia,Tafiela,2266.0,0.0,0.0,
+1260,Irbid,8.0,4.0,Jordan,Asia,Irbid,1606.0,1322.0,59.0,
+1262,Almatinskaya,22.0,0.0,Kazakhstan,Asia,Almatinskaya,223086.0,21938.0,53307.0,
+1263,Champasak,7.0,5.0,Laos,Asia,Champasak,14814.0,3270.0,759.0,
+1264,Madaba,4.0,5.0,Jordan,Asia,Madaba,1166.0,110.0,3.0,
+1265,Akmolinskaya,15.0,8.0,Kazakhstan,Asia,Akmolinskaya,121737.0,61687.0,50542.0,
+1266,Aktyubinskaya,25.0,10.0,Kazakhstan,Asia,Aktyubinskaya,300646.0,11553.0,21301.0,
+1267,Houaphan,13.0,0.0,Laos,Asia,Houaphan,17693.0,340.0,2060.0,
+1268,Kyzylordinskaya,13.0,0.0,Kazakhstan,Asia,Kyzylordinskaya,226676.0,13757.0,678.0,
+1269,Khammouan,21.0,3.0,Laos,Asia,Khammouan,16491.0,1664.0,63.0,
+1271,Mangistauskaya,0.0,0.0,Kazakhstan,Asia,Mangistauskaya,165764.0,3.0,889.0,
+1272,Salavan,22.0,4.0,Laos,Asia,Salavan,10199.0,2084.0,425.0,
+1273,Savannakhet,13.0,3.0,Laos,Asia,Savannakhet,21457.0,7996.0,395.0,
+1274,Bokeo,17.0,0.0,Laos,Asia,Bokeo,6910.0,481.0,0.0,
+1275,Grand Bassa,13.0,2.0,Liberia,Africa,Grand Bassa,7724.0,178.0,1908.0,314.0
+1276,Louang-Namtha,16.0,0.0,Laos,Asia,Louang-Namtha,9814.0,333.0,282.0,
+1277,Oudomxai,17.0,0.0,Laos,Asia,Oudomxai,11729.0,336.0,102.0,
+1278,Xekong,15.0,5.0,Laos,Asia,Xekong,8452.0,200.0,96.0,
+1279,Vientiane cap.,9.0,0.0,Laos,Asia,Vientiane,3608.0,1921.0,60.0,
+1280,Sawfajjin,0.0,0.0,Libya,Africa,Sawfajjin,47125.0,169.0,27.0,211.0
+1282,Grand Kru,4.0,0.0,Liberia,Africa,Grand Kru,3857.0,179.0,722.0,314.0
+1287,Southland,30.0,0.0,New Zealand,Oceania,Southland,32320.0,5347.0,8526.0,
+1289,Bomi,9.0,3.0,Liberia,Africa,Bomi,1921.0,55.0,832.0,314.0
+1290,Gbarpolu,0.0,0.0,Liberia,Africa,Gbarpolu,9853.0,12.0,1132.0,314.0
+1291,Grand Cape Mount,6.0,4.0,Liberia,Africa,Grand Cape Mount,4814.0,65.0,1508.0,313.0
+1292,Omskaya ,9.0,6.0,Russian Fed.,Asia,Omskaya,141358.0,24581.0,40901.0,
+1293,Ajdabiya,0.0,0.0,Libya,Africa,Ajdabiya,197437.0,321.0,66.0,211.0
+1294,Al Jabal A.K.,8.0,9.0,Libya,Africa,Al Jabal A.K.,8390.0,506.0,1055.0,212.0
+1295,Margibi,14.0,4.0,Liberia,Africa,Margibi,2682.0,564.0,1540.0,314.0
+1296,Maryland,5.0,3.0,Liberia,Africa,Maryland,2316.0,194.0,279.0,314.0
+1297,Al Fatah,7.0,5.0,Libya,Africa,Al Fatah,14773.0,1703.0,1116.0,212.0
+1298,Montserrado,12.0,4.0,Liberia,Africa,Montserrado,1868.0,333.0,1085.0,314.0
+1299,Al Khoms,6.0,9.0,Libya,Africa,Al Khoms,1878.0,617.0,4.0,212.0
+1300,River Gee,0.0,0.0,Liberia,Africa,River Gee,5117.0,12.0,140.0,314.0
+1301,Al Kufrah,0.0,0.0,Libya,Africa,Al Kufrah,423987.0,162.0,9.0,211.0
+1302,Sinoe,0.0,0.0,Liberia,Africa,Sinoe,9665.0,8.0,482.0,314.0
+1303,Vologodskaya ,11.0,1.0,Russian Fed.,Asia,Vologodskaya,145867.0,2118.0,10611.0,
+1304,Al Jufrah,0.0,0.0,Libya,Africa,Al Jufrah,115068.0,214.0,76.0,211.0
+1305,Az Zawia,9.0,12.0,Libya,Africa,Az Zawia,3328.0,1285.0,12.0,212.0
+1306,Ash Shati,0.0,0.0,Libya,Africa,Ash Shati,95922.0,121.0,0.0,211.0
+1307,Voronezhskaya ,5.0,10.0,Russian Fed.,Asia,Voronezhskaya,52086.0,28340.0,16996.0,
+1308,Banghazi,4.0,4.0,Libya,Africa,Banghazi,9598.0,2417.0,207.0,212.0
+1309,Awbari (ubari),0.0,0.0,Libya,Africa,Awbari (ubari),83042.0,342.0,77.0,211.0
+1310,Ghadamis,0.0,0.0,Libya,Africa,Ghadamis,66575.0,69.0,17.0,211.0
+1311,Misurata,11.0,18.0,Libya,Africa,Misurata,2472.0,552.0,11.0,212.0
+1312,Darnah,7.0,6.0,Libya,Africa,Darnah,21151.0,231.0,494.0,211.0
+1313,Gharyan,0.0,0.0,Libya,Africa,Gharyan,79357.0,520.0,3.0,211.0
+1314,Caaguazu,19.0,1.0,Paraguay,South America,Caaguazu,12948.0,6024.0,1507.0,
+1315,Murzuq,0.0,0.0,Libya,Africa,Murzuq,282690.0,359.0,3.0,211.0
+1316,Nuqat Al Khams,8.0,5.0,Libya,Africa,Nuqat Al Khams,5845.0,1384.0,4.0,211.0
+1317,Sabha,0.0,8.0,Libya,Africa,Sabha,17232.0,261.0,8.0,211.0
+1318,Caazapa,9.0,1.0,Paraguay,South America,Caazapa,9543.0,3554.0,760.0,
+1319,Surt (sirte),0.0,0.0,Libya,Africa,Surt (sirte),46146.0,342.0,6.0,211.0
+1320,Tarhunah,6.0,9.0,Libya,Africa,Tarhunah,3670.0,1130.0,0.0,212.0
+1321,Tripoli,11.0,8.0,Libya,Africa,Tripoli,2582.0,1678.0,26.0,212.0
+1322,Yafran (yefren),4.0,6.0,Libya,Africa,Yafran (yefren),9409.0,386.0,2.0,211.0
+1323,Zeleitin,12.0,8.0,Libya,Africa,Zeleitin,2445.0,344.0,2.0,212.0
+1324,Alytaus,9.0,11.0,Lithuania,Europe,Alytaus,5438.0,2024.0,1376.0,
+1325,Johor,12.0,0.0,Malaysia,Asia,Johor,19111.0,6450.0,4.0,
+1326,Marijampoles,11.0,8.0,Lithuania,Europe,Marijampoles,4450.0,3067.0,790.0,
+1327,Kedah,21.0,0.0,Malaysia,Asia,Kedah,8961.0,4993.0,0.0,
+1328,Kauno,7.0,14.0,Lithuania,Europe,Kauno,8188.0,4832.0,1253.0,
+1329,Klaipedos,3.0,11.0,Lithuania,Europe,Klaipedos,5223.0,3045.0,1206.0,
+1330,Madinah,0.0,0.0,Saudi Arabia,Asia,Madinah,144272.0,475.0,0.0,
+1331,Orlovskaya ,6.0,7.0,Russian Fed.,Asia,Orlovskaya,24725.0,12434.0,4922.0,
+1332,Panevezio,2.0,14.0,Lithuania,Europe,Panevezio,7838.0,4844.0,1479.0,
+1333,Siauliu,4.0,13.0,Lithuania,Europe,Siauliu,8838.0,5660.0,1309.0,
+1334,Penzenskaya ,4.0,15.0,Russian Fed.,Asia,Penzenskaya,43386.0,16332.0,10190.0,
+1335,Melaka,6.0,0.0,Malaysia,Asia,Melaka,1625.0,1028.0,0.0,
+1336,Taurages,2.0,12.0,Lithuania,Europe,Taurages,3860.0,2204.0,760.0,
+1337,Makkah,0.0,0.0,Saudi Arabia,Asia,Makkah,137985.0,838.0,29.0,
+1338,Telsiu,3.0,12.0,Lithuania,Europe,Telsiu,4103.0,2202.0,1062.0,
+1339,East Sepik,8.0,0.0,Papua New Guinea,Oceania,East Sepik,44020.0,2012.0,0.0,
+1340,Utenos,2.0,8.0,Lithuania,Europe,Utenos,7239.0,3464.0,2200.0,
+1341,Vilniaus,2.0,7.0,Lithuania,Europe,Vilniaus,9652.0,3942.0,2392.0,
+1342,Northern Region,10.0,0.0,Malawi,Africa,Northern Region,27116.0,8423.0,11445.0,322.0
+1343,Southern Region,11.0,4.0,Malawi,Africa,Southern Region,33385.0,17723.0,2263.0,312.0
+1344,Pahang,6.0,0.0,Malaysia,Asia,Pahang,35900.0,5942.0,16.0,
+1345,Negeri Sembilan,5.0,0.0,Malaysia,Asia,Negeri Sembilan,6642.0,2880.0,2.0,
+1346,Kidal,0.0,0.0,Mali,Africa,Kidal,149636.0,0.0,1608.0,311.0
+1347,Perak,19.0,0.0,Malaysia,Asia,Perak,20811.0,6621.0,0.0,
+1348,Adrar,0.0,0.0,Mauritania,Africa,Adrar,222933.0,78.0,1552.0,311.0
+1349,Gao,0.0,0.0,Mali,Africa,Gao,177765.0,11.0,20271.0,311.0
+1350,Dakhlet N.,0.0,0.0,Mauritania,Africa,Dakhlet N.,22726.0,0.0,81.0,311.0
+1351,Northern,0.0,0.0,Sierra Leone,Africa,Northern,35787.0,4172.0,4651.0,313.0
+1352,Kayes,10.0,3.0,Mali,Africa,Kayes,122103.0,6014.0,7845.0,312.0
+1353,Koulikoro,7.0,0.0,Mali,Africa,Koulikoro,90708.0,16223.0,31669.0,312.0
+1354,Adamawa,5.0,2.0,Nigeria,Africa,Adamawa,36215.0,10145.0,30.0,312.0
+1355,Assaba,0.0,0.0,Mauritania,Africa,Assaba,35939.0,108.0,26615.0,311.0
+1356,Hodh Ech Chargi,8.0,4.0,Mauritania,Africa,Hodh Ech Chargi,183077.0,2240.0,42915.0,311.0
+1357,Permskaya ,5.0,1.0,Russian Fed.,Asia,Permskaya,128160.0,5204.0,8678.0,
+1358,Brakna,0.0,0.0,Mauritania,Africa,Brakna,33257.0,60.0,27999.0,311.0
+1359,Gorgol,2.0,8.0,Mauritania,Africa,Gorgol,13679.0,181.0,12149.0,312.0
+1360,Southern,0.0,0.0,Sierra Leone,Africa,Southern,20013.0,3582.0,2769.0,313.0
+1361,Akwa Ibom,14.0,8.0,Nigeria,Africa,Akwa Ibom,6716.0,237.0,83.0,314.0
+1362,Guidimakha,7.0,8.0,Mauritania,Africa,Guidimakha,10728.0,476.0,10398.0,312.0
+1363,Banska Bystrica,12.0,11.0,Slovakia,Europe,Banska Bystrica,9374.0,3116.0,2848.0,
+1364,Hodh El Gharbi,11.0,3.0,Mauritania,Africa,Hodh El Gharbi,50459.0,546.0,25663.0,311.0
+1365,Inchiri,0.0,0.0,Mauritania,Africa,Inchiri,40229.0,0.0,1425.0,311.0
+1366,Tagant,0.0,0.0,Mauritania,Africa,Tagant,98016.0,0.0,8471.0,311.0
+1367,Paraguari,9.0,2.0,Paraguay,South America,Paraguari,8705.0,2904.0,1222.0,
+1368,Chontales,12.0,0.0,Nicaragua,North America,Chontales,8536.0,4876.0,814.0,
+1369,Guerrero,15.0,0.0,Mexico,North America,Guerrero,65198.0,22288.0,935.0,
+1370,Tiris-Zemmour,0.0,0.0,Mauritania,Africa,Tiris-Zemmour,257679.0,0.0,169.0,311.0
+1371,Primorskiy Kray,6.0,0.0,Russian Fed.,Asia,Primorskiy Kray,164878.0,3881.0,19619.0,
+1372,Aguascalientes,18.0,9.0,Mexico,North America,Aguascalientes,5204.0,745.0,4189.0,
+1373,Baja California,2.0,8.0,Mexico,North America,Baja California,73668.0,2187.0,5432.0,
+1374,Telemark,10.0,10.0,Norway,Europe,Telemark,15273.0,441.0,7.0,
+1375,Colima,25.0,0.0,Mexico,North America,Colima,5667.0,2974.0,84.0,
+1376,Govi-Altai,0.0,0.0,Mongolia,Asia,Govi-Altai,141099.0,1.0,63.0,
+1377,Dornogovi,0.0,0.0,Mongolia,Asia,Dornogovi,109486.0,0.0,695.0,
+1378,Itapua,3.0,3.0,Paraguay,South America,Itapua,15986.0,7449.0,481.0,
+1379,Distrito Federal,11.0,9.0,Mexico,North America,Distrito Federal,1602.0,241.0,22.0,
+1380,Selenge,6.0,11.0,Mongolia,Asia,Selenge,41534.0,1975.0,23621.0,
+1381,Durango,28.0,4.0,Mexico,North America,Durango,124127.0,2537.0,42982.0,
+1382,Guanajuato,15.0,12.0,Mexico,North America,Guanajuato,30838.0,6958.0,16051.0,
+1383,Morelos,11.0,0.0,Mexico,North America,Morelos,5079.0,2909.0,35.0,
+1384,Queretaro,22.0,11.0,Mexico,North America,Queretaro,11521.0,1243.0,4788.0,
+1385,Quintana Roo,11.0,0.0,Mexico,North America,Quintana Roo,44524.0,5167.0,50.0,
+1386,San Luis Potosi,14.0,14.0,Mexico,North America,San Luis Potosi,62925.0,8965.0,15790.0,
+1387,Tlaxcala,17.0,7.0,Mexico,North America,Tlaxcala,4163.0,2238.0,1034.0,
+1388,Yucatan,12.0,0.0,Mexico,North America,Yucatan,38104.0,16340.0,9.0,
+1389,Zacatecas,19.0,7.0,Mexico,North America,Zacatecas,75809.0,1948.0,39565.0,
+1390,Uvs,0.0,0.0,Mongolia,Asia,Uvs,69470.0,930.0,5883.0,
+1391,Dundgovi,0.0,0.0,Mongolia,Asia,Dundgovi,74691.0,0.0,964.0,
+1392,Xentii,5.0,8.0,Mongolia,Asia,Xentii,80887.0,5744.0,35958.0,
+1393,Xovd,0.0,0.0,Mongolia,Asia,Xovd,75685.0,346.0,1297.0,
+1394,To'v,9.0,14.0,Mongolia,Asia,To'v,74143.0,423.0,17933.0,
+1395,Xo'vsgol,0.0,0.0,Mongolia,Asia,Xo'vsgol,101153.0,2796.0,62109.0,
+1396,Khomas,0.0,0.0,Namibia,Africa,Khomas,37074.0,19.0,35208.0,321.0
+1397,Govisu'mber,0.0,0.0,Mongolia,Asia,Govisu'mber,5540.0,0.0,615.0,
+1398,Misiones,10.0,4.0,Paraguay,South America,Misiones,8427.0,1985.0,831.0,
+1399,O'mnogovi,0.0,0.0,Mongolia,Asia,O'mnogovi,164882.0,0.0,147.0,
+1400,Canterbury,19.0,0.0,New Zealand,Oceania,Canterbury,42530.0,7160.0,28349.0,
+1401,Ulaanbaatar,0.0,0.0,Mongolia,Asia,Ulaanbaatar,4580.0,64.0,2312.0,
+1402,Tambovskaya ,5.0,6.0,Russian Fed.,Asia,Tambovskaya,34452.0,20582.0,9669.0,
+1403,O'vorxangai,0.0,0.0,Mongolia,Asia,O'vorxangai,62871.0,132.0,6285.0,
+1404,Su'xbaatar,0.0,0.0,Mongolia,Asia,Su'xbaatar,82156.0,18.0,32879.0,
+1405,Neembucu,0.0,0.0,Paraguay,South America,Neembucu,11380.0,36.0,41.0,
+1406,Zavxan,0.0,0.0,Mongolia,Asia,Zavxan,82820.0,585.0,17134.0,
+1407,Otjozondjupa,0.0,0.0,Namibia,Africa,Otjozondjupa,104661.0,308.0,98460.0,322.0
+1408,,,,,,Kavango,48741.0,2096.0,42402.0,312.0
+1409,Ohangwena,6.0,5.0,Namibia,Africa,Ohangwena,10749.0,1866.0,10245.0,312.0
+1410,Omaheke,0.0,0.0,Namibia,Africa,Omaheke,84712.0,16.0,79272.0,321.0
+1411,Pskovskaya ,6.0,0.0,Russian Fed.,Asia,Pskovskaya,55246.0,756.0,6250.0,
+1412,Central,20.0,3.0,Nepal,Asia,Central,27442.0,7332.0,1790.0,
+1413,Omusati,10.0,3.0,Namibia,Africa,Omusati,26616.0,2155.0,26332.0,312.0
+1414,Eastern,24.0,1.0,Nepal,Asia,Eastern,28284.0,6225.0,2748.0,
+1415,Oshikoto,6.0,12.0,Namibia,Africa,Oshikoto,38638.0,1743.0,32433.0,312.0
+1416,Niger,8.0,3.0,Nigeria,Africa,Niger,71936.0,44263.0,152.0,313.0
+1417,Oshana,6.0,6.0,Namibia,Africa,Oshana,8652.0,481.0,8130.0,312.0
+1418,Nordland,3.0,2.0,Norway,Europe,Nordland,36334.0,590.0,45.0,
+1419,Bay Of Plenty,15.0,0.0,New Zealand,Oceania,Bay Of Plenty,12029.0,1135.0,1467.0,
+1420,Rostovskaya ,20.0,1.0,Russian Fed.,Asia,Rostovskaya,101117.0,59297.0,39185.0,
+1421,East Cape,11.0,0.0,New Zealand,Oceania,East Cape,8291.0,907.0,1320.0,
+1422,East New Britain,0.0,0.0,Papua New Guinea,Oceania,East New Britain,16686.0,11.0,0.0,
+1423,Osun,8.0,2.0,Nigeria,Africa,Osun,9035.0,469.0,0.0,313.0
+1424,Otago,25.0,0.0,New Zealand,Oceania,Otago,32967.0,4898.0,20271.0,
+1425,Hawke's Bay,12.0,0.0,New Zealand,Oceania,Hawke's Bay,14592.0,3549.0,2625.0,
+1426,Oestfold,19.0,8.0,Norway,Europe,Oestfold,4128.0,1030.0,0.0,
+1427,Nelson,22.0,0.0,New Zealand,Oceania,Nelson,19820.0,409.0,10100.0,
+1428,Taranaki,13.0,0.0,New Zealand,Oceania,Taranaki,7660.0,2259.0,409.0,
+1429,Waikato,9.0,0.0,New Zealand,Oceania,Waikato,23475.0,7574.0,2471.0,
+1430,Ryazanskaya ,5.0,11.0,Russian Fed.,Asia,Ryazanskaya,39577.0,10808.0,9424.0,
+1431,Wanganui,14.0,0.0,New Zealand,Oceania,Wanganui,22534.0,5935.0,3074.0,
+1432,East Highlands,8.0,0.0,Papua New Guinea,Oceania,East Highlands,10014.0,1241.0,45.0,
+1433,Leon,4.0,1.0,Nicaragua,North America,Leon,4446.0,1500.0,2220.0,
+1434,Atlantico Norte,8.0,0.0,Nicaragua,North America,Atlantico Norte,32014.0,4880.0,3572.0,
+1435,Wellington,11.0,0.0,New Zealand,Oceania,Wellington,8824.0,2011.0,1224.0,
+1436,Boaco,7.0,0.0,Nicaragua,North America,Boaco,4733.0,2811.0,940.0,
+1437,Taraba,8.0,0.0,Nigeria,Africa,Taraba,57065.0,11657.0,1891.0,313.0
+1438,Managua,12.0,6.0,Nicaragua,North America,Managua,4386.0,1182.0,1938.0,
+1439,Stavropolskiy,23.0,2.0,Russian Fed.,Asia,Stavropolskiy,66719.0,41572.0,35857.0,
+1440,Carazo,2.0,0.0,Nicaragua,North America,Carazo,1076.0,125.0,351.0,
+1441,Chinandega,3.0,0.0,Nicaragua,North America,Chinandega,5609.0,1878.0,1479.0,
+1442,Moere Og Romsdal,4.0,4.0,Norway,Europe,Moere Og Romsdal,13517.0,805.0,8.0,
+1443,Esteli,2.0,0.0,Nicaragua,North America,Esteli,2352.0,338.0,730.0,
+1444,Granada,3.0,4.0,Nicaragua,North America,Granada,1585.0,373.0,305.0,
+1445,Chollabuk-do,15.0,0.0,South Korea,Asia,Chollabuk-do,8252.0,1754.0,308.0,
+1446,Nord-troendelag,6.0,0.0,Norway,Europe,Nord-troendelag,22315.0,1344.0,9.0,
+1447,Jinotega,6.0,0.0,Nicaragua,North America,Jinotega,9861.0,2532.0,435.0,
+1448,Madriz,5.0,0.0,Nicaragua,North America,Madriz,1606.0,537.0,381.0,
+1449,Matagalpa,2.0,0.0,Nicaragua,North America,Matagalpa,8800.0,3341.0,1891.0,
+1450,Rogaland,8.0,4.0,Norway,Europe,Rogaland,8552.0,1185.0,424.0,
+1451,Lampang,7.0,0.0,Thailand,Asia,Lampang,12531.0,1823.0,0.0,
+1452,Nueva Segovia,4.0,0.0,Nicaragua,North America,Nueva Segovia,3122.0,1624.0,491.0,
+1453,Diffa,7.0,3.0,Niger,Africa,Diffa,145912.0,4310.0,30842.0,311.0
+1454,Maradi,4.0,5.0,Niger,Africa,Maradi,39331.0,28881.0,20462.0,312.0
+1455,Tillaberi,3.0,5.0,Niger,Africa,Tillaberi,90808.0,9577.0,84598.0,312.0
+1456,Rio San Juan,17.0,0.0,Nicaragua,North America,Rio San Juan,7997.0,3684.0,156.0,
+1457,Anambra,7.0,2.0,Nigeria,Africa,Anambra,4718.0,744.0,0.0,313.0
+1458,Rivas,8.0,0.0,Nicaragua,North America,Rivas,4102.0,614.0,318.0,
+1459,Agadez,0.0,0.0,Niger,Africa,Agadez,622486.0,98.0,27455.0,311.0
+1460,Dosso,4.0,1.0,Niger,Africa,Dosso,31686.0,8242.0,30786.0,312.0
+1461,Tahoua,3.0,6.0,Niger,Africa,Tahoua,106112.0,6529.0,58636.0,311.0
+1462,FCT - Abuja,3.0,0.0,Nigeria,Africa,"FCT, Abuja",7300.0,3932.0,0.0,313.0
+1463,Zinder,4.0,7.0,Niger,Africa,Zinder,145944.0,35645.0,56856.0,311.0
+1464,Benue,4.0,0.0,Nigeria,Africa,Benue,32006.0,16217.0,67.0,313.0
+1465,Aust-agder,10.0,7.0,Norway,Europe,Aust-agder,9155.0,214.0,0.0,
+1466,Borno,10.0,5.0,Nigeria,Africa,Borno,74028.0,19666.0,37688.0,312.0
+1467,Cross River,11.0,1.0,Nigeria,Africa,Cross River,20367.0,1671.0,15.0,313.0
+1468,Delta,5.0,2.0,Nigeria,Africa,Delta,16484.0,1872.0,0.0,313.0
+1469,Vest-Agder,10.0,9.0,Norway,Europe,Vest-Agder,7195.0,339.0,0.0,
+1470,Edo,4.0,2.0,Nigeria,Africa,Edo,19603.0,1991.0,113.0,313.0
+1471,,,,,,Unit unavailable,25950.0,0.0,20.0,
+1472,Soer-Troendelag,6.0,0.0,Norway,Europe,Soer-Troendelag,18441.0,1313.0,4.0,
+1473,Jigawa,3.0,4.0,Nigeria,Africa,Jigawa,23216.0,16135.0,3517.0,312.0
+1474,Sogn og Fjordane,5.0,2.0,Norway,Europe,Sogn og Fjordane,17888.0,649.0,53.0,
+1475,Kaduna,10.0,1.0,Nigeria,Africa,Kaduna,44635.0,17236.0,339.0,313.0
+1476,Madang,2.0,0.0,Papua New Guinea,Oceania,Madang,29411.0,1131.0,35.0,
+1477,Sverdlovskaya ,5.0,5.0,Russian Fed.,Asia,Sverdlovskaya,194598.0,5057.0,22271.0,
+1478,Kano,4.0,5.0,Nigeria,Africa,Kano,20864.0,16417.0,1100.0,312.0
+1479,Katsina,6.0,2.0,Nigeria,Africa,Katsina,24231.0,19106.0,4568.0,312.0
+1480,Troms,0.0,0.0,Norway,Europe,Troms,24895.0,0.0,48.0,
+1481,Kebbi,8.0,2.0,Nigeria,Africa,Kebbi,36708.0,23612.0,8848.0,312.0
+1482,Zakarpats'ka,17.0,8.0,Ukraine,Europe,Zakarpats'ka,12682.0,3495.0,1614.0,
+1483,Kogi,3.0,0.0,Nigeria,Africa,Kogi,28363.0,3174.0,0.0,313.0
+1484,Kwara,12.0,0.0,Nigeria,Africa,Kwara,33715.0,4208.0,80.0,313.0
+1485,Ogun,0.0,0.0,Nigeria,Africa,Ogun,15625.0,77.0,110.0,313.0
+1486,FA Tribal Areas,26.0,4.0,Pakistan,Asia,FA Tribal Areas,27253.0,2081.0,2179.0,
+1487,N.W. Frontier,20.0,1.0,Pakistan,Asia,N.W. Frontier,74001.0,14699.0,5292.0,
+1488,Oyo,12.0,4.0,Nigeria,Africa,Oyo,27430.0,3291.0,6.0,313.0
+1489,Buskerud,9.0,14.0,Norway,Europe,Buskerud,14954.0,806.0,21.0,
+1490,Punjab,22.0,10.0,Pakistan,Asia,Punjab,204958.0,119113.0,2239.0,
+1491,Yobe,9.0,4.0,Nigeria,Africa,Yobe,44798.0,18437.0,23019.0,312.0
+1492,Akershus,19.0,12.0,Norway,Europe,Akershus,4913.0,1112.0,4.0,
+1493,Chimbu,10.0,0.0,Papua New Guinea,Oceania,Chimbu,8201.0,173.0,36.0,
+1494,Oppland,10.0,1.0,Norway,Europe,Oppland,25202.0,1573.0,49.0,
+1495,Hedmark,7.0,10.0,Norway,Europe,Hedmark,27646.0,1586.0,22.0,
+1496,Vestfold,13.0,17.0,Norway,Europe,Vestfold,2232.0,623.0,2.0,
+1497,A Sharqiya,0.0,0.0,Oman,Asia,A Sharqiya,30992.0,3.0,0.0,
+1498,Al Batnah,24.0,7.0,Oman,Asia,Al Batnah,12233.0,238.0,34.0,
+1499,Tatarstan Rep.,3.0,11.0,Russian Fed.,Asia,Tatarstan Rep.,67923.0,32313.0,21426.0,
+1500,Al Dhahira,0.0,0.0,Oman,Asia,Al Dhahira,33499.0,6.0,0.0,
+1501,Al Wusta,0.0,0.0,Oman,Asia,Al Wusta,67124.0,18.0,6.0,
+1502,Enga,0.0,0.0,Papua New Guinea,Oceania,Enga,14625.0,80.0,0.0,
+1503,New Ireland,0.0,0.0,Papua New Guinea,Oceania,New Ireland,8778.0,8.0,0.0,
+1504,Dhofar,0.0,0.0,Oman,Asia,Dhofar,126920.0,343.0,331.0,
+1505,Muscat,0.0,0.0,Oman,Asia,Muscat,4294.0,5.0,0.0,
+1506,Balochistan,19.0,0.0,Pakistan,Asia,Balochistan,346427.0,15352.0,6233.0,
+1507,Coclé,9.0,0.0,Panama,North America,CoclÃ©,4898.0,880.0,2295.0,
+1508,Northern,12.0,0.0,Papua New Guinea,Oceania,Northern,25024.0,318.0,53.0,
+1509,North Solomons,0.0,0.0,Papua New Guinea,Oceania,North Solomons,9273.0,0.0,35.0,
+1510,Alto Parana,17.0,14.0,Paraguay,South America,Alto Parana,14095.0,7839.0,583.0,
+1511,Herrera,7.0,1.0,Panama,North America,Herrera,2325.0,1100.0,1090.0,
+1512,South Highlands,0.0,0.0,Papua New Guinea,Oceania,South Highlands,26259.0,191.0,40.0,
+1513,West New Britain,0.0,0.0,Papua New Guinea,Oceania,West New Britain,18648.0,90.0,72.0,
+1514,Central,18.0,0.0,Papua New Guinea,Oceania,Central,27308.0,1396.0,69.0,
+1515,Los Santos,1.0,2.0,Panama,North America,Los Santos,3789.0,1871.0,2139.0,
+1516,Boqueron,2.0,12.0,Paraguay,South America,Boqueron,88560.0,11510.0,3616.0,
+1517,Manus,0.0,0.0,Papua New Guinea,Oceania,Manus,1830.0,0.0,0.0,
+1518,Milne Bay,6.0,0.0,Papua New Guinea,Oceania,Milne Bay,14493.0,743.0,72.0,
+1519,West Sepik,0.0,0.0,Papua New Guinea,Oceania,West Sepik,33553.0,141.0,0.0,
+1520,Amambay,14.0,0.0,Paraguay,South America,Amambay,12667.0,5912.0,550.0,
+1521,West,19.0,0.0,Papua New Guinea,Oceania,West,95821.0,961.0,1515.0,
+1522,West Highlands,7.0,0.0,Papua New Guinea,Oceania,West Highlands,8474.0,159.0,8.0,
+1523,Alto Paraguay,8.0,5.0,Paraguay,South America,Alto Paraguay,78314.0,3194.0,5200.0,
+1524,Central,15.0,0.0,Paraguay,South America,Central,2549.0,883.0,259.0,
+1525,Presidente Hayes,22.0,6.0,Paraguay,South America,Presidente Hayes,72963.0,4564.0,2009.0,
+1526,San Pedro,21.0,0.0,Paraguay,South America,San Pedro,20887.0,8179.0,1488.0,
+1527,Cordillera,13.0,0.0,Paraguay,South America,Cordillera,4829.0,1584.0,467.0,
+1528,Amazonas,19.0,0.0,Peru,South America,Amazonas,39119.0,390.0,2041.0,
+1529,Ancash,2.0,3.0,Peru,South America,Ancash,36087.0,2217.0,11342.0,
+1530,Guaira,8.0,0.0,Paraguay,South America,Guaira,3824.0,1694.0,559.0,
+1531,Tumbes,3.0,10.0,Peru,South America,Tumbes,4603.0,156.0,888.0,
+1532,Delaware,9.0,0.0,USA,North America,Delaware,5113.0,1822.0,0.0,
+1533,Ucayali,14.0,0.0,Peru,South America,Ucayali,104956.0,1167.0,119.0,
+1534,Lang Son,18.0,0.0,Viet Nam,Asia,Lang Son,8326.0,958.0,101.0,
+1535,Cordillera,9.0,0.0,Philippines,Asia,Cordillera,18049.0,3356.0,0.0,
+1536,Ilocos Region,14.0,0.0,Philippines,Asia,Ilocos Region,12539.0,6328.0,0.0,
+1537,Bacau,12.0,7.0,Romania,Europe,Bacau,6677.0,2516.0,2467.0,
+1538,Cheju-do,20.0,0.0,South Korea,Asia,Cheju-do,1859.0,546.0,48.0,
+1539,Alba,22.0,13.0,Romania,Europe,Alba,6436.0,1953.0,4257.0,
+1540,KhantyMansyiskiy,0.0,0.0,Russian Fed.,Asia,KhantyMansyiskiy,533746.0,0.0,23160.0,
+1541,Arad,17.0,0.0,Romania,Europe,Arad,8077.0,3960.0,2681.0,
+1542,Kirovskaya ,1.0,5.0,Russian Fed.,Asia,Kirovskaya,120249.0,8086.0,12579.0,
+1543,Arges,20.0,10.0,Romania,Europe,Arges,6619.0,2337.0,2487.0,
+1544,Braila,20.0,4.0,Romania,Europe,Braila,4891.0,3847.0,1057.0,
+1545,Komi-permyatskiy,4.0,11.0,Russian Fed.,Asia,Komi-permyatskiy,33230.0,370.0,1302.0,
+1546,Bihor,17.0,6.0,Romania,Europe,Bihor,8173.0,3814.0,3830.0,
+1547,Banten,15.0,0.0,Indonesia,Asia,Banten,9238.0,3466.0,0.0,
+1548,Krasnodarskiy,10.0,4.0,Russian Fed.,Asia,Krasnodarskiy,75192.0,39046.0,10066.0,
+1549,L'vivs'ka,16.0,2.0,Ukraine,Europe,L'vivs'ka,21703.0,13268.0,681.0,
+1550,Bistrita-nasaud,21.0,15.0,Romania,Europe,Bistrita-nasaud,5125.0,1661.0,3264.0,
+1551,Kurskaya ,7.0,9.0,Russian Fed.,Asia,Kurskaya,29748.0,15513.0,4839.0,
+1552,Tulskaya ,11.0,7.0,Russian Fed.,Asia,Tulskaya,25517.0,9340.0,9227.0,
+1554,Name Unknown,17.0,7.0,Russian Fed.,Asia,Name Unknown,3625.0,1794.0,1674.0,
+1555,Botosani,15.0,12.0,Romania,Europe,Botosani,4769.0,2921.0,2895.0,
+1556,Leningradskaya ,11.0,0.0,Russian Fed.,Asia,Leningradskaya,83387.0,970.0,2808.0,
+1557,Brasov,21.0,7.0,Romania,Europe,Brasov,5226.0,1425.0,3150.0,
+1558,Koryakskiy Okrug,0.0,0.0,Russian Fed.,Asia,Koryakskiy Okrug,293459.0,0.0,197338.0,
+1559,Bucuresti,26.0,1.0,Romania,Europe,Bucuresti,1403.0,732.0,97.0,
+1560,Lipetskaya ,6.0,9.0,Russian Fed.,Asia,Lipetskaya,24303.0,14737.0,6257.0,
+1561,Tomskaya ,3.0,0.0,Russian Fed.,Asia,Tomskaya,314761.0,3486.0,19804.0,
+1562,Sukhothai,6.0,3.0,Thailand,Asia,Sukhothai,6639.0,3925.0,0.0,
+1563,Buzau,24.0,9.0,Romania,Europe,Buzau,6029.0,2986.0,2328.0,
+1564,Arizona,9.0,1.0,USA,North America,Arizona,295322.0,3931.0,31880.0,
+1565,Moskovskaya ,7.0,3.0,Russian Fed.,Asia,Moskovskaya,45863.0,3869.0,7579.0,
+1566,Krasnoyarskiy,8.0,0.0,Russian Fed.,Asia,Krasnoyarskiy,717702.0,17419.0,74269.0,
+1567,Calarasi,21.0,4.0,Romania,Europe,Calarasi,4828.0,4130.0,470.0,
+1568,Magadanskaya ,0.0,0.0,Russian Fed.,Asia,Magadanskaya,463982.0,0.0,173635.0,
+1569,Dolj,31.0,4.0,Romania,Europe,Dolj,7564.0,5610.0,1968.0,
+1570,Sakhalinskaya ,0.0,0.0,Russian Fed.,Asia,Sakhalinskaya,79457.0,28.0,4532.0,
+1571,Caras-severin,15.0,2.0,Romania,Europe,Caras-severin,9021.0,1838.0,4062.0,
+1572,Altayskiy Kray,7.0,5.0,Russian Fed.,Asia,Altayskiy Kray,169904.0,55942.0,58521.0,
+1573,Cluj,23.0,7.0,Romania,Europe,Cluj,5926.0,2517.0,3841.0,
+1574,Amurskaya ,8.0,0.0,Russian Fed.,Asia,Amurskaya,361095.0,11916.0,66803.0,
+1575,Constanta,13.0,6.0,Romania,Europe,Constanta,7061.0,5114.0,2150.0,
+1576,Murmanskaya ,0.0,0.0,Russian Fed.,Asia,Murmanskaya,142996.0,0.0,67930.0,
+1577,Covasna,19.0,10.0,Romania,Europe,Covasna,3425.0,928.0,1697.0,
+1578,Tverskaya ,12.0,2.0,Russian Fed.,Asia,Tverskaya,84698.0,1969.0,8557.0,
+1579,Dimbovita,22.0,12.0,Romania,Europe,Dimbovita,3934.0,1722.0,1547.0,
+1580,Galati,23.0,8.0,Romania,Europe,Galati,4571.0,3302.0,1504.0,
+1581,Surat Thani,17.0,0.0,Thailand,Asia,Surat Thani,13192.0,7928.0,0.0,
+1582,Giurgiu,21.0,0.0,Romania,Europe,Giurgiu,3952.0,3016.0,623.0,
+1583,Belgorodskaya ,7.0,10.0,Russian Fed.,Asia,Belgorodskaya,26908.0,13640.0,5902.0,
+1584,Gorj,17.0,5.0,Romania,Europe,Gorj,5645.0,1477.0,2348.0,
+1585,Thua Thien - Hue,16.0,0.0,Viet Nam,Asia,Thua Thien - Hue,4463.0,1126.0,51.0,
+1586,Tyumenskaya ,10.0,1.0,Russian Fed.,Asia,Tyumenskaya,159755.0,6059.0,41155.0,
+1587,Harghita,15.0,12.0,Romania,Europe,Harghita,6510.0,1529.0,3771.0,
+1588,Arkhangelskaya ,0.0,0.0,Russian Fed.,Asia,Arkhangelskaya,306809.0,655.0,8088.0,
+1589,Hunedoara,15.0,10.0,Romania,Europe,Hunedoara,6999.0,1375.0,3987.0,
+1590,Ialomita,27.0,0.0,Romania,Europe,Ialomita,4774.0,3893.0,821.0,
+1591,Bac Giang,18.0,0.0,Viet Nam,Asia,Bac Giang,3893.0,2224.0,38.0,
+1592,Astrakhanskaya ,22.0,4.0,Russian Fed.,Asia,Astrakhanskaya,46986.0,673.0,26386.0,
+1593,Chechnya Rep.,34.0,6.0,Russian Fed.,Asia,Chechnya Rep.,16152.0,3554.0,7828.0,
+1594,Iasi,16.0,16.0,Romania,Europe,Iasi,5560.0,3136.0,2667.0,
+1595,Maramures,18.0,12.0,Romania,Europe,Maramures,6223.0,1613.0,3028.0,
+1596,Bashkortostan,3.0,8.0,Russian Fed.,Asia,Bashkortostan,142947.0,30628.0,40278.0,
+1597,Mehedinti,20.0,11.0,Romania,Europe,Mehedinti,5319.0,2468.0,2077.0,
+1598,Karatchayevo,20.0,7.0,Russian Fed.,Asia,Karatchayevo,14289.0,884.0,7394.0,
+1599,Bryanskaya ,5.0,4.0,Russian Fed.,Asia,Bryanskaya,34741.0,5055.0,8842.0,
+1600,Aginskiy B.A.O.,0.0,0.0,Russian Fed.,Asia,Aginskiy B.A.O.,19667.0,39.0,10889.0,
+1601,Tyva Rep.,8.0,6.0,Russian Fed.,Asia,Tyva Rep.,168421.0,4942.0,56616.0,
+1602,Mures,16.0,11.0,Romania,Europe,Mures,6589.0,2597.0,3371.0,
+1603,Buryatiya Rep.,0.0,0.0,Russian Fed.,Asia,Buryatiya Rep.,352247.0,1260.0,102756.0,
+1604,Neamt,12.0,6.0,Romania,Europe,Neamt,5905.0,1959.0,2344.0,
+1605,Commewijne,0.0,0.0,Suriname,South America,Commewijne,2565.0,86.0,15.0,
+1606,Olt,31.0,7.0,Romania,Europe,Olt,5764.0,4373.0,1145.0,
+1607,Chelyabinskaya ,4.0,24.0,Russian Fed.,Asia,Chelyabinskaya,88661.0,18721.0,39359.0,
+1608,Prahova,23.0,18.0,Romania,Europe,Prahova,4547.0,1879.0,1982.0,
+1609,Salaj,15.0,9.0,Romania,Europe,Salaj,3501.0,1576.0,2008.0,
+1610,Satu Mare,25.0,4.0,Romania,Europe,Satu Mare,4396.0,2716.0,1709.0,
+1611,Chitinskaya ,0.0,0.0,Russian Fed.,Asia,Chitinskaya,411455.0,1070.0,114581.0,
+1612,Sibiu,15.0,6.0,Romania,Europe,Sibiu,5136.0,1527.0,3282.0,
+1613,Suceava,10.0,3.0,Romania,Europe,Suceava,8388.0,2341.0,3781.0,
+1614,Surin,9.0,2.0,Thailand,Asia,Surin,8802.0,7116.0,7.0,
+1615,Teleorman,33.0,7.0,Romania,Europe,Teleorman,6050.0,4998.0,1428.0,
+1616,Timis,25.0,5.0,Romania,Europe,Timis,8951.0,6001.0,3627.0,
+1617,Dagestan Rep.,28.0,4.0,Russian Fed.,Asia,Dagestan Rep.,49717.0,1741.0,22531.0,
+1618,Riyad,23.0,0.0,Saudi Arabia,Asia,Riyad,377691.0,4952.0,0.0,
+1619,Tulcea,29.0,3.0,Romania,Europe,Tulcea,8450.0,3006.0,2064.0,
+1620,Cao Bang,17.0,0.0,Viet Nam,Asia,Cao Bang,6705.0,744.0,17.0,
+1621,Kamchatskaya ,0.0,0.0,Russian Fed.,Asia,Kamchatskaya,171642.0,0.0,74146.0,
+1622,Vaslui,15.0,12.0,Romania,Europe,Vaslui,5482.0,3535.0,2837.0,
+1623,Karelya Rep.,0.0,0.0,Russian Fed.,Asia,Karelya Rep.,173027.0,144.0,1249.0,
+1624,Vilcea,19.0,2.0,Romania,Europe,Vilcea,5479.0,1457.0,2035.0,
+1625,Kemerovskaya ,7.0,5.0,Russian Fed.,Asia,Kemerovskaya,95162.0,8350.0,10721.0,
+1626,Vrancea,16.0,19.0,Romania,Europe,Vrancea,4739.0,1893.0,1670.0,
+1627,Adygeya Rep.,15.0,7.0,Russian Fed.,Asia,Adygeya Rep.,7976.0,2345.0,1085.0,
+1628,Altay Rep.,0.0,0.0,Russian Fed.,Asia,Altay Rep.,92370.0,409.0,37121.0,
+1629,Rio De Oro,0.0,0.0,Western Sahara,Africa,Rio De Oro,172904.0,9.0,32.0,311.0
+1630,Chukotskiy Okrug,0.0,0.0,Russian Fed.,Asia,Chukotskiy Okrug,719976.0,0.0,558231.0,
+1631,Evenkiyskiy O.,0.0,0.0,Russian Fed.,Asia,Evenkiyskiy O.,763432.0,0.0,225189.0,
+1632,Ingushetiya Rep.,26.0,6.0,Russian Fed.,Asia,Ingushetiya Rep.,3231.0,825.0,880.0,
+1633,Irkutskaya ,12.0,0.0,Russian Fed.,Asia,Irkutskaya,751897.0,5683.0,55196.0,
+1634,Ivanovskaya ,8.0,1.0,Russian Fed.,Asia,Ivanovskaya,23658.0,1767.0,5059.0,
+1635,Kalmykiya Rep.,6.0,3.0,Russian Fed.,Asia,Kalmykiya Rep.,70152.0,3863.0,32882.0,
+1636,Kabardino B.,14.0,3.0,Russian Fed.,Asia,Kabardino B.,12399.0,2520.0,6164.0,
+1637,Kaluzhskaya ,7.0,4.0,Russian Fed.,Asia,Kaluzhskaya,29402.0,3181.0,10913.0,
+1638,Khabarovskiy,0.0,0.0,Russian Fed.,Asia,Khabarovskiy,785448.0,249.0,108056.0,
+1639,Kostromskaya ,11.0,0.0,Russian Fed.,Asia,Kostromskaya,60183.0,1617.0,6766.0,
+1640,Hallands Laen,11.0,5.0,Sweden,Europe,Hallands Laen,5591.0,1521.0,326.0,
+1641,Novgorodskaya ,0.0,0.0,Russian Fed.,Asia,Novgorodskaya,55154.0,462.0,2246.0,
+1642,Eastern,0.0,0.0,Sierra Leone,Africa,Eastern,15587.0,1396.0,1618.0,313.0
+1643,Kurganskaya ,8.0,11.0,Russian Fed.,Asia,Kurganskaya,71894.0,11739.0,32451.0,
+1644,Skaane Laen,12.0,7.0,Sweden,Europe,Skaane Laen,11205.0,5466.0,2046.0,
+1645,Mariy-el Rep.,3.0,8.0,Russian Fed.,Asia,Mariy-el Rep.,23465.0,2886.0,2334.0,
+1646,Nitra,24.0,6.0,Slovakia,Europe,Nitra,6467.0,4851.0,257.0,
+1647,Mordoviya Rep.,4.0,10.0,Russian Fed.,Asia,Mordoviya Rep.,26120.0,8356.0,7017.0,
+1648,Presov,10.0,5.0,Slovakia,Europe,Presov,9106.0,2896.0,2671.0,
+1649,Nenetskiy Okrug,0.0,0.0,Russian Fed.,Asia,Nenetskiy Okrug,269737.0,0.0,155448.0,
+1650,Nizhegorodskaya ,4.0,8.0,Russian Fed.,Asia,Nizhegorodskaya,75055.0,11334.0,10173.0,
+1651,Sakha Rep.,0.0,0.0,Russian Fed.,Asia,Sakha Rep.,3076486.0,0.0,1077833.0,
+1652,Samarskaya ,8.0,20.0,Russian Fed.,Asia,Samarskaya,53283.0,24382.0,11448.0,
+1653,Uppsala Laen,10.0,15.0,Sweden,Europe,Uppsala Laen,7275.0,2026.0,370.0,
+1654,Udmurtiya Rep.,3.0,8.0,Russian Fed.,Asia,Udmurtiya Rep.,41979.0,7477.0,5592.0,
+1655,Trnava,23.0,6.0,Slovakia,Europe,Trnava,4069.0,2965.0,110.0,
+1656,Ulyanovskaya ,6.0,18.0,Russian Fed.,Asia,Ulyanovskaya,37063.0,12803.0,6165.0,
+1657,Zilna,12.0,4.0,Slovakia,Europe,Zilna,6876.0,1439.0,2803.0,
+1658,Sankt-peterburg,0.0,0.0,Russian Fed.,Asia,Sankt-peterburg,1233.0,81.0,216.0,
+1659,Al_Qunaytirah,9.0,2.0,Syria,Asia,Al_Qunaytirah,1660.0,1576.0,51.0,
+1660,Saratovskaya ,9.0,20.0,Russian Fed.,Asia,Saratovskaya,101479.0,51354.0,44724.0,
+1661,Galgaduud,0.0,0.0,Somalia,Africa,Galgaduud,48943.0,185.0,44459.0,311.0
+1662,Ustordynskiy BO,10.0,4.0,Russian Fed.,Asia,Ustordynskiy BO,21576.0,2570.0,4347.0,
+1663,Vladimirskaya ,4.0,9.0,Russian Fed.,Asia,Vladimirskaya,29466.0,2843.0,4685.0,
+1664,Severnaya,17.0,2.0,Russian Fed.,Asia,Severnaya,7929.0,1781.0,2969.0,
+1665,Smolenskaya ,5.0,2.0,Russian Fed.,Asia,Smolenskaya,49773.0,2385.0,19058.0,
+1666,Hail,7.0,0.0,Saudi Arabia,Asia,Hail,121237.0,3437.0,0.0,
+1667,Taymyrskiy Okrug,0.0,0.0,Russian Fed.,Asia,Taymyrskiy Okrug,838398.0,0.0,628625.0,
+1668,Yamalo-nenetskiy,0.0,0.0,Russian Fed.,Asia,Yamalo-nenetskiy,682291.0,0.0,433952.0,
+1669,Jizan,18.0,3.0,Saudi Arabia,Asia,Jizan,15340.0,2200.0,34.0,
+1670,Yaroslavskaya ,13.0,1.0,Russian Fed.,Asia,Yaroslavskaya,35933.0,1491.0,6442.0,
+1671,Yevreyskaya A. ,9.0,1.0,Russian Fed.,Asia,Yevreyskaya A.,35649.0,1095.0,14955.0,
+1672,Asir,2.0,0.0,Saudi Arabia,Asia,Asir,77254.0,1318.0,43.0,
+1673,Baha,6.0,0.0,Saudi Arabia,Asia,Baha,10316.0,148.0,6.0,
+1674,Marsabit,0.0,0.0,Kenya,Africa,Marsabit,70507.0,169.0,50129.0,312.0
+1675,Eastern Province,0.0,0.0,Saudi Arabia,Asia,Eastern Province,555939.0,1574.0,0.0,
+1676,Kisii,13.0,0.0,Kenya,Africa,Kisii,1551.0,1482.0,3.0,324.0
+1677,Jawf,7.0,0.0,Saudi Arabia,Asia,Jawf,117012.0,4110.0,15.0,211.0
+1678,Najran,0.0,0.0,Saudi Arabia,Asia,Najran,88303.0,155.0,0.0,
+1679,Homa Bay,17.0,4.0,Kenya,Africa,Homa Bay,3009.0,2471.0,409.0,324.0
+1680,North Frontier,0.0,0.0,Saudi Arabia,Asia,North Frontier,125592.0,99.0,4.0,
+1681,Kisumu,18.0,9.0,Kenya,Africa,Kisumu,2075.0,1732.0,125.0,324.0
+1682,Sipaliwini,0.0,0.0,Suriname,South America,Sipaliwini,112239.0,0.0,110.0,
+1683,Tana River,0.0,0.0,Kenya,Africa,Tana River,38076.0,355.0,12044.0,312.0
+1684,Quassim,12.0,0.0,Saudi Arabia,Asia,Quassim,54441.0,3136.0,0.0,
+1685,Tabuk,2.0,0.0,Saudi Arabia,Asia,Tabuk,98894.0,1165.0,0.0,
+1686,Mudug,0.0,0.0,Somalia,Africa,Mudug,58391.0,94.0,56152.0,311.0
+1687,Thies,0.0,9.0,Senegal,Africa,Thies,6632.0,5370.0,1489.0,312.0
+1688,Ziguinchor,0.0,4.0,Senegal,Africa,Ziguinchor,7382.0,959.0,47.0,312.0
+1689,Montenegro,6.0,0.0,Montenegro,Europe,Montenegro,13775.0,1936.0,3663.0,
+1690,Serbia,12.0,5.0,Serbia,Europe,Serbia,88478.0,45700.0,15333.0,
+1691,Bratislava,19.0,0.0,Slovakia,Europe,Bratislava,2004.0,913.0,119.0,
+1692,Kosice,16.0,7.0,Slovakia,Europe,Kosice,6661.0,2930.0,1268.0,
+1693,Trencin,11.0,15.0,Slovakia,Europe,Trencin,4516.0,1599.0,932.0,
+1694,Awdal,0.0,0.0,Somalia,Africa,Awdal,15849.0,153.0,8937.0,311.0
+1695,Isiolo,0.0,0.0,Kenya,Africa,Isiolo,25383.0,23.0,15743.0,312.0
+1696,Bakool,0.0,0.0,Somalia,Africa,Bakool,25804.0,0.0,17023.0,311.0
+1697,Bari,0.0,0.0,Somalia,Africa,Bari,68173.0,0.0,59677.0,311.0
+1698,Antalya,12.0,0.0,Turkey,Asia,Antalya,20662.0,5094.0,1987.0,
+1699,Gedo,15.0,11.0,Somalia,Africa,Gedo,45052.0,538.0,26270.0,311.0
+1700,Nugaal,0.0,0.0,Somalia,Africa,Nugaal,27521.0,0.0,24709.0,311.0
+1701,Bay,8.0,9.0,Somalia,Africa,Bay,43935.0,4505.0,3111.0,311.0
+1702,Juba Hoose,23.0,14.0,Somalia,Africa,Juba Hoose,47915.0,632.0,16562.0,311.0
+1703,Shabelle Hoose,12.0,5.0,Somalia,Africa,Shabelle Hoose,25669.0,3377.0,2691.0,312.0
+1704,Shabelle Dhexe,5.0,7.0,Somalia,Africa,Shabelle Dhexe,18626.0,1718.0,13555.0,311.0
+1705,Bangkok,16.0,0.0,Thailand,Asia,Bangkok,1566.0,1036.0,0.0,
+1706,Sanaag,0.0,0.0,Somalia,Africa,Sanaag,53869.0,7.0,47885.0,311.0
+1707,Togdheer,0.0,0.0,Somalia,Africa,Togdheer,34192.0,234.0,22607.0,311.0
+1708,Buriram,8.0,2.0,Thailand,Asia,Buriram,10104.0,8408.0,13.0,
+1709,Sool,0.0,0.0,Somalia,Africa,Sool,37333.0,0.0,35289.0,311.0
+1710,Woqooyi Galbeed,8.0,6.0,Somalia,Africa,Woqooyi Galbeed,28220.0,2134.0,23945.0,311.0
+1711,White Nile,2.0,2.0,Sudan,Africa,White Nile,40862.0,22642.0,9884.0,311.0
+1712,Free State,8.0,12.0,South Africa,Africa,Free State,129898.0,37973.0,117482.0,222.0
+1713,Gauteng,8.0,13.0,South Africa,Africa,Gauteng,18178.0,4066.0,15565.0,222.0
+1714,Kampaeng Phet,5.0,0.0,Thailand,Asia,Kampaeng Phet,8628.0,6138.0,0.0,
+1715,Kanchanaburi,10.0,3.0,Thailand,Asia,Kanchanaburi,19555.0,5867.0,265.0,
+1716,West,11.0,0.0,Sri Lanka,Asia,West,3745.0,2071.0,0.0,
+1717,Al Jazeera,2.0,5.0,Sudan,Africa,Al Jazeera,23799.0,18287.0,4288.0,311.0
+1718,Nile,0.0,0.0,Sudan,Africa,Nile,128368.0,2376.0,22.0,311.0
+1719,Blue Nile,5.0,4.0,Sudan,Africa,Blue Nile,37742.0,12979.0,6158.0,312.0
+1720,Sennar,4.0,9.0,Sudan,Africa,Sennar,40117.0,25228.0,6182.0,312.0
+1721,East Equatoria,0.0,0.0,South Sudan,Africa,East Equatoria,70759.0,598.0,26208.0,313.0
+1722,Khartoum,1.0,0.0,Sudan,Africa,Khartoum,21825.0,2271.0,64.0,311.0
+1723,Southern Darfur,8.0,6.0,Sudan,Africa,Southern Darfur,138051.0,21575.0,58350.0,312.0
+1724,Khon Kaen,7.0,0.0,Thailand,Asia,Khon Kaen,10618.0,9070.0,0.0,
+1725,Krabi,13.0,0.0,Thailand,Asia,Krabi,4470.0,3385.0,0.0,
+1726,North Bahr Ghaza,7.0,4.0,South Sudan,Africa,North Bahr Ghaza,30350.0,2248.0,5099.0,313.0
+1727,Warab,9.0,0.0,South Sudan,Africa,Warab,37851.0,3493.0,9064.0,313.0
+1728,West Bahr Ghazal,0.0,0.0,South Sudan,Africa,West Bahr Ghazal,89707.0,289.0,13740.0,313.0
+1729,West Equatoria,3.0,0.0,South Sudan,Africa,West Equatoria,78417.0,2515.0,22028.0,313.0
+1730,West Darfur,7.0,4.0,Sudan,Africa,West Darfur,55557.0,6385.0,36922.0,312.0
+1731,Brokopondo,0.0,0.0,Suriname,South America,Brokopondo,7328.0,0.0,45.0,
+1732,Coronie,0.0,0.0,Suriname,South America,Coronie,3655.0,9.0,20.0,
+1733,Marowijne,0.0,0.0,Suriname,South America,Marowijne,4571.0,6.0,38.0,
+1734,Nickerie,0.0,0.0,Suriname,South America,Nickerie,5039.0,329.0,25.0,
+1735,Para,0.0,0.0,Suriname,South America,Para,5424.0,21.0,8.0,
+1736,Kitui,14.0,7.0,Kenya,Africa,Kitui,30565.0,8930.0,2817.0,312.0
+1737,Saramacca,0.0,0.0,Suriname,South America,Saramacca,3620.0,38.0,0.0,
+1738,,,,,,Unit unavailable,61745.0,0.0,0.0,
+1739,Dalarnas Laen,10.0,8.0,Sweden,Europe,Dalarnas Laen,30398.0,919.0,129.0,
+1740,Gaevleborgs Laen,9.0,6.0,Sweden,Europe,Gaevleborgs Laen,19732.0,933.0,144.0,
+1741,Gotlands Laen,11.0,14.0,Sweden,Europe,Gotlands Laen,3057.0,1116.0,517.0,
+1742,Narok,11.0,5.0,Kenya,Africa,Narok,17992.0,3564.0,6526.0,323.0
+1743,Jaemtlands Laen,5.0,0.0,Sweden,Europe,Jaemtlands Laen,54168.0,686.0,1441.0,
+1744,Joenkoepings,9.0,3.0,Sweden,Europe,Joenkoepings,11107.0,1301.0,536.0,
+1745,Kalmar Laen,9.0,13.0,Sweden,Europe,Kalmar Laen,11604.0,1742.0,1077.0,
+1746,Balikesir,18.0,4.0,Turkey,Asia,Balikesir,14368.0,6549.0,3226.0,
+1747,Kronobergs Laen,8.0,4.0,Sweden,Europe,Kronobergs Laen,9456.0,766.0,339.0,
+1748,Ubon Ratchathani,8.0,6.0,Thailand,Asia,Ubon Ratchathani,15496.0,12148.0,8.0,
+1749,Norrbottens Laen,0.0,0.0,Sweden,Europe,Norrbottens Laen,105471.0,505.0,4378.0,
+1750,Oerebro Laen,8.0,3.0,Sweden,Europe,Oerebro Laen,9697.0,1423.0,180.0,
+1751,Oestergoetlands,9.0,13.0,Sweden,Europe,Oestergoetlands,12170.0,2840.0,808.0,
+1752,Soedermanlands,11.0,13.0,Sweden,Europe,Soedermanlands,6995.0,1856.0,279.0,
+1753,Yasothon,10.0,3.0,Thailand,Asia,Yasothon,4085.0,3757.0,15.0,
+1754,Stockholms Laen,10.0,15.0,Sweden,Europe,Stockholms Laen,5947.0,1213.0,280.0,
+1755,As_Suweida,4.0,2.0,Syria,Asia,As_Suweida,6644.0,2169.0,236.0,
+1756,Vaermlands Laen,10.0,7.0,Sweden,Europe,Vaermlands Laen,21893.0,1565.0,174.0,
+1757,Vaesterbottens,6.0,0.0,Sweden,Europe,Vaesterbottens,59177.0,1058.0,1305.0,
+1758,Vatovavy F.,32.0,0.0,Madagascar,Africa,Vatovavy F.,20714.0,232.0,241.0,314.0
+1759,Vaesternorrlands,8.0,0.0,Sweden,Europe,Vaesternorrlands,22863.0,884.0,126.0,
+1760,Centre-nord,9.0,6.0,Burkina Faso,Africa,Centre-nord,19725.0,6047.0,17693.0,312.0
+1761,Vaestmanlands,7.0,7.0,Sweden,Europe,Vaestmanlands,6942.0,1618.0,157.0,
+1762,Vaestra G.L.,10.0,6.0,Sweden,Europe,Vaestra G.L.,29047.0,6404.0,1393.0,
+1764,Aleppo,7.0,9.0,Syria,Asia,Aleppo,18994.0,12013.0,279.0,
+1765,Dara,5.0,1.0,Syria,Asia,Dara,3792.0,2669.0,71.0,
+1766,Dodoma,12.0,10.0,Tanzania,Africa,Dodoma,41938.0,12166.0,4740.0,312.0
+1767,Damascus,8.0,0.0,Syria,Asia,Damascus,18254.0,1739.0,87.0,
+1768,Hama,11.0,2.0,Syria,Asia,Hama,10244.0,5124.0,81.0,
+1769,Hassakeh,7.0,4.0,Syria,Asia,Hassakeh,22764.0,11676.0,91.0,
+1770,Homs,8.0,2.0,Syria,Asia,Homs,50776.0,3363.0,177.0,
+1771,Raqqa,7.0,4.0,Syria,Asia,Raqqa,17909.0,4265.0,38.0,
+1772,Tartous,11.0,6.0,Syria,Asia,Tartous,1891.0,1769.0,67.0,
+1773,Idleb,7.0,7.0,Syria,Asia,Idleb,5476.0,5143.0,61.0,
+1774,Lattakia,12.0,0.0,Syria,Asia,Lattakia,2429.0,1809.0,49.0,
+1775,Amnat Charoen,5.0,4.0,Thailand,Asia,Amnat Charoen,3230.0,3054.0,0.0,
+1776,Chachoengsao,15.0,2.0,Thailand,Asia,Chachoengsao,5409.0,4419.0,0.0,
+1777,Chainat,20.0,3.0,Thailand,Asia,Chainat,2447.0,2384.0,0.0,
+1778,Chaiyaphum,7.0,0.0,Thailand,Asia,Chaiyaphum,12692.0,7577.0,0.0,
+1779,Chumphon,14.0,0.0,Thailand,Asia,Chumphon,5870.0,2239.0,0.0,
+1780,Mukdahan,11.0,2.0,Thailand,Asia,Mukdahan,4182.0,2378.0,0.0,
+1781,Kalasin,9.0,2.0,Thailand,Asia,Kalasin,6920.0,5766.0,0.0,
+1782,Lamphun,9.0,0.0,Thailand,Asia,Lamphun,4499.0,899.0,0.0,
+1783,Chanthaburi,14.0,0.0,Thailand,Asia,Chanthaburi,6370.0,3462.0,30.0,
+1784,Chiang Mai,12.0,0.0,Thailand,Asia,Chiang Mai,22190.0,3688.0,0.0,
+1785,Loei,3.0,1.0,Thailand,Asia,Loei,10618.0,5022.0,0.0,
+1786,Chonburi,5.0,0.0,Thailand,Asia,Chonburi,4470.0,3928.0,1.0,
+1787,Lopburi,6.0,0.0,Thailand,Asia,Lopburi,6285.0,5175.0,0.0,
+1788,Mae Hong Son,11.0,0.0,Thailand,Asia,Mae Hong Son,12864.0,1171.0,0.0,
+1789,Nakhon S.T.,7.0,0.0,Thailand,Asia,Nakhon S.T.,9856.0,7109.0,62.0,
+1790,Nakhon R.,7.0,1.0,Thailand,Asia,Nakhon R.,20614.0,17071.0,243.0,
+1791,Maha Sarakham,10.0,2.0,Thailand,Asia,Maha Sarakham,5585.0,5084.0,0.0,
+1792,Nakhon Nayok,21.0,4.0,Thailand,Asia,Nakhon Nayok,2160.0,1447.0,0.0,
+1793,Nakhon Pathom,19.0,0.0,Thailand,Asia,Nakhon Pathom,2144.0,2072.0,0.0,
+1794,Nakhon Phanom,9.0,6.0,Thailand,Asia,Nakhon Phanom,5492.0,4463.0,0.0,
+1795,Narathiwat,10.0,0.0,Thailand,Asia,Narathiwat,4457.0,3206.0,0.0,
+1796,Pathum Thani,15.0,0.0,Thailand,Asia,Pathum Thani,1493.0,1459.0,0.0,
+1797,Nong Bua Lamphu,7.0,1.0,Thailand,Asia,Nong Bua Lamphu,4094.0,3267.0,0.0,
+1798,Pattani,8.0,0.0,Thailand,Asia,Pattani,1980.0,1848.0,0.0,
+1799,Phetchabun,7.0,0.0,Thailand,Asia,Phetchabun,12412.0,7488.0,0.0,
+1800,Phatthalung,12.0,0.0,Thailand,Asia,Phatthalung,3816.0,2574.0,0.0,
+1801,Phra Nakhon S.A.,7.0,0.0,Thailand,Asia,Phra Nakhon S.A.,2557.0,2551.0,0.0,
+1802,Phachinburi,17.0,3.0,Thailand,Asia,Phachinburi,4838.0,3366.0,0.0,
+1803,Phangnga,22.0,0.0,Thailand,Asia,Phangnga,3818.0,1548.0,42.0,
+1804,Phayao,14.0,0.0,Thailand,Asia,Phayao,6148.0,1965.0,0.0,
+1805,Phetchaburi,12.0,0.0,Thailand,Asia,Phetchaburi,6259.0,2614.0,0.0,
+1806,Phichit,20.0,0.0,Thailand,Asia,Phichit,4287.0,4216.0,0.0,
+1807,Phitsanulok,12.0,2.0,Thailand,Asia,Phitsanulok,10566.0,6224.0,0.0,
+1808,Khersons'ka,19.0,0.0,Ukraine,Europe,Khersons'ka,26362.0,21359.0,762.0,
+1809,Khmel'nyts'ka,17.0,5.0,Ukraine,Europe,Khmel'nyts'ka,20480.0,18233.0,27.0,
+1810,Rayong,11.0,0.0,Thailand,Asia,Rayong,3676.0,3141.0,8.0,
+1811,Roi Et,8.0,2.0,Thailand,Asia,Roi Et,7834.0,6500.0,0.0,
+1812,Phrae,12.0,1.0,Thailand,Asia,Phrae,6479.0,1199.0,0.0,
+1813,Ratchaburi,11.0,0.0,Thailand,Asia,Ratchaburi,5201.0,3446.0,15.0,
+1814,Tak,3.0,0.0,Thailand,Asia,Tak,17263.0,2343.0,0.0,
+1815,Sakon Nakhon,9.0,0.0,Thailand,Asia,Sakon Nakhon,9480.0,5921.0,0.0,
+1816,Kirovohrads'ka,23.0,8.0,Ukraine,Europe,Kirovohrads'ka,24499.0,23339.0,35.0,
+1817,Udon Thani,9.0,1.0,Thailand,Asia,Udon Thani,11031.0,8824.0,0.0,
+1818,Sa Kaeo,8.0,2.0,Thailand,Asia,Sa Kaeo,6831.0,5455.0,28.0,
+1819,Saraburi,8.0,0.0,Thailand,Asia,Saraburi,3512.0,2311.0,7.0,
+1820,Krym,16.0,4.0,Ukraine,Europe,Krym,26635.0,17945.0,1866.0,
+1821,Kyyivs'ka,16.0,4.0,Ukraine,Europe,Kyyivs'ka,28891.0,20253.0,100.0,
+1822,Satun,21.0,1.0,Thailand,Asia,Satun,2471.0,1371.0,0.0,
+1823,Samburu,0.0,0.0,Kenya,Africa,Samburu,21047.0,44.0,10260.0,313.0
+1824,Luhans'ka,9.0,8.0,Ukraine,Europe,Luhans'ka,26894.0,24890.0,282.0,
+1825,Mykolayivs'ka,31.0,0.0,Ukraine,Europe,Mykolayivs'ka,23566.0,22840.0,141.0,
+1826,Songkhla,10.0,0.0,Thailand,Asia,Songkhla,7755.0,5984.0,0.0,
+1827,Suphanburi,14.0,2.0,Thailand,Asia,Suphanburi,5335.0,4536.0,18.0,
+1828,Trang,13.0,0.0,Thailand,Asia,Trang,4806.0,3150.0,28.0,
+1829,Uthai Thani,3.0,1.0,Thailand,Asia,Uthai Thani,6681.0,2840.0,11.0,
+1830,Arkansas,10.0,1.0,USA,North America,Arkansas,137732.0,25848.0,908.0,
+1831,Uttaradit,10.0,0.0,Thailand,Asia,Uttaradit,7957.0,2645.0,0.0,
+1832,Manicaland,7.0,7.0,Zimbabwe,Africa,Manicaland,35679.0,14123.0,12196.0,313.0
+1833,Mashonaland C.,6.0,1.0,Zimbabwe,Africa,Mashonaland C.,28123.0,8539.0,1659.0,312.0
+1834,Yala,19.0,0.0,Thailand,Asia,Yala,4498.0,2817.0,0.0,
+1835,Centrale,12.0,0.0,Togo,Africa,Centrale,13273.0,2237.0,626.0,313.0
+1836,Odes'ka,29.0,9.0,Ukraine,Europe,Odes'ka,32584.0,29266.0,142.0,
+1837,Kara,5.0,1.0,Togo,Africa,Kara,11455.0,2110.0,1361.0,313.0
+1838,Poltavs'ka,20.0,5.0,Ukraine,Europe,Poltavs'ka,28387.0,24983.0,42.0,
+1839,Manouba,5.0,6.0,Tunisia,Africa,Manouba,1087.0,903.0,209.0,213.0
+1840,Maritime,11.0,0.0,Togo,Africa,Maritime,6199.0,3618.0,141.0,313.0
+1841,Bizerte,3.0,9.0,Tunisia,Africa,Bizerte,3540.0,2376.0,3.0,213.0
+1842,Plateaux,12.0,0.0,Togo,Africa,Plateaux,17176.0,6006.0,92.0,313.0
+1843,Rivnens'ka,9.0,0.0,Ukraine,Europe,Rivnens'ka,20649.0,11322.0,34.0,
+1844,Ternopil's'ka,18.0,6.0,Ukraine,Europe,Ternopil's'ka,14022.0,12594.0,28.0,
+1845,Savanes,10.0,1.0,Togo,Africa,Savanes,8663.0,3672.0,61.0,313.0
+1846,Vinnyts'ka,20.0,5.0,Ukraine,Europe,Vinnyts'ka,26588.0,24140.0,71.0,
+1847,Volyns'ka,10.0,4.0,Ukraine,Europe,Volyns'ka,19855.0,11990.0,106.0,
+1848,Beja,6.0,12.0,Tunisia,Africa,Beja,3589.0,2611.0,1011.0,213.0
+1849,Gabes,10.0,3.0,Tunisia,Africa,Gabes,7474.0,1144.0,1448.0,211.0
+1850,Mashonaland West,5.0,3.0,Zimbabwe,Africa,Mashonaland West,57664.0,9823.0,3995.0,312.0
+1851,Tozeur,0.0,0.0,Tunisia,Africa,Tozeur,5775.0,91.0,621.0,211.0
+1852,Gafsa,8.0,4.0,Tunisia,Africa,Gafsa,7587.0,1999.0,2599.0,211.0
+1853,Jendouba,5.0,3.0,Tunisia,Africa,Jendouba,3296.0,1825.0,470.0,213.0
+1854,Zaporiz'ka,28.0,6.0,Ukraine,Europe,Zaporiz'ka,27213.0,24712.0,93.0,
+1855,Zhytomyrs'ka,9.0,1.0,Ukraine,Europe,Zhytomyrs'ka,30017.0,18591.0,10.0,
+1856,Kairouan,11.0,4.0,Tunisia,Africa,Kairouan,6455.0,4599.0,3352.0,212.0
+1857,Masvingo,6.0,9.0,Zimbabwe,Africa,Masvingo,56463.0,17136.0,40613.0,312.0
+1858,Abu Dhabi,14.0,0.0,U.A.E.,Asia,Abu Dhabi,59107.0,1072.0,0.0,
+1859,Kasserine,6.0,3.0,Tunisia,Africa,Kasserine,8256.0,4698.0,4122.0,212.0
+1860,Kebili,15.0,0.0,Tunisia,Africa,Kebili,22493.0,312.0,1759.0,211.0
+1861,Dubai,0.0,0.0,U.A.E.,Asia,Dubai,3878.0,67.0,0.0,
+1862,Ras Al Khaimah,18.0,4.0,U.A.E.,Asia,Ras Al Khaimah,3043.0,144.0,0.0,
+1863,Uruzgan,6.0,0.0,Afghanistan,Asia,Uruzgan,10850.0,648.0,9634.0,
+1864,Le Kef,5.0,8.0,Tunisia,Africa,Le Kef,5261.0,3829.0,2587.0,213.0
+1865,Mahdia,17.0,7.0,Tunisia,Africa,Mahdia,2931.0,2422.0,663.0,212.0
+1866,Monastir,20.0,9.0,Tunisia,Africa,Monastir,1021.0,817.0,192.0,212.0
+1867,Medenine,9.0,4.0,Tunisia,Africa,Medenine,9138.0,2491.0,153.0,211.0
+1868,Nabeul,10.0,4.0,Tunisia,Africa,Nabeul,2853.0,2094.0,549.0,212.0
+1869,Colorado,17.0,5.0,USA,North America,Colorado,269602.0,25627.0,130766.0,
+1870,Connecticut,11.0,0.0,USA,North America,Connecticut,12862.0,608.0,0.0,
+1871,Hawaii,0.0,0.0,USA,North America,Hawaii,16370.0,0.0,0.0,
+1872,Sidi Bouz,8.0,3.0,Tunisia,Africa,Sidi Bouz,7369.0,4418.0,2455.0,211.0
+1873,Tataouine,0.0,0.0,Tunisia,Africa,Tataouine,38591.0,233.0,2626.0,211.0
+1874,Zaghouan,8.0,9.0,Tunisia,Africa,Zaghouan,2808.0,1919.0,1661.0,212.0
+1875,Adana,10.0,0.0,Turkey,Asia,Adana,14063.0,6903.0,1827.0,
+1876,Idaho,22.0,0.0,USA,North America,Idaho,216451.0,20297.0,60077.0,
+1877,Guelmim,0.0,0.0,Morocco,Africa,Guelmim,64756.0,143.0,5382.0,211.0
+1878,Adiyaman,7.0,7.0,Turkey,Asia,Adiyaman,7507.0,3639.0,2668.0,
+1879,Illinois,14.0,2.0,USA,North America,Illinois,145916.0,87936.0,195.0,
+1880,Scotland,14.0,2.0,U.K.,Europe,Scotland,76967.0,7978.0,39492.0,
+1881,Indiana,6.0,1.0,USA,North America,Indiana,93724.0,47631.0,40.0,
+1882,Iowa,23.0,0.0,USA,North America,Iowa,145745.0,95653.0,4365.0,
+1883,Alaska,0.0,0.0,USA,North America,Alaska,1497270.0,0.0,311766.0,
+1884,Afyon,23.0,2.0,Turkey,Asia,Afyon,14388.0,6674.0,6411.0,
+1885,Matabeleland S.,4.0,22.0,Zimbabwe,Africa,Matabeleland S.,54328.0,8116.0,45189.0,311.0
+1886,Ankara,18.0,10.0,Turkey,Asia,Ankara,25257.0,13725.0,9373.0,
+1887,Agri,35.0,8.0,Turkey,Asia,Agri,11252.0,3854.0,6251.0,
+1888,Massachusetts,13.0,0.0,USA,North America,Massachusetts,20857.0,788.0,1.0,
+1889,Midlands,7.0,13.0,Zimbabwe,Africa,Midlands,49311.0,12326.0,10180.0,312.0
+1890,Aksaray,11.0,5.0,Turkey,Asia,Aksaray,8091.0,4674.0,2923.0,
+1891,Ardahan,19.0,7.0,Turkey,Asia,Ardahan,5297.0,1550.0,4240.0,
+1892,,,,,,Hadjer Lamis,19903.0,2268.0,15888.0,312.0
+1893,Amasya,27.0,9.0,Turkey,Asia,Amasya,5580.0,2489.0,1458.0,
+1894,Maryland,14.0,0.0,USA,North America,Maryland,25940.0,5370.0,0.0,
+1895,Beni,17.0,0.0,Bolivia,South America,Beni,203342.0,697.0,17961.0,
+1896,Artvin,15.0,12.0,Turkey,Asia,Artvin,7392.0,901.0,2455.0,
+1897,New Hampshire,20.0,0.0,USA,North America,New Hampshire,24041.0,643.0,5.0,
+1898,Bartin,15.0,6.0,Turkey,Asia,Bartin,2321.0,1009.0,49.0,
+1899,Chuquisaca,5.0,1.0,Bolivia,South America,Chuquisaca,51002.0,617.0,6159.0,
+1900,Aydin,5.0,4.0,Turkey,Asia,Aydin,7946.0,3783.0,496.0,
+1901,Batman,5.0,7.0,Turkey,Asia,Batman,4486.0,1918.0,994.0,
+1902,Tra Vinh,2.0,0.0,Viet Nam,Asia,Tra Vinh,2245.0,1999.0,252.0,
+1903,Bayburt,23.0,9.0,Turkey,Asia,Bayburt,3715.0,1271.0,1842.0,
+1904,Bilecik,43.0,6.0,Turkey,Asia,Bilecik,4152.0,1591.0,490.0,
+1905,Bitlis,29.0,4.0,Turkey,Asia,Bitlis,8380.0,1935.0,2461.0,
+1906,Erzincan,19.0,12.0,Turkey,Asia,Erzincan,11672.0,2173.0,6294.0,
+1907,Bingol,26.0,4.0,Turkey,Asia,Bingol,8438.0,1050.0,5500.0,
+1908,Michigan,14.0,0.0,USA,North America,Michigan,149919.0,31797.0,4051.0,
+1909,Bolu,24.0,11.0,Turkey,Asia,Bolu,11090.0,3092.0,2750.0,
+1910,Minnesota,23.0,1.0,USA,North America,Minnesota,218370.0,81753.0,4485.0,
+1911,Mississippi,15.0,2.0,USA,North America,Mississippi,123493.0,16457.0,168.0,
+1912,Laâyoune,0.0,0.0,Morocco,Africa,LaÃ¢youne,5957.0,0.0,1.0,211.0
+1913,Burdur,19.0,8.0,Turkey,Asia,Burdur,7017.0,2390.0,1170.0,
+1914,Haute Matsiatra,27.0,0.0,Madagascar,Africa,Haute Matsiatra,20834.0,1810.0,17976.0,313.0
+1915,Igdir,20.0,13.0,Turkey,Asia,Igdir,3490.0,1050.0,865.0,
+1916,Rize,8.0,0.0,Turkey,Asia,Rize,3803.0,763.0,1300.0,
+1917,Bursa,32.0,0.0,Turkey,Asia,Bursa,11007.0,4727.0,1069.0,
+1918,Canakkale,16.0,4.0,Turkey,Asia,Canakkale,9947.0,4155.0,1416.0,
+1919,Montana,23.0,2.0,USA,North America,Montana,380652.0,49926.0,274392.0,
+1920,Nebraska,10.0,1.0,USA,North America,Nebraska,200329.0,72306.0,148474.0,
+1921,Cankiri,32.0,0.0,Turkey,Asia,Cankiri,7210.0,2772.0,4141.0,
+1922,Icel,6.0,0.0,Turkey,Asia,Icel,16109.0,5005.0,843.0,
+1923,New York,12.0,0.0,USA,North America,New York,125275.0,16644.0,64.0,
+1924,Karabuk,27.0,4.0,Turkey,Asia,Karabuk,4080.0,1001.0,660.0,
+1925,Kilis,7.0,4.0,Turkey,Asia,Kilis,1435.0,1034.0,584.0,
+1926,Corum,31.0,4.0,Turkey,Asia,Corum,12779.0,6463.0,2712.0,
+1927,Cochabamba,12.0,0.0,Bolivia,South America,Cochabamba,57550.0,3712.0,9853.0,
+1928,Geita,9.0,0.0,Tanzania,Africa,Geita,21116.0,9857.0,1870.0,313.0
+1929,Denizli,31.0,0.0,Turkey,Asia,Denizli,11757.0,5125.0,1280.0,
+1930,Diyarbakir,6.0,9.0,Turkey,Asia,Diyarbakir,15408.0,8325.0,5775.0,
+1931,La Paz,27.0,5.0,Bolivia,South America,La Paz,132340.0,4172.0,22611.0,
+1932,Oruro,3.0,5.0,Bolivia,South America,Oruro,51601.0,744.0,10221.0,
+1933,Kirikkale,16.0,10.0,Turkey,Asia,Kirikkale,4690.0,3252.0,1429.0,
+1934,Edirne,29.0,12.0,Turkey,Asia,Edirne,6202.0,4514.0,1788.0,
+1935,Elazig,10.0,3.0,Turkey,Asia,Elazig,9286.0,2707.0,4510.0,
+1936,Eskisehir,29.0,6.0,Turkey,Asia,Eskisehir,13740.0,6819.0,5055.0,
+1937,Potosi,3.0,2.0,Bolivia,South America,Potosi,119362.0,1029.0,23828.0,
+1938,Gaziantep,8.0,2.0,Turkey,Asia,Gaziantep,6616.0,4329.0,2257.0,
+1939,Iringa,7.0,3.0,Tanzania,Africa,Iringa,36485.0,6315.0,10385.0,322.0
+1940,Giresun,12.0,3.0,Turkey,Asia,Giresun,7000.0,2490.0,2115.0,
+1941,New Jersey,12.0,0.0,USA,North America,New Jersey,19148.0,1892.0,0.0,
+1942,Gumushane,18.0,12.0,Turkey,Asia,Gumushane,6804.0,1215.0,3832.0,
+1943,New Mexico,17.0,6.0,USA,North America,New Mexico,314980.0,5164.0,130546.0,
+1944,Hakkari,17.0,13.0,Turkey,Asia,Hakkari,7221.0,511.0,2833.0,
+1945,Hatay,21.0,6.0,Turkey,Asia,Hatay,5557.0,2789.0,735.0,
+1946,Isparta,29.0,10.0,Turkey,Asia,Isparta,8995.0,2386.0,1751.0,
+1947,Tarija,14.0,3.0,Bolivia,South America,Tarija,37211.0,1029.0,3711.0,
+1948,Kars,33.0,4.0,Turkey,Asia,Kars,9577.0,4322.0,6111.0,
+1949,Konya,17.0,5.0,Turkey,Asia,Konya,40315.0,21363.0,14827.0,
+1950,Istanbul,36.0,5.0,Turkey,Asia,Istanbul,5211.0,1428.0,555.0,
+1951,Santa Cruz,11.0,0.0,Bolivia,South America,Santa Cruz,368141.0,30692.0,13781.0,
+1952,K.maras,11.0,0.0,Turkey,Asia,K.maras,14568.0,5110.0,5156.0,
+1953,Karaman,11.0,0.0,Turkey,Asia,Karaman,8741.0,3385.0,2267.0,
+1954,Labe,6.0,0.0,Guinea,Africa,Labe,22708.0,6354.0,9641.0,313.0
+1955,Kastamonu,21.0,9.0,Turkey,Asia,Kastamonu,13166.0,3632.0,2424.0,
+1956,Faranah,7.0,0.0,Guinea,Africa,Faranah,35694.0,5960.0,11572.0,313.0
+1957,Karakalpakstan,6.0,3.0,Uzbekistan,Asia,Karakalpakstan,165077.0,14676.0,316.0,
+1958,Kayseri,15.0,3.0,Turkey,Asia,Kayseri,16946.0,8143.0,8184.0,
+1959,Kankan,5.0,0.0,Guinea,Africa,Kankan,71736.0,6362.0,30064.0,313.0
+1960,Anzoategui,16.0,21.0,Venezuela,South America,Anzoategui,47610.0,1126.0,42367.0,
+1961,Kirklareli,20.0,8.0,Turkey,Asia,Kirklareli,6576.0,3210.0,1295.0,
+1962,Kindia,7.0,0.0,Guinea,Africa,Kindia,26725.0,9839.0,7155.0,313.0
+1963,North Dakota,21.0,3.0,USA,North America,North Dakota,182843.0,94945.0,102839.0,
+1964,Kirsehir,11.0,9.0,Turkey,Asia,Kirsehir,6565.0,4374.0,2716.0,
+1965,Atsinanana,0.0,0.0,Madagascar,Africa,Atsinanana,22001.0,167.0,186.0,314.0
+1966,Mus,8.0,3.0,Turkey,Asia,Mus,8520.0,3984.0,4495.0,
+1967,Vermont,13.0,0.0,USA,North America,Vermont,24731.0,2761.0,0.0,
+1968,Kocaeli,42.0,1.0,Turkey,Asia,Kocaeli,3433.0,1592.0,115.0,
+1969,Kagera,19.0,2.0,Tanzania,Africa,Kagera,36034.0,6249.0,10316.0,323.0
+1970,Kutahya,34.0,5.0,Turkey,Asia,Kutahya,11663.0,4642.0,2491.0,
+1971,North Carolina,8.0,0.0,USA,North America,North Carolina,128334.0,19165.0,908.0,
+1972,Malatya,21.0,0.0,Turkey,Asia,Malatya,11974.0,4215.0,5182.0,
+1973,Ohio,18.0,2.0,USA,North America,Ohio,106832.0,39033.0,3.0,
+1974,Oklahoma,10.0,0.0,USA,North America,Oklahoma,181038.0,30994.0,119027.0,
+1975,Manisa,15.0,1.0,Turkey,Asia,Manisa,13268.0,7042.0,3010.0,
+1976,Oregon,19.0,0.0,USA,North America,Oregon,251089.0,11788.0,26907.0,
+1977,Rhode Island,0.0,0.0,USA,North America,Rhode Island,2512.0,71.0,0.0,
+1978,Mardin,6.0,2.0,Turkey,Asia,Mardin,8827.0,4595.0,3059.0,
+1979,Ma'tan al-Sarra,0.0,0.0,Ma'tan al-Sarra,Africa,Ma'tan al-Sarra,1990.0,0.0,0.0,311.0
+1980,Mugla,18.0,0.0,Turkey,Asia,Mugla,12736.0,2911.0,1258.0,
+1981,Pennsylvania,9.0,0.0,USA,North America,Pennsylvania,117314.0,16494.0,41.0,
+1982,Nevsehir,15.0,9.0,Turkey,Asia,Nevsehir,5459.0,4380.0,1947.0,
+1983,Osmaniye,10.0,2.0,Turkey,Asia,Osmaniye,3194.0,1662.0,236.0,
+1984,Nigde,13.0,0.0,Turkey,Asia,Nigde,7321.0,2937.0,3555.0,
+1985,South Dakota,21.0,3.0,USA,North America,South Dakota,199729.0,70093.0,157872.0,
+1986,Ordu,16.0,8.0,Turkey,Asia,Ordu,5954.0,3188.0,1130.0,
+1987,Sakarya,18.0,4.0,Turkey,Asia,Sakarya,4886.0,2614.0,216.0,
+1988,Tennessee,8.0,0.0,USA,North America,Tennessee,109153.0,15099.0,52.0,
+1989,Siirt,5.0,4.0,Turkey,Asia,Siirt,5985.0,1227.0,2991.0,
+1990,Virginia,14.0,0.0,USA,North America,Virginia,103807.0,12259.0,40.0,
+1991,Samsun,22.0,4.0,Turkey,Asia,Samsun,9844.0,4883.0,1025.0,
+1992,South Carolina,6.0,0.0,USA,North America,South Carolina,80548.0,5956.0,2341.0,
+1993,Usak,15.0,4.0,Turkey,Asia,Usak,5346.0,3007.0,1319.0,
+1994,Sanliurfa,11.0,12.0,Turkey,Asia,Sanliurfa,19344.0,12423.0,7347.0,
+1995,Sinop,20.0,11.0,Turkey,Asia,Sinop,5744.0,1713.0,884.0,
+1996,Red Sea,0.0,0.0,Sudan,Africa,Red Sea,197656.0,0.0,22.0,311.0
+1997,,,,,,Barl El Gazal,56309.0,104.0,31739.0,311.0
+1998,Sirnak,6.0,5.0,Turkey,Asia,Sirnak,7052.0,1358.0,2787.0,
+1999,Alaotra Mangoro,45.0,2.0,Madagascar,Africa,Alaotra Mangoro,27857.0,1729.0,7816.0,314.0
+2000,Amoron I Mania,17.0,0.0,Madagascar,Africa,Amoron I Mania,16492.0,668.0,12123.0,323.0
+2001,Tekirdag,20.0,12.0,Turkey,Asia,Tekirdag,6237.0,4561.0,1188.0,
+2002,Analamanga,9.0,0.0,Madagascar,Africa,Analamanga,17360.0,840.0,12707.0,323.0
+2003,Tokat,30.0,9.0,Turkey,Asia,Tokat,10319.0,3931.0,2721.0,
+2004,Analanjirofo,42.0,0.0,Madagascar,Africa,Analanjirofo,21451.0,240.0,86.0,314.0
+2005,Zonguldak,13.0,9.0,Turkey,Asia,Zonguldak,3313.0,1424.0,371.0,
+2006,Trabzon,11.0,1.0,Turkey,Asia,Trabzon,4542.0,1583.0,1532.0,
+2008,Tunceli,24.0,0.0,Turkey,Asia,Tunceli,7663.0,1137.0,3013.0,
+2009,Washington,17.0,0.0,USA,North America,Washington,173872.0,20046.0,35059.0,
+2011,Tashauz,3.0,2.0,Turkmenistan,Asia,Tashauz,73476.0,8389.0,4.0,
+2012,Anosy,28.0,8.0,Madagascar,Africa,Anosy,29516.0,1162.0,22499.0,314.0
+2013,Northern Ireland,6.0,0.0,U.K.,Europe,Northern Ireland,14146.0,757.0,12422.0,
+2014,Yozgat,14.0,10.0,Turkey,Asia,Yozgat,13836.0,8662.0,3888.0,
+2015,Lebap,10.0,0.0,Turkmenistan,Asia,Chardzhou,97084.0,4302.0,8460.0,
+2016,Atsimo Andrefana,3.0,12.0,Madagascar,Africa,Atsimo Andrefana,66328.0,2147.0,60242.0,312.0
+2017,Mary,6.0,8.0,Turkmenistan,Asia,Mary,86339.0,9205.0,43973.0,
+2019,Florida,13.0,0.0,USA,North America,Florida,146549.0,9470.0,1785.0,
+2021,Atsimo A.,27.0,0.0,Madagascar,Africa,Atsimo A.,16631.0,330.0,2193.0,314.0
+2022,Sharjah,16.0,3.0,U.A.E.,Asia,Sharjah,2409.0,78.0,0.0,
+2023,Cherkas'ka,16.0,4.0,Ukraine,Europe,Cherkas'ka,21267.0,17231.0,62.0,
+2025,England,23.0,2.0,U.K.,Europe,England,130237.0,58031.0,81831.0,
+2028,Donets'ka,18.0,10.0,Ukraine,Europe,Donets'ka,26687.0,24670.0,134.0,
+2030,Ivano,17.0,6.0,Ukraine,Europe,Ivano,13785.0,6242.0,548.0,
+2032,Chernihivs'ka,8.0,4.0,Ukraine,Europe,Chernihivs'ka,31786.0,23202.0,106.0,
+2033,Dnipropetrovs'ka,25.0,7.0,Ukraine,Europe,Dnipropetrovs'ka,31817.0,29036.0,68.0,
+2035,Chernivets'ka,20.0,5.0,Ukraine,Europe,Chernivets'ka,8032.0,5114.0,167.0,
+2036,Wales,14.0,0.0,U.K.,Europe,Wales,20886.0,1296.0,18407.0,
+2037,Alabama,7.0,0.0,USA,North America,Alabama,133846.0,9091.0,182.0,
+2038,Kansas,14.0,9.0,USA,North America,Kansas,213100.0,83364.0,155260.0,
+2039,Bongolava,4.0,0.0,Madagascar,Africa,Bongolava,18112.0,673.0,15231.0,313.0
+2040,Kentucky,15.0,0.0,USA,North America,Kentucky,104586.0,20503.0,20.0,
+2041,Louisiana,18.0,0.0,USA,North America,Louisiana,116701.0,14157.0,222.0,
+2042,Maine,13.0,0.0,USA,North America,Maine,83548.0,2699.0,83.0,
+2043,Nevada,14.0,3.0,USA,North America,Nevada,286380.0,1797.0,14563.0,
+2044,Diana,7.0,0.0,Madagascar,Africa,Diana,19135.0,904.0,5538.0,313.0
+2045,Betsiboka,2.0,4.0,Madagascar,Africa,Betsiboka,28991.0,379.0,24451.0,313.0
+2046,Texas,15.0,0.0,USA,North America,Texas,685235.0,82800.0,311944.0,
+2047,Utah,10.0,1.0,USA,North America,Utah,219884.0,4990.0,30606.0,
+2048,Boeny,0.0,0.0,Madagascar,Africa,Boeny,30565.0,1217.0,21528.0,313.0
+2049,West Virginia,10.0,0.0,USA,North America,West Virginia,62756.0,2609.0,21.0,
+2050,Arunachal P.,7.0,0.0,India,Asia,Arunachal P.,15072.0,2304.0,748.0,
+2051,Wisconsin,16.0,1.0,USA,North America,Wisconsin,145015.0,37280.0,1259.0,
+2052,Wyoming,17.0,12.0,USA,North America,Wyoming,253334.0,8085.0,125716.0,
+2053,Canelones,13.0,3.0,Uruguay,South America,Canelones,4692.0,814.0,4352.0,
+2054,Cerro Largo,6.0,7.0,Uruguay,South America,Cerro Largo,13702.0,1090.0,12870.0,
+2055,Colonia,15.0,3.0,Uruguay,South America,Colonia,6462.0,3270.0,5032.0,
+2056,Durazno,19.0,4.0,Uruguay,South America,Durazno,12210.0,1534.0,11278.0,
+2057,Vinh Long,10.0,1.0,Viet Nam,Asia,Vinh Long,1528.0,1414.0,0.0,
+2058,,,,,,Kanem,71046.0,334.0,32567.0,311.0
+2059,Flores,18.0,6.0,Uruguay,South America,Flores,5186.0,1334.0,4796.0,
+2060,Rio Negro,10.0,8.0,Uruguay,South America,Rio Negro,9580.0,4175.0,7224.0,
+2061,Lavalleja,15.0,0.0,Uruguay,South America,Lavalleja,10053.0,953.0,9418.0,
+2062,Ihorombe,17.0,3.0,Madagascar,Africa,Ihorombe,26063.0,483.0,21846.0,314.0
+2063,Itasy,10.0,0.0,Madagascar,Africa,Itasy,6585.0,540.0,6333.0,323.0
+2064,Maldonado,14.0,0.0,Uruguay,South America,Maldonado,5088.0,452.0,4247.0,
+2065,Paysandu,14.0,4.0,Uruguay,South America,Paysandu,14091.0,3921.0,11474.0,
+2066,Melaky,0.0,0.0,Madagascar,Africa,Melaky,40273.0,189.0,21205.0,312.0
+2067,Rivera,6.0,3.0,Uruguay,South America,Rivera,8795.0,2001.0,7503.0,
+2068,Menabe,4.0,3.0,Madagascar,Africa,Menabe,48373.0,1038.0,37035.0,312.0
+2069,Sava,23.0,0.0,Madagascar,Africa,Sava,23774.0,315.0,2646.0,314.0
+2070,Vakinankaratra,13.0,0.0,Madagascar,Africa,Vakinankaratra,17899.0,1130.0,14424.0,323.0
+2071,Rocha,11.0,0.0,Uruguay,South America,Rocha,11350.0,1258.0,9529.0,
+2072,Sofia,11.0,0.0,Madagascar,Africa,Sofia,50243.0,1206.0,28462.0,314.0
+2073,Salto,13.0,0.0,Uruguay,South America,Salto,14136.0,1286.0,13386.0,
+2074,San Jose,14.0,2.0,Uruguay,South America,San Jose,5221.0,2207.0,4266.0,
+2075,Bago (E),9.0,2.0,Myanmar,Asia,Bago (E),23629.0,8793.0,193.0,
+2076,Bago (W),7.0,4.0,Myanmar,Asia,Bago (W),14912.0,6531.0,173.0,
+2077,Shan (E),19.0,0.0,Myanmar,Asia,Shan (E),39425.0,2951.0,186.0,
+2078,Apure,17.0,0.0,Venezuela,South America,Apure,73115.0,997.0,63031.0,
+2079,Soriano,13.0,8.0,Uruguay,South America,Soriano,9021.0,4225.0,7007.0,
+2080,Shan (N),6.0,0.0,Myanmar,Asia,Shan (N),59184.0,12053.0,1657.0,
+2081,Treinta Y Tres,8.0,4.0,Uruguay,South America,Treinta Y Tres,9855.0,965.0,8750.0,
+2082,Shan (S),4.0,0.0,Myanmar,Asia,Shan (S),57014.0,13338.0,2303.0,
+2083,Samarkand,13.0,5.0,Uzbekistan,Asia,Samarkand,16578.0,5898.0,3062.0,
+2084,Andijan,10.0,3.0,Uzbekistan,Asia,Andijan,4353.0,4160.0,10.0,
+2085,Chhattisgarh,22.0,2.0,India,Asia,Chhattisgarh,135432.0,85154.0,24121.0,
+2086,Bukhara,0.0,2.0,Uzbekistan,Asia,Bukhara,38618.0,5166.0,9.0,
+2087,Delta Amacuro,0.0,0.0,Venezuela,South America,Delta Amacuro,38659.0,103.0,1229.0,
+2088,Sirdarya,10.0,4.0,Uzbekistan,Asia,Sirdarya,4208.0,4173.0,3.0,
+2089,Falcon,18.0,3.0,Venezuela,South America,Falcon,27262.0,616.0,14646.0,
+2090,Fergana,6.0,3.0,Uzbekistan,Asia,Fergana,6925.0,5611.0,38.0,
+2091,Kashkadarya,11.0,6.0,Uzbekistan,Asia,Kashkadarya,27993.0,8834.0,4714.0,
+2092,Amazonas,0.0,0.0,Venezuela,South America,Amazonas,183803.0,5.0,1942.0,
+2093,Guarico,9.0,24.0,Venezuela,South America,Guarico,66738.0,2760.0,63627.0,
+2094,Khorezm,0.0,4.0,Uzbekistan,Asia,Khorezm,5283.0,3249.0,0.0,
+2095,Jharkhand,17.0,0.0,India,Asia,Jharkhand,80040.0,61987.0,9681.0,
+2096,Namangan,7.0,2.0,Uzbekistan,Asia,Namangan,7527.0,4321.0,712.0,
+2097,Surkhandarya,6.0,3.0,Uzbekistan,Asia,Surkhandarya,19592.0,6580.0,8356.0,
+2098,Aragua,9.0,15.0,Venezuela,South America,Aragua,6926.0,139.0,5145.0,
+2099,Barinas,10.0,0.0,Venezuela,South America,Barinas,36589.0,1445.0,22992.0,
+2100,Bolivar,0.0,0.0,Venezuela,South America,Bolivar,239963.0,747.0,43314.0,
+2101,Carabobo,0.0,0.0,Venezuela,South America,Carabobo,4778.0,46.0,2613.0,
+2102,An Giang,14.0,0.0,Viet Nam,Asia,An Giang,3527.0,3278.0,4.0,
+2103,Cojedes,10.0,4.0,Venezuela,South America,Cojedes,14482.0,175.0,12051.0,
+2104,Ha Giang,16.0,0.0,Viet Nam,Asia,Ha Giang,7921.0,858.0,62.0,
+2105,Lara,15.0,4.0,Venezuela,South America,Lara,19046.0,564.0,11064.0,
+2106,Merida,14.0,0.0,Venezuela,South America,Merida,12834.0,1030.0,5134.0,
+2107,Ha Tay,22.0,0.0,Viet Nam,Asia,Ha Tay,2213.0,1766.0,41.0,
+2108,Dong Thap,7.0,0.0,Viet Nam,Asia,Dong Thap,3380.0,3145.0,4.0,
+2109,Ha Tinh,19.0,0.0,Viet Nam,Asia,Ha Tinh,5996.0,1772.0,162.0,
+2110,Miranda,0.0,0.0,Venezuela,South America,Miranda,8466.0,22.0,1230.0,
+2111,Gia Lai,13.0,4.0,Viet Nam,Asia,Gia Lai,15497.0,7654.0,35.0,
+2112,Uttarakhand,28.0,0.0,India,Asia,Uttarakhand,52178.0,21310.0,8373.0,
+2113,Khanh Hoa,19.0,4.0,Viet Nam,Asia,Khanh Hoa,4683.0,1231.0,95.0,
+2114,Monagas,10.0,0.0,Venezuela,South America,Monagas,28896.0,860.0,17126.0,
+2115,Portuguesa,12.0,1.0,Venezuela,South America,Portuguesa,19493.0,1526.0,14114.0,
+2116,Sucre,0.0,0.0,Venezuela,South America,Sucre,10970.0,55.0,1698.0,
+2117,Tachira,15.0,0.0,Venezuela,South America,Tachira,10793.0,1743.0,2256.0,
+2118,Gadaref,3.0,7.0,Sudan,Africa,Gadaref,55771.0,33430.0,14140.0,312.0
+2119,Quang Ninh,16.0,0.0,Viet Nam,Asia,Quang Ninh,5101.0,767.0,618.0,
+2120,Ekiti,7.0,0.0,Nigeria,Africa,Ekiti,5473.0,217.0,0.0,313.0
+2121,Trujillo,20.0,1.0,Venezuela,South America,Trujillo,8074.0,995.0,2385.0,
+2122,Yaracuy,16.0,0.0,Venezuela,South America,Yaracuy,6218.0,190.0,1586.0,
+2123,Ba Ria-Vung Tau,13.0,2.0,Viet Nam,Asia,Ba Ria-Vung Tau,1894.0,1415.0,152.0,
+2124,Bac Kan,16.0,0.0,Viet Nam,Asia,Bac Kan,4863.0,232.0,11.0,
+2125,Bac Lieu,12.0,4.0,Viet Nam,Asia,Bac Lieu,2600.0,2429.0,745.0,
+2126,Madhya Pradesh,21.0,4.0,India,Asia,Madhya Pradesh,308054.0,271919.0,37039.0,
+2127,Ben Tre,6.0,0.0,Viet Nam,Asia,Ben Tre,2284.0,1890.0,285.0,
+2129,Binh Dinh,14.0,0.0,Viet Nam,Asia,Binh Dinh,6062.0,1947.0,72.0,
+2130,Ca Mau,13.0,7.0,Viet Nam,Asia,Ca Mau,5159.0,4977.0,1224.0,
+2131,Dong Nai,17.0,0.0,Viet Nam,Asia,Dong Nai,5884.0,3379.0,25.0,
+2132,Hai Duong,23.0,5.0,Viet Nam,Asia,Hai Duong,1665.0,1197.0,26.0,
+2133,Hai Phong City,19.0,6.0,Viet Nam,Asia,Hai Phong City,1150.0,814.0,168.0,
+2134,Hoa Binh,10.0,0.0,Viet Nam,Asia,Hoa Binh,4656.0,1034.0,8.0,
+2135,Ho Chi Minh City,14.0,0.0,Viet Nam,Asia,Ho Chi Minh City,1987.0,1052.0,122.0,
+2136,Long An,6.0,0.0,Viet Nam,Asia,Long An,4481.0,4334.0,33.0,
+2137,Nam Dinh,17.0,3.0,Viet Nam,Asia,Nam Dinh,1549.0,1201.0,108.0,
+2138,Nghe An,11.0,2.0,Viet Nam,Asia,Nghe An,16596.0,2971.0,137.0,
+2139,Saguia El Hamra,0.0,0.0,Western Sahara,Africa,Saguia El Hamra,95711.0,4.0,18.0,211.0
+2141,Ninh Binh,14.0,1.0,Viet Nam,Asia,Ninh Binh,1362.0,1035.0,80.0,
+2142,Al Hudaydah,3.0,0.0,Yemen,Asia,Al Hudaydah,12843.0,4574.0,31.0,
+2143,Ninh Thuan,19.0,4.0,Viet Nam,Asia,Ninh Thuan,3319.0,1329.0,104.0,
+2144,Maluku,19.0,0.0,Indonesia,Asia,Maluku,33623.0,1478.0,31.0,
+2145,Phu Tho,13.0,0.0,Viet Nam,Asia,Phu Tho,3532.0,1227.0,69.0,
+2146,Quang Binh,12.0,4.0,Viet Nam,Asia,Quang Binh,7976.0,1497.0,256.0,
+2147,Quang Tri,19.0,2.0,Viet Nam,Asia,Quang Tri,4710.0,1915.0,49.0,
+2148,Soc Trang,3.0,0.0,Viet Nam,Asia,Soc Trang,3335.0,3083.0,228.0,
+2149,Son La,20.0,0.0,Viet Nam,Asia,Son La,14131.0,821.0,155.0,
+2150,Thai Binh,17.0,2.0,Viet Nam,Asia,Thai Binh,1559.0,1189.0,51.0,
+2151,Sulawesi Barat,14.0,0.0,Indonesia,Asia,Sulawesi Barat,16903.0,1794.0,0.0,
+2152,Tien Giang,6.0,0.0,Viet Nam,Asia,Tien Giang,2384.0,2204.0,19.0,
+2153,Thai Nguyen,17.0,0.0,Viet Nam,Asia,Thai Nguyen,3521.0,1193.0,15.0,
+2154,Thanh Hoa,13.0,0.0,Viet Nam,Asia,Thanh Hoa,10669.0,3700.0,251.0,
+2155,Vinh Phuc,23.0,1.0,Viet Nam,Asia,Vinh Phuc,1380.0,984.0,14.0,
+2156,Yen Bai,18.0,0.0,Viet Nam,Asia,Yen Bai,6887.0,336.0,21.0,
+2157,Uttar Pradesh,21.0,4.0,India,Asia,Uttar Pradesh,240777.0,233183.0,1886.0,
+2158,Sulawesi Selatan,14.0,0.0,Indonesia,Asia,Sulawesi Selatan,45149.0,14795.0,27.0,
+2159,Centre-ouest,9.0,2.0,Burkina Faso,Africa,Centre-ouest,21678.0,7790.0,994.0,312.0
+2160,Abyan,0.0,0.0,Yemen,Asia,Abyan,16450.0,476.0,8.0,
+2161,Centre-sud,6.0,2.0,Burkina Faso,Africa,Centre-sud,11499.0,4779.0,101.0,312.0
+2162,Sumatera Selatan,12.0,0.0,Indonesia,Asia,Sumatera Selatan,86281.0,29831.0,32.0,
+2163,Al Dhale'e,3.0,8.0,Yemen,Asia,Al Dhale'e,4000.0,205.0,0.0,
+2164,Al Mahwit,2.0,3.0,Yemen,Asia,Al Mahwit,2328.0,83.0,0.0,
+2165,Al Bayda,0.0,6.0,Yemen,Asia,Al Bayda,9277.0,51.0,338.0,
+2166,Luapula,5.0,0.0,Zambia,Africa,Luapula,48167.0,3961.0,2190.0,313.0
+2167,Al Jawf,0.0,0.0,Yemen,Asia,Al Jawf,39527.0,4.0,0.0,
+2168,Lahj,8.0,0.0,Yemen,Asia,Lahj,12656.0,347.0,0.0,
+2169,,,,,,Mont De Lam,8295.0,2112.0,12.0,313.0
+2170,West,6.0,0.0,Zambia,Africa,West,128964.0,6860.0,72391.0,312.0
+2171,Al Maharah,0.0,0.0,Yemen,Asia,Al Maharah,66508.0,13.0,0.0,
+2172,Plateau Central,8.0,3.0,Burkina Faso,Africa,Plateau Central,8628.0,5069.0,1349.0,312.0
+2173,Amran,0.0,4.0,Yemen,Asia,Amran,7903.0,179.0,45.0,
+2174,Sahel,4.0,4.0,Burkina Faso,Africa,Sahel,36129.0,5711.0,34323.0,312.0
+2175,Sa'ada,0.0,1.0,Yemen,Asia,Sa'ada,12390.0,506.0,0.0,
+2176,Harare,0.0,0.0,Zimbabwe,Africa,Harare,1008.0,69.0,290.0,322.0
+2177,Dhamar,4.0,4.0,Yemen,Asia,Dhamar,7591.0,223.0,1043.0,
+2178,Hajjah,0.0,1.0,Yemen,Asia,Hajjah,8251.0,367.0,0.0,
+2179,Papua Barat,0.0,0.0,Indonesia,Asia,Papua Barat,94513.0,411.0,27.0,
+2180,Northern,5.0,0.0,Zambia,Africa,Northern,148906.0,17760.0,17004.0,322.0
+2181,Southern,7.0,7.0,Zambia,Africa,Southern,85866.0,18605.0,33959.0,312.0
+2182,Ibb,4.0,8.0,Yemen,Asia,Ibb,5347.0,85.0,84.0,
+2183,Marib,10.0,1.0,Yemen,Asia,Marib,17494.0,206.0,0.0,
+2184,Shabwah,0.0,0.0,Yemen,Asia,Shabwah,38908.0,62.0,15.0,
+2185,Taizz,0.0,6.0,Yemen,Asia,Taizz,10011.0,414.0,27.0,
+2186,Central,7.0,1.0,Zambia,Africa,Central,94780.0,14362.0,15726.0,312.0
+2187,Eastern,9.0,2.0,Zambia,Africa,Eastern,68642.0,11491.0,15366.0,312.0
+2188,Copperbelt,9.0,0.0,Zambia,Africa,Copperbelt,30877.0,2126.0,7885.0,322.0
+2189,Lusaka,7.0,2.0,Zambia,Africa,Lusaka,21512.0,2389.0,3014.0,312.0
+2190,North-West,7.0,0.0,Zambia,Africa,North-West,123351.0,3471.0,39434.0,322.0
+2191,,,,,,Batha Est,28797.0,1479.0,24084.0,312.0
+2192,South Kordofa,13.0,5.0,Sudan,Africa,South Kordofa,128133.0,19581.0,13208.0,312.0
+2193,,,,,,Batha Ouest,61611.0,2670.0,41541.0,312.0
+2194,,,,,,Unit unavailable,47476.0,174.0,24960.0,
+2195,,,,,,Mayo-Boneye,11384.0,1939.0,0.0,312.0
+2196,,,,,,Assongha,8060.0,2882.0,6759.0,312.0
+2197,,,,,,Borkou,254495.0,164.0,43.0,311.0
+2198,,,,,,Ennedi,186799.0,4.0,798.0,311.0
+2199,Can Tho city,11.0,7.0,Viet Nam,Asia,Can Tho city,1393.0,1317.0,6.0,
+2200,,,,,,Tibesti,124363.0,42.0,2.0,221.0
+2201,Dak Lak,13.0,2.0,Viet Nam,Asia,Dak Lak,13015.0,6176.0,152.0,
+2202,Dak Nong,14.0,0.0,Viet Nam,Asia,Dak Nong,6500.0,2995.0,34.0,
+2203,,,,,,Baguirmi,41672.0,5128.0,8342.0,312.0
+2204,Centre-est,8.0,3.0,Burkina Faso,Africa,Centre-est,14734.0,8161.0,1047.0,312.0
+2205,,,,,,Daraba,15992.0,3416.0,12775.0,312.0
+2206,Ardebil,33.0,0.0,Iran,Asia,Ardebil,17855.0,4483.0,4470.0,
+2207,,,,,,Logone Oriental,15408.0,6879.0,1.0,313.0
+2209,,,,,,Kabia,6112.0,4128.0,6.0,312.0
+2210,,,,,,Mayo-Dala,12428.0,5863.0,2.0,312.0
+2211,Pichincha,7.0,0.0,Ecuador,South America,Pichincha,9528.0,1557.0,2877.0,
+2212,,,,,,Barh Koh,23802.0,3370.0,15.0,312.0
+2213,,,,,,Lac Iro,17666.0,1536.0,0.0,312.0
+2214,Cascades,5.0,0.0,Burkina Faso,Africa,Cascades,18473.0,2581.0,224.0,313.0
+2215,,,,,,Mandoul,17444.0,6901.0,5.0,312.0
+2216,Gôh-Djiboua,6.0,1.0,Côte d'Ivoire,Africa,GÃ´h-Djiboua,15678.0,4065.0,31.0,314.0
+2217,,,,,,Ouaddai,36329.0,6288.0,23877.0,312.0
+2218,Lacs,7.0,6.0,Côte d'Ivoire,Africa,Lacs,26066.0,5246.0,4635.0,313.0
+2219,,,,,,Sila,21020.0,3103.0,2415.0,312.0
+2220,Lagunes,8.0,4.0,Côte d'Ivoire,Africa,Lagunes,20409.0,4709.0,349.0,314.0
+2221,,,,,,Tandjile Est,12484.0,2813.0,0.0,312.0
+2222,Sassandra,11.0,2.0,Côte d'Ivoire,Africa,Sassandra,23878.0,6880.0,407.0,314.0
+2223,Eastern Cape,16.0,10.0,South Africa,Africa,Eastern Cape,168978.0,13548.0,142581.0,221.0
+2224,KwaZulu-Natal,15.0,5.0,South Africa,Africa,KwaZulu-Natal,93292.0,14293.0,76746.0,223.0
+2225,Woroba,7.0,0.0,Côte d'Ivoire,Africa,Woroba,31139.0,7679.0,4360.0,313.0
+2226,,,,,,Tandjile Ouest,5048.0,3642.0,0.0,312.0
+2227,Comoe,10.0,4.0,Côte d'Ivoire,Africa,Comoe,14190.0,4116.0,188.0,314.0
+2228,Abidjan,8.0,4.0,Côte d'Ivoire,Africa,Abidjan,2129.0,607.0,63.0,314.0
+2229,Yamoussoukro,0.0,0.0,Côte d'Ivoire,Africa,Yamoussoukro,2070.0,458.0,368.0,313.0
+2232,Guayas,7.0,2.0,Ecuador,South America,Guayas,15475.0,6608.0,3497.0,
+2233,Santa Elena,12.0,10.0,Ecuador,South America,Santa Elena,3690.0,605.0,1948.0,
+2234,Tsachilas,4.0,3.0,Ecuador,South America,Tsachilas,3445.0,606.0,154.0,
+2235,Golestan,18.0,8.0,Iran,Asia,Golestan,20308.0,5038.0,3543.0,
+2236,Est,3.0,8.0,Burkina Faso,Africa,Est,46561.0,12621.0,13261.0,312.0
+2237,,,,,,Unit unavailable,11422.0,6307.0,1239.0,
+2238,Ghazvin,21.0,0.0,Iran,Asia,Ghazvin,15523.0,2540.0,3838.0,
+2239,,,,,,Unit unavailable,69786.0,1009.0,32338.0,
+2240,Jizzakh,13.0,5.0,Uzbekistan,Asia,Jizzakh,21907.0,5634.0,2779.0,
+2241,Ghom,10.0,1.0,Iran,Asia,Ghom,11365.0,850.0,1191.0,
+2242,Upper Nile,4.0,10.0,South Sudan,Africa,Upper Nile,78208.0,4214.0,36843.0,312.0
+2243,Navoiy,6.0,6.0,Uzbekistan,Asia,Navoiy,115715.0,2208.0,1048.0,
+2244,Boucle Mouhoun,14.0,2.0,Burkina Faso,Africa,Boucle Mouhoun,34492.0,13904.0,4597.0,312.0
+2245,Centre,7.0,3.0,Burkina Faso,Africa,Centre,2877.0,1591.0,181.0,312.0
+2246,Nord,9.0,6.0,Burkina Faso,Africa,Nord,16399.0,5162.0,13157.0,312.0
+2247,,,,,,Unit unavailable,14935.0,90.0,11293.0,
+2248,,,,,,Unit unavailable,18415.0,8551.0,3185.0,
+2249,,,,,,Unit unavailable,1972.0,529.0,780.0,
+2250,Manyara,5.0,15.0,Tanzania,Africa,Manyara,46346.0,8453.0,7376.0,322.0
+2251,,,,,,Unit unavailable,3462.0,1313.0,859.0,
+2252,Mtwara,3.0,3.0,Tanzania,Africa,Mtwara,17849.0,4007.0,592.0,313.0
+2253,,,,,,Unit unavailable,11209.0,2144.0,5042.0,
+2254,Singida,7.0,6.0,Tanzania,Africa,Singida,48557.0,13623.0,2826.0,322.0
+2255,,,,,,Unit unavailable,2915.0,2046.0,22.0,
+2256,,,,,,Unit unavailable,2519.0,1636.0,18.0,
+2260,Kigoma,7.0,0.0,Tanzania,Africa,Kigoma,44798.0,3141.0,10146.0,313.0
+2262,Limpopo,6.0,34.0,South Africa,Africa,Limpopo,125629.0,12496.0,71234.0,312.0
+2264,Mpumalanga,16.0,13.0,South Africa,Africa,Mpumalanga,76684.0,13075.0,62229.0,312.0
+2265,North West,13.0,15.0,South Africa,Africa,North West,104834.0,21835.0,82585.0,222.0
+2267,Katavi,10.0,0.0,Tanzania,Africa,Katavi,49667.0,2521.0,6028.0,313.0
+2269,Mwanza,9.0,1.0,Tanzania,Africa,Mwanza,25991.0,9324.0,44.0,313.0
+2273,Njombe,6.0,0.0,Tanzania,Africa,Njombe,21327.0,5812.0,9392.0,323.0
+2274,Pwani,12.0,0.0,Tanzania,Africa,Pwani,31862.0,430.0,4494.0,313.0
+2275,Shinyanga,8.0,6.0,Tanzania,Africa,Shinyanga,16424.0,11215.0,1184.0,313.0
+2276,Ruvuma,3.0,0.0,Tanzania,Africa,Ruvuma,63034.0,4550.0,7334.0,313.0
+2277,Tabora,9.0,6.0,Tanzania,Africa,Tabora,75500.0,19706.0,7724.0,313.0
+2280,Tanga,12.0,9.0,Tanzania,Africa,Tanga,27908.0,3412.0,2678.0,313.0
+2282,Ilemi triangle,0.0,0.0,Ilemi triangle,Africa,Ilemi triangle,3179.0,0.0,170.0,313.0
+2284,Maputo,11.0,16.0,Mozambique,Africa,Maputo,23468.0,2621.0,7093.0,312.0
+2286,Boke,3.0,0.0,Guinea,Africa,Boke,31134.0,7368.0,9690.0,313.0
+2287,Mamou,5.0,0.0,Guinea,Africa,Mamou,17781.0,4829.0,5380.0,313.0
+2288,Nzerekore,10.0,0.0,Guinea,Africa,Nzerekore,36576.0,9584.0,7605.0,314.0
+2291,,,,,,Unit unavailable,17793.0,0.0,0.0,311.0
+2293,Rangpur,11.0,0.0,Bangladesh,Asia,Rangpur,16204.0,14985.0,1024.0,
+2297,Cairo,0.0,0.0,Egypt,Africa,Cairo,2900.0,44.0,0.0,211.0
+2302,Giza,0.0,0.0,Egypt,Africa,Giza,36366.0,1450.0,0.0,211.0
+2304,Fayoum,0.0,0.0,Egypt,Africa,Fayoum,5847.0,1705.0,0.0,211.0
+2307,Mbeya,10.0,1.0,Tanzania,Africa,Mbeya,61089.0,9745.0,8575.0,323.0
+2311,Northern Cape,8.0,4.0,South Africa,Africa,Northern Cape,372833.0,2739.0,235233.0,221.0
+2313,Simiyu,16.0,5.0,Tanzania,Africa,Simiyu,24676.0,10697.0,3221.0,323.0
+2314,Diourbel,2.0,7.0,Senegal,Africa,Diourbel,4905.0,4606.0,1421.0,312.0
+2315,Saint louis,1.0,4.0,Senegal,Africa,Saint louis,19033.0,1786.0,13131.0,311.0
+2316,Louga,3.0,9.0,Senegal,Africa,Louga,24908.0,8273.0,18438.0,312.0
+2317,Matam,4.0,8.0,Senegal,Africa,Matam,29394.0,695.0,10824.0,312.0
+2319,Arusha,7.0,8.0,Tanzania,Africa,Arusha,38502.0,5301.0,16110.0,323.0
+2320,Dar es salaam,0.0,0.0,Tanzania,Africa,Dar es salaam,1628.0,98.0,472.0,313.0
+2321,Mara,23.0,6.0,Tanzania,Africa,Mara,29806.0,5997.0,6092.0,323.0
+2322,Morogoro,3.0,8.0,Tanzania,Africa,Morogoro,70135.0,7274.0,12835.0,313.0
+2323,Ismailia,0.0,6.0,Egypt,Africa,Ismailia,5691.0,1356.0,0.0,211.0
+2324,Alexandria,0.0,3.0,Egypt,Africa,Alexandria,2548.0,1306.0,0.0,211.0
+2325,Tarapaca,0.0,0.0,Chile,South America,Tarapaca,42616.0,11.0,3845.0,
+2326,Assiut,0.0,0.0,Egypt,Africa,Assiut,16495.0,1624.0,0.0,211.0
+2327,Bocas del Toro,0.0,0.0,Panama,North America,Bocas del Toro,4391.0,28.0,127.0,
+2328,Red Sea,0.0,0.0,Egypt,Africa,Red Sea,102933.0,0.0,0.0,311.0
+2329,Chiriquí,18.0,0.0,Panama,North America,ChiriquÃ­,6436.0,1010.0,3156.0,
+2330,Aswan,0.0,0.0,Egypt,Africa,Aswan,60767.0,1116.0,0.0,211.0
+2331,Los Lagos,10.0,0.0,Chile,South America,Los Lagos,47268.0,5010.0,1689.0,
+2332,Behera,0.0,0.0,Egypt,Africa,Behera,11445.0,7172.0,0.0,211.0
+2333,Beni Suef,0.0,0.0,Egypt,Africa,Beni Suef,10677.0,1430.0,0.0,211.0
+2334,Dakahlia,0.0,1.0,Egypt,Africa,Dakahlia,3705.0,3126.0,0.0,211.0
+2335,Gharbia,0.0,0.0,Egypt,Africa,Gharbia,1996.0,1787.0,0.0,211.0
+2336,Darién,5.0,0.0,Panama,North America,DariÃ©n,13366.0,906.0,277.0,
+2337,Abia,12.0,4.0,Nigeria,Africa,Abia,4373.0,327.0,0.0,313.0
+2338,Kafr El-Shikh,0.0,0.0,Egypt,Africa,Kafr El-Shikh,3741.0,2750.0,0.0,211.0
+2339,Daykundi,13.0,4.0,Afghanistan,Asia,Daykundi,15765.0,193.0,15187.0,
+2340,Kalyoubia,0.0,0.0,Egypt,Africa,Kalyoubia,1150.0,878.0,0.0,211.0
+2341,Matrouh,0.0,0.0,Egypt,Africa,Matrouh,158579.0,2008.0,0.0,211.0
+2342,Panjsher,26.0,1.0,Afghanistan,Asia,Panjsher,3732.0,72.0,3580.0,
+2343,Menia,0.0,0.0,Egypt,Africa,Menia,31378.0,2419.0,0.0,211.0
+2344,Menoufia,0.0,0.0,Egypt,Africa,Menoufia,2171.0,1824.0,0.0,211.0
+2345,New Valley,0.0,0.0,Egypt,Africa,New Valley,426878.0,1533.0,0.0,211.0
+2346,Rukwa,8.0,0.0,Tanzania,Africa,Rukwa,28260.0,6484.0,2154.0,323.0
+2347,North Sinai,4.0,3.0,Egypt,Africa,North Sinai,26451.0,591.0,0.0,211.0
+2348,Enugu,8.0,7.0,Nigeria,Africa,Enugu,7430.0,1354.0,0.0,313.0
+2349,Port Said,1.0,16.0,Egypt,Africa,Port Said,1460.0,578.0,0.0,211.0
+2350,Qena,0.0,0.0,Egypt,Africa,Qena,13199.0,1769.0,0.0,211.0
+2351,Shrkia,0.0,0.0,Egypt,Africa,Shrkia,5330.0,4279.0,0.0,211.0
+2352,South Sinai,0.0,0.0,Egypt,Africa,South Sinai,29282.0,5.0,0.0,211.0
+2353,Muslim Mindanao,16.0,0.0,Philippines,Asia,Muslim Mindanao,11567.0,3742.0,0.0,
+2354,Zamboanga,21.0,0.0,Philippines,Asia,Zamboanga,14126.0,4536.0,4.0,
+2355,Suez,4.0,8.0,Egypt,Africa,Suez,9392.0,166.0,0.0,211.0
+2356,North Mindanao,16.0,0.0,Philippines,Asia,North Mindanao,17324.0,6641.0,2.0,
+2357,Davao Region,6.0,0.0,Philippines,Asia,Davao Region,18045.0,4057.0,0.0,
+2358,Soccsksargen,15.0,0.0,Philippines,Asia,Soccsksargen,19175.0,11248.0,0.0,
+2359,Central Luzon,17.0,0.0,Philippines,Asia,Central Luzon,20786.0,10689.0,2.0,
+2360,Suhag,0.0,0.0,Egypt,Africa,Suhag,10069.0,1627.0,0.0,211.0
+2361,Lago niassa,0.0,0.0,Mozambique,Africa,Lago niassa,6882.0,4.0,16.0,313.0
+2362,Calabarzon,23.0,0.0,Philippines,Asia,Calabarzon,16416.0,3662.0,21.0,
+2363,Hadramaut,0.0,0.0,Yemen,Asia,Hadramaut,166470.0,421.0,93.0,
+2364,Bauchi,8.0,0.0,Nigeria,Africa,Bauchi,47605.0,22746.0,3995.0,312.0
+2365,Los Rios,8.0,0.0,Chile,South America,Los Rios,18381.0,2694.0,128.0,
+2366,Ebonyi,7.0,1.0,Nigeria,Africa,Ebonyi,6672.0,3236.0,0.0,313.0
+2367,Bayelsa,0.0,0.0,Nigeria,Africa,Bayelsa,8626.0,10.0,0.0,314.0
+2368,Gombe,10.0,2.0,Nigeria,Africa,Gombe,17728.0,8988.0,4864.0,312.0
+2369,South Tagalog,24.0,0.0,Philippines,Asia,South Tagalog,25378.0,5544.0,6.0,
+2370,Ngöbe Buglé,0.0,0.0,Panama,North America,NgÃ¶be BuglÃ©,6420.0,179.0,1092.0,
+2371,Nassarawa,9.0,0.0,Nigeria,Africa,Nassarawa,26192.0,10392.0,0.0,313.0
+2372,Matabeleland N.,8.0,11.0,Zimbabwe,Africa,Matabeleland N.,75530.0,7474.0,30383.0,312.0
+2373,Mashonaland East,9.0,2.0,Zimbabwe,Africa,Mashonaland East,32082.0,12176.0,6665.0,322.0
+2374,Ondo,6.0,0.0,Nigeria,Africa,Ondo,15530.0,461.0,318.0,313.0
+2375,Plateau,12.0,0.0,Nigeria,Africa,Plateau,27152.0,10081.0,0.0,313.0
+2376,Rivers,17.0,5.0,Nigeria,Africa,Rivers,9929.0,1180.0,0.0,314.0
+2377,,,,,,Unit unavailable,67285.0,10.0,2756.0,
+2378,Sokoto,4.0,2.0,Nigeria,Africa,Sokoto,27889.0,15419.0,14222.0,312.0
+2379,Zamfara,11.0,3.0,Nigeria,Africa,Zamfara,39264.0,23755.0,12331.0,312.0
+2380,Jawa Barat,23.0,0.0,Indonesia,Asia,Jawa Barat,36878.0,15769.0,0.0,
+2381,Kassala,3.0,0.0,Sudan,Africa,Kassala,52955.0,12065.0,10122.0,311.0
+2382,Lao Cai,13.0,0.0,Viet Nam,Asia,Lao Cai,6368.0,400.0,63.0,
+2383,North Kordofa,5.0,6.0,Sudan,Africa,North Kordofa,242272.0,45569.0,62248.0,311.0
+2384,Kepulauan-riau,6.0,0.0,Indonesia,Asia,Kepulauan-riau,5391.0,955.0,0.0,
+2385,Papua,25.0,0.0,Indonesia,Asia,Papua,312195.0,3338.0,268.0,
+2386,Riau,8.0,0.0,Indonesia,Asia,Riau,89383.0,19642.0,4.0,
+2387,Hau Giang,14.0,0.0,Viet Nam,Asia,Hau Giang,1672.0,1649.0,0.0,
+2388,Lai Chau,15.0,0.0,Viet Nam,Asia,Lai Chau,9065.0,483.0,58.0,
+2389,Arica,0.0,0.0,Chile,South America,Arica,16627.0,38.0,1036.0,
+2390,Emberá,0.0,0.0,Panama,North America,EmberÃ¡,4165.0,159.0,99.0,
+2391,Veraguas,8.0,4.0,Panama,North America,Veraguas,10928.0,948.0,5429.0,
+2392,Chuy,30.0,10.0,Kyrgyzstan,Asia,Chuy,19808.0,5659.0,10373.0,
+2393,Raymah,0.0,0.0,Yemen,Asia,Raymah,1895.0,11.0,0.0,
+2394,Sana'a,2.0,8.0,Yemen,Asia,Sana'a,11913.0,148.0,139.0,
+2395,Absheron,0.0,0.0,Azerbaijan,Europe,Absheron,5877.0,515.0,1617.0,
+2396,Aran,42.0,4.0,Azerbaijan,Europe,Aran,21676.0,13553.0,6458.0,
+2397,Daghlig Shirvan,18.0,0.0,Azerbaijan,Europe,Daghlig Shirvan,5844.0,3532.0,1933.0,
+2398,Marrakech,10.0,6.0,Morocco,Africa,Marrakech,32390.0,13819.0,10401.0,212.0
+2399,Guba-Khachmaz,31.0,3.0,Azerbaijan,Europe,Guba-Khachmaz,6487.0,3450.0,1683.0,
+2400,Ahal,8.0,12.0,Turkmenistan,Asia,Ahal,98688.0,10376.0,2274.0,
+2401,Ganja-Gazakh,52.0,0.0,Azerbaijan,Europe,Ganja-Gazakh,12097.0,4516.0,2045.0,
+2402,Lankaran,9.0,4.0,Azerbaijan,Europe,Lankaran,5605.0,3251.0,399.0,
+2403,Nakhchivan,39.0,8.0,Azerbaijan,Europe,Nakhchivan,5357.0,1046.0,1477.0,
+2404,Shaki-Zaqatala,27.0,2.0,Azerbaijan,Europe,Shaki-Zaqatala,8413.0,3527.0,1192.0,
+2405,Yukhari Garabakh,25.0,0.0,Azerbaijan,Europe,Yukhari Garabakh,7613.0,3854.0,1685.0,
+2407,Balkan,6.0,6.0,Turkmenistan,Asia,Balkan,116474.0,783.0,319.0,
+2408,Fès - Boulemane,12.0,4.0,Morocco,Africa,FÃ¨s - Boulemane,19315.0,3274.0,16051.0,222.0
+2409,Gharb,10.0,12.0,Morocco,Africa,Gharb,8755.0,6333.0,1469.0,213.0
+2410,Rabat,6.0,6.0,Morocco,Africa,Rabat,10014.0,4968.0,3623.0,213.0
+2411,Souss,12.0,4.0,Morocco,Africa,Souss,72102.0,4897.0,33093.0,221.0
+2412,Valparaiso,10.0,12.0,Chile,South America,Valparaiso,15937.0,954.0,2947.0,
+2413,Tadla - Azilal,7.0,4.0,Morocco,Africa,Tadla - Azilal,15577.0,4208.0,11626.0,222.0
+2414,Fujairah,0.0,0.0,U.A.E.,Asia,Fujairah,1529.0,32.0,0.0,
+2415,Embu,11.0,7.0,Kenya,Africa,Embu,2824.0,1802.0,157.0,313.0
+2416,Meru,17.0,10.0,Kenya,Africa,Meru,6940.0,2987.0,1974.0,323.0
+2417,Tharaka,6.0,9.0,Kenya,Africa,Tharaka,2646.0,1659.0,45.0,313.0
+2418,Garissa,0.0,0.0,Kenya,Africa,Garissa,44700.0,13.0,18391.0,312.0
+2419,Mandera,0.0,0.0,Kenya,Africa,Mandera,25958.0,32.0,14984.0,312.0
+2420,Wajir,0.0,0.0,Kenya,Africa,Wajir,56859.0,26.0,37475.0,311.0
+2421,Migori,14.0,0.0,Kenya,Africa,Migori,2659.0,2277.0,211.0,323.0
+2422,Baringo,22.0,7.0,Kenya,Africa,Baringo,10926.0,1264.0,5454.0,323.0
+2423,Bomet,11.0,3.0,Kenya,Africa,Bomet,1584.0,1517.0,70.0,324.0
+2424,Kajiado,8.0,10.0,Kenya,Africa,Kajiado,21959.0,663.0,10678.0,322.0
+2425,Kericho,10.0,0.0,Kenya,Africa,Kericho,3350.0,2302.0,85.0,324.0
+2426,Laikipia,18.0,14.0,Kenya,Africa,Laikipia,9469.0,1079.0,6521.0,323.0
+2427,Trans Nzoia,39.0,0.0,Kenya,Africa,Trans Nzoia,2487.0,1858.0,100.0,324.0
+2428,Kirinyaga,15.0,1.0,Kenya,Africa,Kirinyaga,1476.0,1040.0,44.0,323.0
+2429,Uasin Gishu,36.0,4.0,Kenya,Africa,Uasin Gishu,3347.0,2578.0,637.0,324.0
+2430,West Pokot,24.0,3.0,Kenya,Africa,West Pokot,9119.0,642.0,4327.0,323.0
+2431,Bungoma,19.0,0.0,Kenya,Africa,Bungoma,3001.0,2276.0,65.0,324.0
+2432,Busia,19.0,0.0,Kenya,Africa,Busia,1630.0,1403.0,331.0,324.0
+2433,,,,,,Unit unavailable,7523.0,0.0,177.0,312.0
+2434,,,,,,Unit unavailable,4065.0,202.0,46.0,314.0
+2435,Nyandarua,12.0,4.0,Kenya,Africa,Nyandarua,3274.0,2001.0,889.0,323.0
+2436,Kiambu,27.0,2.0,Kenya,Africa,Kiambu,2538.0,1743.0,369.0,323.0
+2437,Muranga,15.0,0.0,Kenya,Africa,Muranga,2540.0,2104.0,61.0,323.0
+2438,Taita Taveta,16.0,6.0,Kenya,Africa,Taita Taveta,17300.0,1318.0,7743.0,312.0
+2439,Nyeri,21.0,5.0,Kenya,Africa,Nyeri,3341.0,1594.0,490.0,323.0
+2440,Kilifi,12.0,9.0,Kenya,Africa,Kilifi,4784.0,1316.0,407.0,313.0
+2441,Kwale,15.0,10.0,Kenya,Africa,Kwale,8250.0,2165.0,699.0,313.0
+2442,Malindi,20.0,10.0,Kenya,Africa,Malindi,7749.0,632.0,2054.0,312.0
+2443,Nandi,11.0,0.0,Kenya,Africa,Nandi,2871.0,2143.0,155.0,324.0
+2500,Lesotho,9.0,6.0,Lesotho,Africa,Lesotho,30453.0,7978.0,26067.0,223.0
+9980,South Highlands,14.0,0.0,Uganda,Africa,South Highlands,5214.0,3088.0,3257.0,323.0
+9981,West Highlands,8.0,0.0,Uganda,Africa,West Highlands,18284.0,7306.0,13252.0,323.0
+9982,Lake Albert,15.0,1.0,Uganda,Africa,Lake Albert,19591.0,6388.0,9117.0,314.0
+9983,Eastern,19.0,4.0,Uganda,Africa,Eastern,20943.0,11883.0,8227.0,314.0
+9984,West Nile,6.0,0.0,Uganda,Africa,"West Nile,",15779.0,6484.0,10297.0,314.0
+9985,Mid Northen,8.0,1.0,Uganda,Africa,Mid Northen,41995.0,17062.0,36873.0,314.0
+9986,Karamoja,33.0,11.0,Uganda,Africa,Karamoja,27515.0,1232.0,25009.0,323.0
+9987,Lake Victoria,16.0,0.0,Uganda,Africa,Lake Victoria,50696.0,13993.0,10735.0,314.0
+9988,South Eastern,24.0,2.0,Uganda,Africa,South Eastern,17461.0,7762.0,3785.0,314.0
+9989,South Drylands,14.0,0.0,Uganda,Africa,South Drylands,24018.0,11129.0,16022.0,323.0
+9992,Rwanda East,15.0,1.0,Rwanda,Africa,Rwanda East,10186.0,4280.0,3620.0,323.0
+9993,Rwanda West,13.0,0.0,Rwanda,Africa,Rwanda West,15202.0,11444.0,1204.0,324.0
+9994,Burundi West,5.0,0.0,Burundi,Africa,Burundi West,14515.0,7412.0,4376.0,323.0
+9995,Burundi East,13.0,0.0,Burundi,Africa,Burundi East,12342.0,5740.0,5782.0,323.0
+9996,Central,8.0,0.0,Ethiopia,Africa,Central,10467.0,867.0,7967.0,322.0
+9997,Eastern,7.0,3.0,Ethiopia,Africa,"Eastern
+",6133.0,354.0,4681.0,322.0
+9998,East Gojam,10.0,1.0,Ethiopia,Africa,East Gojam,14255.0,7268.0,9448.0,323.0
+9999,North Wollo,20.0,1.0,Ethiopia,Africa,North Wollo,12222.0,6940.0,4952.0,322.0
+10000,Oromia,16.0,3.0,Ethiopia,Africa,Oromia,3782.0,428.0,677.0,322.0
+10001,South Gonder,10.0,3.0,Ethiopia,Africa,South Gonder,14156.0,9281.0,11285.0,323.0
+10002,Wag Himra,9.0,3.0,Ethiopia,Africa,Wag Himra,8941.0,1423.0,6682.0,322.0
+10003,West Gojam,12.0,2.0,Ethiopia,Africa,West Gojam,13329.0,7832.0,7174.0,323.0
+10004,Metekel,6.0,0.0,Ethiopia,Africa,Metekel,25632.0,2367.0,12700.0,313.0
+10005,Sidama,13.0,7.0,Ethiopia,Africa,Sidama,6874.0,3315.0,4896.0,323.0
+10006,South Omo,20.0,1.0,Ethiopia,Africa,South Omo,22743.0,736.0,17640.0,313.0
+10007,West Shewa,8.0,2.0,Ethiopia,Africa,West Shewa,15277.0,10339.0,7582.0,323.0
+10008,Gamo Gofa,23.0,0.0,Ethiopia,Africa,Gamo Gofa,12114.0,2671.0,6786.0,323.0
+10009,Keffa,14.0,0.0,Ethiopia,Africa,Keffa,10512.0,3183.0,6783.0,324.0
+10010,Liben,0.0,0.0,Ethiopia,Africa,Liben,36101.0,8.0,36004.0,312.0
+10011,North Western,14.0,0.0,Ethiopia,Africa,North Western,11854.0,615.0,6967.0,322.0
+10012,Agnuak,0.0,0.0,Ethiopia,Africa,Agnuak,23591.0,65.0,15212.0,313.0
+10013,East Shewa,7.0,2.0,Ethiopia,Africa,East Shewa,10020.0,5180.0,386.0,323.0
+10014,East Wellega,12.0,0.0,Ethiopia,Africa,East Wellega,13938.0,7514.0,4933.0,323.0
+10015,Dire Dawa,13.0,6.0,Ethiopia,Africa,Dire Dawa,1054.0,56.0,1009.0,322.0
+10016,Hareri,17.0,3.0,Ethiopia,Africa,Hareri,371.0,17.0,359.0,322.0
+10017,Afar 2,0.0,0.0,Ethiopia,Africa,Afar 2,27676.0,1.0,1177.0,311.0
+10018,North Shewa R4,9.0,1.0,Ethiopia,Africa,North Shewa R4,11246.0,7273.0,6285.0,323.0
+10019,South West Shewa,11.0,0.0,Ethiopia,Africa,South West Shewa,6571.0,5435.0,765.0,323.0
+10020,Doolo,0.0,0.0,Ethiopia,Africa,Doolo,53351.0,0.0,42659.0,311.0
+10021,Asosa,6.0,0.0,Ethiopia,Africa,Asosa,14315.0,2156.0,11102.0,313.0
+10022,Jimma,11.0,0.0,Ethiopia,Africa,Jimma,18349.0,8749.0,8076.0,324.0
+10023,West Harerge,17.0,8.0,Ethiopia,Africa,West Harerge,17458.0,3971.0,9881.0,322.0
+10024,Gedio,0.0,0.0,Ethiopia,Africa,Gedio,1336.0,619.0,710.0,323.0
+10025,Konta,11.0,0.0,Ethiopia,Africa,Konta,2352.0,1194.0,962.0,323.0
+10026,Borena,18.0,16.0,Ethiopia,Africa,Borena,52276.0,714.0,50541.0,322.0
+10027,North Shewa R3,17.0,0.0,Ethiopia,Africa,North Shewa R3,16185.0,6990.0,7921.0,322.0
+10028,Hadiya,9.0,0.0,Ethiopia,Africa,Hadiya,3653.0,2190.0,1721.0,324.0
+10029,Yem,8.0,1.0,Ethiopia,Africa,Yem,750.0,440.0,346.0,324.0
+10030,Afder,0.0,0.0,Ethiopia,Africa,Afder,61670.0,12.0,59909.0,311.0
+10031,Jarar,0.0,0.0,Ethiopia,Africa,Jarar,39778.0,879.0,29924.0,311.0
+10032,Shabelle,0.0,0.0,Ethiopia,Africa,Shabelle,33143.0,95.0,31552.0,311.0
+10033,Alaba,7.0,4.0,Ethiopia,Africa,Alaba,864.0,703.0,13.0,323.0
+10034,Fafan,25.0,8.0,Ethiopia,Africa,Fafan,12122.0,4059.0,10137.0,322.0
+10035,Basketo,7.0,0.0,Ethiopia,Africa,Basketo,419.0,41.0,287.0,313.0
+10036,Siti,0.0,0.0,Ethiopia,Africa,Siti,30243.0,139.0,7526.0,312.0
+10037,East Harerge,15.0,3.0,Ethiopia,Africa,East Harerge,25000.0,3737.0,21179.0,322.0
+10038,Guji,21.0,3.0,Ethiopia,Africa,Guji,18659.0,2326.0,16549.0,323.0
+10039,Dawro,13.0,0.0,Ethiopia,Africa,Dawro,4378.0,2180.0,692.0,324.0
+10040,KT,10.0,0.0,Ethiopia,Africa,KT,1401.0,771.0,338.0,324.0
+10041,Gurage,12.0,1.0,Ethiopia,Africa,Gurage,5952.0,4148.0,1775.0,323.0
+10042,Majang,12.0,0.0,Ethiopia,Africa,Majang,2331.0,27.0,472.0,313.0
+10043,Nuer,0.0,0.0,Ethiopia,Africa,Nuer,4786.0,2.0,3349.0,313.0
+10044,Region 14,6.0,12.0,Ethiopia,Africa,Region 14,539.0,161.0,0.0,323.0
+10045,Sheka,8.0,0.0,Ethiopia,Africa,Sheka,2345.0,219.0,830.0,324.0
+10046,Selti,11.0,3.0,Ethiopia,Africa,Selti,2582.0,2063.0,576.0,323.0
+10047,No Name,0.0,0.0,Ethiopia,Africa,No Name,3083.0,66.0,135.0,323.0
+10048,North Gonder,7.0,0.0,Ethiopia,Africa,North Gonder,42939.0,12869.0,21605.0,322.0
+10049,South Wollo,21.0,0.0,Ethiopia,Africa,South Wollo,17225.0,9635.0,11427.0,323.0
+10050,Awi Agew,14.0,0.0,Ethiopia,Africa,Awi Agew,8951.0,4412.0,4440.0,323.0
+10051,Wolayita,10.0,0.0,Ethiopia,Africa,Wolayita,4459.0,2525.0,1309.0,323.0
+10052,Nogob,0.0,0.0,Ethiopia,Africa,Nogob,14188.0,116.0,14012.0,312.0
+10053,Korahe,0.0,0.0,Ethiopia,Africa,Korahe,32219.0,1.0,28097.0,311.0
+10054,Western,9.0,4.0,Ethiopia,Africa,Western,13237.0,3672.0,6589.0,312.0
+10055,Special Woreda,0.0,0.0,Ethiopia,Africa,Special Woreda,309.0,44.0,67.0,322.0
+10056,Kemashi,12.0,1.0,Ethiopia,Africa,Kemashi,10090.0,1359.0,4752.0,313.0
+10057,Arsi,17.0,4.0,Ethiopia,Africa,Arsi,20975.0,9023.0,10234.0,323.0
+10058,Bale,24.0,2.0,Ethiopia,Africa,Bale,54649.0,4614.0,49292.0,322.0
+10059,Horo Guduru,10.0,0.0,Ethiopia,Africa,Horo Guduru,8086.0,3514.0,4710.0,323.0
+10060,Ilubabor,15.0,0.0,Ethiopia,Africa,Ilubabor,15536.0,5356.0,6391.0,324.0
+10061,Kelem Wellega,16.0,0.0,Ethiopia,Africa,Kelem Wellega,9419.0,2328.0,3322.0,323.0
+10062,West Arsi,12.0,1.0,Ethiopia,Africa,West Arsi,12569.0,5682.0,6291.0,323.0
+10063,West Wellega,10.0,0.0,Ethiopia,Africa,West Wellega,12846.0,6697.0,6597.0,323.0
+10064,Bench Maji,15.0,0.0,Ethiopia,Africa,Bench Maji,18999.0,1161.0,14136.0,313.0
+10065,Southern,6.0,6.0,Ethiopia,Africa,Southern,10147.0,2236.0,5140.0,322.0
+10066,Afar 1,7.0,0.0,Ethiopia,Africa,Afar 1,34770.0,356.0,4075.0,311.0
+10067,Afar 4,0.0,0.0,Ethiopia,Africa,Afar 4,10739.0,10.0,1469.0,312.0
+10068,Afar 5,0.0,0.0,Ethiopia,Africa,Afar 5,5401.0,13.0,233.0,312.0
+10069,Afar 3,17.0,8.0,Ethiopia,Africa,Afar 3,16572.0,324.0,3069.0,312.0
+10070,Segen Peoples,19.0,9.0,Ethiopia,Africa,Segen Peoples,6813.0,382.0,6288.0,323.0
+10071,,,,,,South,7038.0,3363.0,2893.0,
+10072,,,,,,Transversal,10452.0,5823.0,3097.0,
+10073,,,,,,North,3733.0,1896.0,793.0,
+10074,,,,,,West,5687.0,2736.0,844.0,
+10075,,,,,,South,21169.0,5779.0,13241.0,
+10076,,,,,,Central,36485.0,3785.0,7403.0,
+10077,,,,,,East,15501.0,5698.0,7004.0,
+10078,,,,,,North,35949.0,6321.0,9201.0,
+10079,Grande Anse,7.0,1.0,Haiti,North America,,,,,
+10080,Nord Est,11.0,0.0,Haiti,North America,,,,,
+10081,Nord Ouest,29.0,2.0,Haiti,North America,,,,,
+10082,Ouest,12.0,0.0,Haiti,North America,,,,,
+10083,Nippes,9.0,0.0,Haiti,North America,,,,,
+10084,Sud Est,22.0,0.0,Haiti,North America,,,,,
+10085,Artibonite,10.0,0.0,Haiti,North America,,,,,
+10086,Centre,7.0,0.0,Haiti,North America,,,,,
+10087,Sud,15.0,1.0,Haiti,North America,,,,,
+10088,Nord,11.0,0.0,Haiti,North America,,,,,
+10089,Western,9.0,0.0,El Salvador,North America,,,,,
+10090,Central,2.0,0.0,El Salvador,North America,,,,,
+10091,Northern,5.0,0.0,El Salvador,North America,,,,,
+10092,Coastal,0.0,0.0,El Salvador,North America,,,,,
+10093,Eastern,8.0,0.0,El Salvador,North America,,,,,
+10094,Huehuetenango,25.0,0.0,Guatemala,North America,,,,,
+10095,Izabal,18.0,0.0,Guatemala,North America,,,,,
+10096,Central Area,5.0,0.0,Guatemala,North America,,,,,
+10097,Motagua Valley,17.0,1.0,Guatemala,North America,,,,,
+10098,Southern Area,5.0,0.0,Guatemala,North America,,,,,
+10099,Eastern Area,6.0,0.0,Guatemala,North America,,,,,
+10100,Quiché,24.0,0.0,Guatemala,North America,,,,,
+10101,Petén,8.0,0.0,Guatemala,North America,,,,,
+10102,Verapaz,12.0,0.0,Guatemala,North America,,,,,
+10103,Western,6.0,0.0,Guatemala,North America,,,,,
+10104,Kavango West,6.0,10.0,Namibia,Africa,,,,,
+10105,Kavango East,5.0,7.0,Namibia,Africa,,,,,
+10106,Nyugat-Dunántúl,20.0,4.0,Hungary,Europe,,,,,
+10107,Dél-Dunántúl,20.0,3.0,Hungary,Europe,,,,,
+10108,Közép-Dunántúl,22.0,3.0,Hungary,Europe,,,,,
+10109,Dél-Alföld,22.0,0.0,Hungary,Europe,,,,,
+10110,Közép-Magyar.,21.0,7.0,Hungary,Europe,,,,,
+10111,Észak-Alföld,19.0,3.0,Hungary,Europe,,,,,
+10112,Észak-Magyar.,24.0,7.0,Hungary,Europe,,,,,
+10113,Kwango,9.0,0.0,D.R. Congo,Africa,,,,,
+10114,Mongala,5.0,0.0,D.R. Congo,Africa,,,,,
+10115,Tshuapa,0.0,0.0,D.R. Congo,Africa,,,,,
+10116,Sankuru,0.0,0.0,D.R. Congo,Africa,,,,,
+10117,Haut-Lomami,10.0,0.0,D.R. Congo,Africa,,,,,
+10118,Tanganyika,9.0,0.0,D.R. Congo,Africa,,,,,
+10119,Kinshasa,8.0,0.0,D.R. Congo,Africa,,,,,
+10120,Bas-Uele,1.0,0.0,D.R. Congo,Africa,,,,,
+10121,Haut-Uele,3.0,0.0,D.R. Congo,Africa,,,,,
+10122,Ituri,6.0,0.0,D.R. Congo,Africa,,,,,
+10123,Mai-Ndombe,0.0,0.0,D.R. Congo,Africa,,,,,
+10124,Kwilu,10.0,0.0,D.R. Congo,Africa,,,,,
+10125,Kasai,0.0,0.0,D.R. Congo,Africa,,,,,
+10126,Equateur,0.0,0.0,D.R. Congo,Africa,,,,,
+10127,Kasai-Central,12.0,0.0,D.R. Congo,Africa,,,,,
+10128,Kasai-Oriental,9.0,0.0,D.R. Congo,Africa,,,,,
+10129,Lomami,12.0,0.0,D.R. Congo,Africa,,,,,
+10130,Maniema,15.0,0.0,D.R. Congo,Africa,,,,,
+10131,Tshopo,4.0,0.0,D.R. Congo,Africa,,,,,
+10132,Lualaba,4.0,0.0,D.R. Congo,Africa,,,,,
+10133,Haut-Katanga,7.0,0.0,D.R. Congo,Africa,,,,,
+10134,South Ubangi,7.0,0.0,D.R. Congo,Africa,,,,,
+10135,North Ubangi,3.0,0.0,D.R. Congo,Africa,,,,,
+10136,South Kivu,11.0,0.0,D.R. Congo,Africa,,,,,
+10137,North Kivu,17.0,0.0,D.R. Congo,Africa,,,,,
+10138,Kongo-Central,5.0,0.0,D.R. Congo,Africa,,,,,
+10139,Chari-Baguirmi,7.0,3.0,Chad,Africa,,,,,
+10140,Borkou,0.0,0.0,Chad,Africa,,,,,
+10141,Ennedi Ouest,0.0,0.0,Chad,Africa,,,,,
+10142,Logone Oriental,6.0,1.0,Chad,Africa,,,,,
+10143,Mayo-Kebbi Est,4.0,1.0,Chad,Africa,,,,,
+10144,Mayo-Kebbi Ouest,4.0,2.0,Chad,Africa,,,,,
+10145,Sila,8.0,4.0,Chad,Africa,,,,,
+10146,Ennedi Est,0.0,0.0,Chad,Africa,,,,,
+10147,Barh-El-Gazal,0.0,0.0,Chad,Africa,,,,,
+10148,Batha,4.0,8.0,Chad,Africa,,,,,
+10149,Moyen-Chari,3.0,0.0,Chad,Africa,,,,,
+10150,Hadjer-Lamis,7.0,5.0,Chad,Africa,,,,,
+10151,Tandjile,4.0,0.0,Chad,Africa,,,,,
+10152,Kanem,0.0,0.0,Chad,Africa,,,,,
+10153,Lac,5.0,1.0,Chad,Africa,,,,,
+10154,N'Djamena,0.0,0.0,Chad,Africa,,,,,
+10155,Ouaddai,5.0,6.0,Chad,Africa,,,,,
+10156,Salamat,11.0,3.0,Chad,Africa,,,,,
+10157,Tibesti,0.0,0.0,Chad,Africa,,,,,
+10158,Wadi Fira,3.0,6.0,Chad,Africa,,,,,
+10159,Guera,6.0,4.0,Chad,Africa,,,,,
+10160,Mandoul,4.0,0.0,Chad,Africa,,,,,
+10161,Logone Occid.,6.0,0.0,Chad,Africa,,,,,
